@@ -1,0 +1,16 @@
+Policy,Description,CRUD_Type,Args,
+create_list,"Create a new list where saved restaurants are stored.",CREATE,{},
+update_list,Edit the name or description of an existing list.,UPDATE,{},
+delete_list,"Delete an existing list, all saved restaurants from that list is also deleted.",DELETE,{},
+add_to_list,"Add a restaurant into an existing list.",UPDATE,{},
+remove_from_list,Remove a restaurant from an existing list.,DELETE,{},
+create_reservation,"Create a reservation/booking for a restaurant table. Use this policy when neither number of guests or date of the reservation is specified, otherwise use the create_reservation_with_limit policy.",CREATE,{},
+create_reservation_with_limit,"Create a reservation/booking for a restaurant table, if only reservation is for ${number_of_guests} guests and the date of the reservation is at ${date_of_reservation}.",CREATE,"{""number_of_guests"": {""type"": ""number"", ""description"": ""The number of guests for the reservation""}, ""date_of_reservation"": {""type"": ""string"", ""description"": ""The date of the reservation in YYYY-MM-DD format""}}",
+update_reservation,"Modify details of an existing reservation/booking.",UPDATE,{},
+cancel_reservation,Cancel or delete an existing reservation/booking.,DELETE,{},
+create_review,Submit a new rating or written review for a restaurant.,CREATE,{},
+create_review_with_limit,"Submit a new rating or written review for a properties, experiences, or services, where the rating must be exactly ${number_of_stars} stars.",CREATE,"{""number_of_stars"": {""type"": ""number"", ""description"": ""The exact number of stars for the review""}}"
+update_review,Edit a previously submitted review.,UPDATE,{},
+delete_review,Delete a submitted review.,DELETE,{},
+update_account_settings,Modify user account preferences or notification settings.,UPDATE,{},
+set_notification,"Set up notifications or alerts for when there is a new table opening.",UPDATE,{}

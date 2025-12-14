@@ -1,0 +1,29 @@
+Policy,Description,CRUD_Type,Args
+create_review,Submit a new product review/feedback or rating.,CREATE,{}
+update_review,Edit or modify an existing review/feedback.,UPDATE,{}
+delete_review,Remove a review/feedback the user previously posted.,DELETE,{}
+add_to_cart,Add an item to the shopping cart or cart.,CREATE,"{""quantity"": {""type"": ""number"", ""description"": ""The number of units to add""}}"
+add_to_cart_price_limit,Add an item to the shopping cart or cart only if the unit price is less than ${max_unit_price}.",CREATE,"{""quantity"": {""type"": ""number"", ""description"": ""The number of units to add""}, ""max_unit_price"": {""type"": ""number"", ""description"": ""The maximum unit price allowed for the items being added""}}"
+update_quantity,"Change quantities of items already in the shopping cart.",UPDATE,"{""quantity"": {""type"": ""number"", ""description"": ""The updated number of units""}}"
+update_delivery_option,"Select delivery options for the current order. Only valid for the current order. This is NOT an account setting.",UPDATE,"{""delivery_method"": {""type"": ""Literal['shipping', 'pickup in-store', 'click-and-collect']"", ""description"": ""The delivery method chosen for the current order. Only three options available: 'shipping', 'pickup in-store', or 'click-and-collect'.""}}"
+remove_from_cart,Remove an item or coupon from the shopping cart.,DELETE,{}
+apply_promo_code,Apply discount or promotional code during checkout or in cart.,CREATE,"{""promo_code"": {""type"": ""string"", ""description"": ""The promotional code to apply. A string of uppercase letters and/or numbers, without spaces. For example, 'SAVE20' or 'FREESHIP'""}}"
+remove_promo_code,Remove applied discount or promotional code.,DELETE,{}
+checkout_cart,Checkout items in the shopping cart.,CREATE,{}
+checkout_cart_total_limit,Allow checkout items in the shopping cart if total amount is less than ${max_total_price},CREATE,"{""max_total_price"": {""type"": ""number"", ""description"": ""The maximum total amount allowed for the order""}}"
+cancel_order,Cancel an existing order before shipment.,DELETE,{}
+return_order,Initiate a return or refund request for a past order.,UPDATE,{}
+track_order,View shipment tracking or delivery status.,READ,{}
+create_list,Create a NEW list/wishlist/board/collection.,CREATE,{}
+add_to_list,Add an item to an existing list/wishlist/board/collection.,CREATE,{}
+remove_from_list,Remove an item from a list/wishlist/board/collection.,DELETE,{}
+delete_list,Delete an entire list/wishlist/board/collection. Does NOT include removing specific items from the list.,DELETE,{}
+update_list_info,"Modify the metadata of a list/wishlist/board/collection, including name and description.",UPDATE,{}
+update_basic_profile_info,"Modify personal email address or phone number in account settings.",UPDATE,"{""field"": {""type"": ""Literal['email', 'phone']"", ""description"": ""The profile field to update (e.g., address, phone number)""}, ""new_value"": {""type"": ""string"", ""description"": ""The new value for the field (email or phone number).""}}"
+update_address,"Change or add a new shipping address.",UPDATE,"{""is_primary"": {""type"": ""boolean"", ""description"": ""Whether the new address is the primary shipping address""}}"
+update_delivery_preference,"Change user's default delivery preferences in account setting (e.g., delivery address, delivery instructions).",UPDATE,"{""delivery_preference"": {""type"": ""Literal['shipping', 'pickup in-store', 'click-and-collect']"", ""description"": ""The updated delivery preference for the user. Only three options available: 'shipping', 'pickup in-store', or 'click-and-collect'.""}}"
+update_notification_preference,"Change user's default notification preferences in account setting (e.g., email, SMS).",UPDATE,"{""notification_preference"": {""type"": ""Literal['email', 'SMS']"", ""description"": ""The updated notification preference for the user. Only two options available: 'email' or 'SMS'.""}, ""frequency"": {""type"": ""Literal['daily', 'weekly', 'monthly']"", ""description"": ""The frequency for receiving notifications. Only three options available: 'daily', 'weekly', or 'monthly'.""}}"
+post_question,Post a product-related question in Q&A section.,CREATE,{}
+make_appointment,"Schedule a pickup, delivery, or installation appointment.",CREATE,{}
+manage_membership,"Start or end membership services (e.g., Amazon Prime, Costco membership).",UPDATE,"{""action"": {""type"": ""Literal['start', 'end']"", ""description"": ""The action to perform on the membership. Only two options available: 'start' or 'end'.""}}"
+contact_support,"Contact customer service (e.g., via chat, message, or email). This does NOT include visiting FAQs, payment options, or return/shipping policies.",CREATE,{}

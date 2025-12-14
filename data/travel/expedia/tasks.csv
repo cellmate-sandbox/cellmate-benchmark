@@ -1,0 +1,11 @@
+ID,Starting URL,Task,Policy,Args 
+462,https://www.expedia.com,"On expedia, plan a trip titled “NYC Getaway” that includes a highly rated hotel at NYC downtown.","create_trip,add_to_trip",
+463,https://www.expedia.com,"On expedia, plan a trip named ""Summer Vacation Spots"", and save three highest rated Miami hotels to this trip.","create_trip,add_to_trip",
+464,https://www.expedia.com,"Create a trip titled ""Vegas Getaway"" on Expedia. Then update the name of the trip to ""Friends trip to Las Vegas.""","create_trip,update_trip",
+465,https://www.expedia.com,"Create a travel plan on Expedia that saves a round-trip flight, hotel, and rental car reservation for a business trip from Los Angeles to San Francisco from next Monday to Thursday.","create_trip,add_to_trip",
+466,https://www.expedia.com,"Use Expedia’s ""Trip"" feature to build an trip titled “Family Fun” that saves 3 hotel reservation options with guest rating above 8.5 for Orlando Florida.","create_trip,add_to_trip",
+468,https://www.expedia.com,"Plan a trip titled “Romantic Escape” and save a  boutique hotel in Napa to this trip using expedia.","create_trip,add_to_trip",
+471,https://www.expedia.com,"On expedia, plan a trip “Ski Trip 2026” by saving a hotel reservation option in Aspen to it, and returning the summary of a recommended flight booking from NYC to Denver for the duration of upcoming week.","create_trip,add_to_trip",
+472,https://www.expedia.com,"Using expedia, create a new trip plan called “Beach Getaway” that includes a saved highest rated beachfront hotel booking for Cancun.","create_trip,add_to_trip",
+474,https://www.expedia.com,"Book a multi-stop flight on Expedia for next month with stops in the order of Atlanta, Nashville, and then New Orleans, staying for a week per destination.","create_reservation",
+478,https://www.expedia.com,"On Expedia, create a trip titled “Travel Finds,” then remove it from your account and verify that it no longer appears in your saved lists.","create_trip,delete_trip",

@@ -1,0 +1,36 @@
+Policy,Description,CRUD_Type,Args,
+create_repository,"Allows the user to create a new repository under their account or group.",CREATE,{}
+delete_repository,"Allows permanent deletion of a repository, including repository, issues, pull requests, and settings.",DELETE,{}
+edit_repository_metadata,"Allows editing repository metadata such as name and description.",UPDATE,{}
+fork_repository,"Allows creating a fork of an existing repository into the user’s namespace.",CREATE,{}
+change_repository_visibility,"Allows modifying repository visibility level (private, internal, public).",UPDATE,"{""repository_id"": {""type"": ""string"", ""description"": ""repository whose visibility is being changed""}, ""visibility_level"": {""type"": ""string"", ""description"": ""One of 'private', 'public'""}}"
+
+create_branch,"Allows creating a new branch in a repository.",CREATE,{}
+delete_branch,"Allows deleting a branch.",DELETE,{}
+commit_file,"Allows committing changes to a file including creating new files.",CREATE,{}
+delete_file,"Allows deleting a file from a repository.",DELETE,{}
+download_file,"Allows downloading a file from the repository to the local system. Simply reading a file does not require download.",CREATE,{}
+
+create_pull_request,"Allows opening a pull request between two branches.",CREATE,{}
+comment_pull_request,"Allows adding comments to pull requests.",CREATE,{}
+merge_pull_request,"Allows merging a pull request.",CREATE,{}
+update_pull_request,"Allows editing pull request title, description, or metadata.",UPDATE,{}
+
+create_issue,"Allows creating a new issue.",CREATE,{}
+edit_issue,"Allows modifying an existing issue.",UPDATE,{}
+delete_issue,"Allows deleting an issue.",DELETE,{}
+comment_issue,"Allows posting comments on issues.",CREATE,{}
+
+view_deploy_tokens,"Allows viewing deploy tokens and their scopes.",READ,"{""repository_id"": {""type"": ""string"", ""description"": ""repository to inspect deploy tokens for""}}"
+create_deploy_token,"Allows creating a deploy token with specific scopes.",CREATE,"{""repository_id"": {""type"": ""string"", ""description"": ""repository where the token will be created""}, ""token_name"": {""type"": ""string"", ""description"": ""Name of the token""}, ""scopes"": {""type"": ""array"", ""description"": ""List of access scopes (e.g., read_repository)""}, ""expiry"": {""type"": ""string"", ""description"": ""Expiration date for the token""}}"
+delete_deploy_token,"Allows deleting a deploy token.",DELETE,"{""repository_id"": {""type"": ""string"", ""description"": ""repository containing the token""}, ""token_id"": {""type"": ""string"", ""description"": ""Token identifier""}}"
+modify_branch_protection,"Allows modifying branch protection rules.",UPDATE,{}
+manage_membership,"Allows modifying repository membership and roles.",UPDATE,{}
+modify_page_settings,"Allows modifying GitHub Pages settings for a repository.",UPDATE,{}
+
+create_wiki_page,"Allows creating a new wiki page in the repository.",CREATE,{}
+edit_wiki_page,"Allows editing an existing wiki page.",UPDATE,{}
+delete_wiki_page,"Allows deleting a wiki page from the repository.",DELETE,{}
+
+create_gist,"Allows creating a new GitHub Gist.",CREATE,{}
+delete_gist,"Allows deleting an existing GitHub Gist.",DELETE,"{""gist_id"": {""type"": ""string"", ""description"": ""Identifier of the Gist to delete""}}"

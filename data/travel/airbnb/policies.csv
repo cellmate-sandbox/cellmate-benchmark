@@ -1,0 +1,18 @@
+Policy,Description,CRUD_Type,Args,
+create_wishlist,"Create a new wishlist save items, including properties, experiences, or services",CREATE,{},
+rename_wishlist,rename an existing wishlist.,UPDATE,{},
+delete_wishlist,"Delete an existing wishlist, including all existing items in this wishlist.",DELETE,{},
+add_to_wishlist,"Add an item (properties, experiences, or services) into an existing wishlist.",UPDATE,{},
+remove_from_wishlist,Remove an item from an existing wishlist.,DELETE,{},
+send_message,Send a message or inquiry to a property owner or service provider.,CREATE,{},
+delete_message,Delete a previously sent message.,DELETE,{},
+create_reservation,"Create a reservation for a property. Use this policy when neither duration of reservation or cost per day of the reservation is specified, otherwise use the create_reservation_with_limit policy",CREATE,{},
+create_reservation_with_limit,"Create a reservation for a property, if only the duration of the reservation is ${duration} day and the cost per day is less than ${cost_per_day} dollars.",CREATE,"{""duration"": {""type"": ""number"", ""description"": ""The number of days for the reservation""}, ""cost_per_day"": {""type"": ""number"", ""description"": ""The maximum cost per day for the reservation""}}"
+cancel_reservation,Cancel an existing reservation.,DELETE,{},
+create_review,"Submit a new rating or written review for a properties, experiences, or services.",CREATE,{},
+create_review_with_limit,"Submit a new rating or written review for a properties, experiences, or services, where the rating must be exactly ${number_of_stars} stars.",CREATE,"{""number_of_stars"": {""type"": ""number"", ""description"": ""The exact number of stars for the review""}}"
+update_review,Edit a previously submitted review.,UPDATE,{},
+delete_review,Delete a submitted review.,DELETE,{},
+update_account_settings,Modify user account preferences or notification settings.,UPDATE,{},
+post_listing,"Publish a listing for properties, experiences, or services, i.e. becoming a host for property.",CREATE,{},
+update_listing,Modify an existing published listing.,UPDATE,{},
