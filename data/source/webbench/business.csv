@@ -1,0 +1,107 @@
+ID,Starting URL,Category,Task
+299,https://www.crunchbase.com,CREATE,"Log in to Crunchbase and create a new list titled ""Tech Unicorns,"" then add the companies Uber, Airbnb, and Stripe to the list.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+300,https://www.crunchbase.com,CREATE,"Create a custom alert for new funding rounds in the Fintech sector with a notification threshold of $50M, and set the alert delivery to email.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+302,https://www.crunchbase.com,CREATE,"Build a watchlist titled ""Emerging AI Startups"" by selecting and saving at least 5 companies from recent search results.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+303,https://www.crunchbase.com,CREATE,"Set up a collaborative workspace for renewable energy startups by adding at least 3 companies to the workspace.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+304,https://www.crunchbase.com,CREATE,"Submit a data correction request on the profile of Acme Corp to update its headquarters address to ""San Francisco, CA.""
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+305,https://www.crunchbase.com,CREATE,"Create a custom dashboard in your Crunchbase Pro account by selecting key metrics for tracking companies in the Biotech sector.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+306,https://www.crunchbase.com,CREATE,"Add ""Tesla Inc."" to your followed companies list so you receive future updates on funding and corporate changes.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+307,https://www.crunchbase.com,CREATE,"Initiate the API key generation process in your Crunchbase account and record the new key details for secure storage.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+308,https://www.crunchbase.com,CREATE,"Create a search for companies in Los Angeles and filter for companies in the E-commerce sector and save the updated query.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+309,https://www.crunchbase.com,DELETE,"Log in to your Crunchbase account, create a watchlist called ""AI Startups 3"", and delete the entire list, confirming its removal.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+310,https://www.crunchbase.com,DELETE,"Save a search query for ""companies founded before 2020."" Then delete the saved search query for ""companies founded before 2020"" from your account, and verify its removal.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+311,https://www.crunchbase.com,DELETE,"Follow ""Tesla Inc."" Then access your followed companies list and remove ""Tesla Inc.,"" ensuring it is no longer in your update feed.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+312,https://www.crunchbase.com,FILE_MANIPULATION,"Navigate to the data export section on Crunchbase, export the latest global startup funding report as a CSV file.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+313,https://www.crunchbase.com,FILE_MANIPULATION,"Export a list of companies that have raised over $100M in funding into an Excel file, and review its content to confirm accuracy.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+319,https://www.crunchbase.com,UPDATE,"Create a company profile for fake company ""Lumon Corporation"" and fill in all the information. Put the starting date as 2024. Then update the Lumon company profile information to input the startup’s founding year as 2025. 
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+320,https://www.crunchbase.com,UPDATE,"Rearrange the display order of metrics in your custom dashboard to show funding data first, and save the configuration.
+Only use http://crunchbase.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+404,https://economictimes.indiatimes.com,CREATE,"Log in to your account and create a new watchlist titled “Tech Stocks,” then add the stock “TCS” to this watchlist.
+Only use http://economictimes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+405,https://economictimes.indiatimes.com,CREATE,"Set up email alerts by subscribing to notifications for new articles in the Banking news category.
+Only use http://economictimes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+406,https://economictimes.indiatimes.com,CREATE,"From the markets dashboard, add the “NIFTY 50” index to your personalized market watchlist.
+Only use http://economictimes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+407,https://economictimes.indiatimes.com,DELETE,"Log in, add the “Automobile” category to your saved news topics, then remove it to confirm it no longer appears in your list.
+Only use http://economictimes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+408,https://economictimes.indiatimes.com,DELETE,"Create a temporary watchlist with several stocks, then delete one specific stock from that watchlist and verify its removal.
+Only use http://economictimes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+414,https://economictimes.indiatimes.com,UPDATE,"Modify your personalized news feed settings to include the “Energy Markets” category and save the updated preferences.
+Only use http://economictimes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+415,https://economictimes.indiatimes.com,UPDATE,"Login and create a watchlist with 3 financial services stocks, then update your watchlist by adding the stock “Capital One Financial (COF)” and changing its alert settings to trigger when the price drops.
+Only use http://economictimes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1176,https://www.nasdaq.com,CREATE,"Log in and create a personalized watchlist by adding three companies (e.g., Apple Inc., Tesla, and Amazon) to monitor their real-time performance.
+Only use http://nasdaq.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1177,https://www.nasdaq.com,CREATE,"In the Investor Relations' Contact Us page, submit a request for more detailed financial information for a selected company (e.g., Meta Platforms).
+Only use http://nasdaq.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1178,https://www.nasdaq.com,DELETE,"Log in, add Apple Inc. to your watchlist, then remove it from your personalized watchlist and verify that it no longer appears in your list.
+Only use http://nasdaq.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1184,https://www.nasdaq.com,UPDATE,"Log in, create a personalized watchlist, then access your personalized watchlist and update it by adding ""Tesla"" and ""Alphabet Inc."" to reflect your current interests.
+Only use http://nasdaq.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2166,https://www.worldbank.org/ext/en/home,FILE_MANIPULATION,"Download the latest annual World Bank report available in PDF format from the ""Publications"" or ""Reports"" section.
+Only use http://worldbank.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2167,https://www.worldbank.org/ext/en/home,FILE_MANIPULATION,"From the ""Projects & Operations"" section, download a PDF report related to a loan or grant operation and verify the title mentions ""Loan"" or ""Grant.""
+Only use http://worldbank.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2168,https://www.worldbank.org/ext/en/home,FILE_MANIPULATION,"Find and download a PDF report from the ""Research"" section that discusses global economic trends, confirming that the file name includes ""Economic.""
+Only use http://worldbank.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2169,https://www.worldbank.org/ext/en/home,FILE_MANIPULATION,"Search for and download a policy document available in PDF format that focuses on environmental policies.
+Only use http://worldbank.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2170,https://www.worldbank.org/ext/en/home,FILE_MANIPULATION,"From the ""News"" section, locate and download a press release in PDF format concerning global development funding.
+Only use http://worldbank.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2171,https://www.worldbank.org/ext/en/home,FILE_MANIPULATION,"Search for a research paper on ""Climate Change Adaptation"" published on the site and download the corresponding PDF file.
+Only use http://worldbank.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2394,https://www.bloomberg.com,CREATE,"Set up a new watchlist titled “Tech Giants” by adding Apple Inc., Tesla, and Amazon to it.
+Only use https://www.bloomberg.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2395,https://www.bloomberg.com,CREATE,"Log in to your account and set up a personalized portfolio list for tracking market indices, then add the NASDAQ Composite and FTSE 100 indices.
+Only use https://www.bloomberg.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2396,https://www.bloomberg.com,DELETE,"Set up a new watchlist titled “Tech Giants” by adding Apple Inc., Tesla, and Amazon to it, and remove Tesla from your “Tech Giants” watchlist and confirm that it no longer appears on the list.
+Only use https://www.bloomberg.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2402,https://www.bloomberg.com,UPDATE,"Set up a new watchlist titled “Tech Giants” by adding Apple Inc., Tesla, and Amazon to it., then search for MSFT and add it to the existing list of companies.
+Only use https://www.bloomberg.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2408,https://www.business-standard.com,CREATE,"Log in to your Business Standard account, post a comment on a ""Markets"" article about recent market trends, and include a thoughtful critique.
+Only use https://www.business-standard.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2409,https://www.business-standard.com,CREATE,"Save an article on ""merger announcements"" from the ""Business"" category to your personalized reading list.
+Only use https://www.business-standard.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2410,https://www.business-standard.com,CREATE,"Write a brief review for an article on ""economic reforms,"" including a star rating from 1 to 5, and submit it as a comment.
+Only use https://www.business-standard.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2411,https://www.business-standard.com,CREATE,"Subscribe to the Business Standard newsletter via your account settings and follow the steps as far as you can
+Only use https://www.business-standard.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2412,https://www.business-standard.com,CREATE,"Write and submit an additional comment on an ""Economy"" article complimenting its in-depth market analysis.
+Only use https://www.business-standard.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2413,https://www.business-standard.com,DELETE,"Log in, add 2 articles related to stock prices to your reading list, and then remove an article from your saved reading list in your Business Standard account and verify that it no longer appears in your list.
+Only use https://www.business-standard.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2534,https://www.investing.com,CREATE,"Log in to your Investing.com account, create a new watchlist titled ""Tech Stocks,"" and add Apple Inc., Microsoft, and NVIDIA to it.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2535,https://www.investing.com,CREATE,"Sign in and set up a new price alert for Bitcoin to notify you when its value falls below 20000.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2536,https://www.investing.com,CREATE,"Create a custom economic calendar filter that only shows U.S. economic activities today.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2537,https://www.investing.com,CREATE,"Log in and configure a notification alert for the S&P 500 index to activate when it climbs by more than 2% during a trading session.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2538,https://www.investing.com,CREATE,"Log in, customize an interactive chart for gold prices by adding three technical indicators (for example, MACD, RSI, and Bollinger Bands) and save the configuration.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2539,https://www.investing.com,CREATE,"Log in, set up a custom screener to identify stocks with a dividend yield above 5% and store your screening criteria for future use.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2540,https://www.investing.com,DELETE,"Log in, add Tesla stock to your watchlist, then remove it and verify its complete removal from your list.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2541,https://www.investing.com,DELETE,"Log in, create a custom economic calendar filter, then delete it and ensure it is removed from your notification settings.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2547,https://www.investing.com,UPDATE,"Log in and change your site language setting to French.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2548,https://www.investing.com,UPDATE,"Log in, update your personalized market screener by adding a filter for companies with a debt-to-equity ratio below 1.
+Only use https://www.investing.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

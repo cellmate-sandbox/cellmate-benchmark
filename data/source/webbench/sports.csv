@@ -1,0 +1,59 @@
+ID,Starting URL,Category,Task
+1272,https://www.olympics.com,CREATE,"Register a new account on olympics.com and set up personalized notification preferences to receive updates about upcoming Olympic events.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1273,https://www.olympics.com,CREATE,"Create a personalized favorites list titled ""My Olympic Heroes"" in your account and add the profiles of Simone Biles, Michael Phelps, and Usain Bolt to it.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1274,https://www.olympics.com,CREATE,"Subscribe to the olympics.com newsletter by entering your email address to receive monthly updates on upcoming events and news.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1275,https://www.olympics.com,CREATE,"Set up a notification alert within your account settings to receive immediate updates when new live stream schedules are posted.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1276,https://www.olympics.com,CREATE,"Sign up for the ""Let's Move"" campaign by completing the registration form provided on the campaign page.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1277,https://www.olympics.com,CREATE,"Create a custom preference filter in your account to receive articles solely about aquatic sports and save this filter for future sessions.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1278,https://www.olympics.com,DELETE,"In your personalized favorites list, add three track athlete to your favorites list, then remove one athlete’s profile using the delete option and verify that the list updates accordingly.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1284,https://www.olympics.com,UPDATE,"Log in to your olympics.com account and update your notification settings to receive alerts only for Olympic qualification events.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1285,https://www.olympics.com,UPDATE,"After creating your personalized favorites list, update it by adding an additional athlete from the swimming category.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1286,https://www.olympics.com,UPDATE,"Navigate to your account settings and change your language preference from English to French.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1287,https://www.olympics.com,UPDATE,"Update your profile information by changing your username and adding a short bio about your interest in the Olympic Movement.
+Only use http://olympics.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1558,https://www.sofascore.com,CREATE,"Sign in and using the tournament management tool, add a new tournament named ""Spring Invitational 2023"" along with scheduled match dates for the participating teams.
+Only use http://sofascore.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1559,https://www.sofascore.com,CREATE,"In your personal account, build a favorites list by adding the teams Barcelona, Real Madrid, and Manchester United.
+Only use http://sofascore.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1560,https://www.sofascore.com,CREATE,"As a tournament organizer, use the league creation tool to initiate a ""Local Basketball Tournament"" by setting up match schedules and team entries.
+Only use http://sofascore.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1561,https://www.sofascore.com,CREATE,"Utilize the platform’s editor to design a tournament bracket for a local tennis event called ""Summer Open 2023"" and specify the match-up timings.
+Only use http://sofascore.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1567,https://www.sofascore.com,UPDATE,"Log in to your Sofascore account, create a favorites list with Real Madrid, then navigate to your favorites list, and update it by adding Paris Saint-Germain.
+Only use http://sofascore.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1568,https://www.sofascore.com,UPDATE,"Access your tournament organizer profile and modify the ""City Champions"" league details by updating the team roster to include a new entrant, Local United.
+Only use http://sofascore.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1569,https://www.sofascore.com,UPDATE,"Go to your account settings and change your language preference from English to Spanish.
+Only use http://sofascore.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1573,https://www.sportskeeda.com,CREATE,"Log in to your Sportskeeda account and post a comment on the latest ""UEFA Champions League"" article sharing your opinion on the match outcome.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1574,https://www.sportskeeda.com,CREATE,"Submit a user-generated article titled ""Top 10 Underrated Athletes of 2023"" using Sportskeeda’s article submission form.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1575,https://www.sportskeeda.com,CREATE,"Create a new comment thread under an article in the ""Tennis"" section asking readers for their predictions about the upcoming tournament.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1576,https://www.sportskeeda.com,CREATE,"Write a comment on an ""NBA Analysis"" article that includes your rating of a specific player's performance in the featured match.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1577,https://www.sportskeeda.com,CREATE,"Post your thoughts as a comment on a ""Tennis"" match preview article, detailing your game expectations.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1578,https://www.sportskeeda.com,CREATE,"Submit feedback on a recently updated ""FIFA World Cup"" article by writing a comment that includes both praise and constructive criticism.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1579,https://www.sportskeeda.com,DELETE,"Log in to your Sportskeeda account and post a comment on an ""NBA Finals"" article. Then delete a comment you previously posted on an ""NBA Finals"" article, then verify that it has been removed from your comment history.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1580,https://www.sportskeeda.com,DELETE,"Log in and create a discussion thread in the community forum, then remove the same discussion thread you started in the community forum, ensuring the deletion is visible in your activity log.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1586,https://www.sportskeeda.com,UPDATE,"Access your account settings on Sportskeeda and update your bio to better reflect your interests in both traditional sports and esports.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1587,https://www.sportskeeda.com,UPDATE,"After posting a comment on an article about ""Cricket Tactics,"" edit your comment to include additional insights and updated match statistics.
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1588,https://www.sportskeeda.com,UPDATE,"Log in to your account and update your linked social media profiles by adding your latest Twitter handle ""abcdefg"" and Instagram profile ""xyzquv"".
+Only use http://sportskeeda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

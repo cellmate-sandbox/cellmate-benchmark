@@ -1,0 +1,13 @@
+[project]
+name = "cellmate-benchmark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "anthropic>=0.75.0",
+    "google-genai>=1.47.0",
+    "openai>=2.11.0",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+]

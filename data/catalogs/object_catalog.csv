@@ -1,0 +1,47 @@
+Category,Object,Definition,Source
+Authentication,Account,"A user account represents the identity container that allows a person to authenticate and access services, settings, and personal data on a platform.",https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-an-Account/ta-p/64
+Navigation,Content,"A piece of digital information such as an article, post, video, or document that can be viewed, searched, or interacted with on a platform.",https://support.google.com/youtube/answer/171780
+Navigation,Search Result,An item returned by a search query that represents a matching piece of content or resource.,https://developers.google.com/search/docs
+Navigation,Dashboard,"A personal overview page that aggregates recent activity, notifications, and shortcuts to commonly accessed resources.",https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-the-Dashboard/ta-p/12
+Navigation,Activity Stream,"A feed that displays recent activity across a user’s content, subscriptions, or courses.",https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-the-Activity-Stream/ta-p/62
+Collection Management,List,"A user-created container that stores a group of items for later reference or organization, such as a wishlist or saved items list.",https://www.amazon.com/gp/help/customer/display.html?nodeId=G7R6C7K39U5GQJ99
+Collection Management,Favorite,A lightweight positive-preference marker applied to content to indicate interest or save it for quick access.,https://support.google.com/youtube/answer/6342839
+Content Creation,Content,"A published piece of user-generated material such as an article, post, video, or message shared on a platform.",https://faq.substack.com/en/articles/1031889-how-to-publish-a-post
+Content Creation,Draft,"An editable, unpublished version of content that can be modified before publication.",https://faq.substack.com/en/articles/1031889-how-to-publish-a-post
+Content Creation,Media,"A digital file such as an image, video, or document that can be uploaded, downloaded, or attached to content.",https://developer.mozilla.org/en-US/docs/Web/Media
+Reviews & Ratings,Review,"A user-generated written evaluation of a product, service, or item.",https://sellercentral.amazon.com/gp/help/external/G202163400
+Reviews & Ratings,Rating,A numeric or scalar evaluation used to measure the quality or usefulness of an item.,https://stackoverflow.com/help/why-vote
+Q&A Interaction,Question,A user-submitted request for information or help posted to a community for answers.,https://stackoverflow.com/help/how-to-ask
+Q&A Interaction,Answer,A response posted to address a question.,https://stackoverflow.com/help/answering
+Q&A Interaction,Comment,A short message attached to a post used for clarification or discussion.,https://stackoverflow.com/help/privileges/comment
+Online Learning,Course,"A container that organizes learning materials, assignments, and communication tools for an educational experience.",https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-a-Course/ta-p/33
+Online Learning,Assignment,An activity or assessment that students must complete as part of a course.,https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-an-Assignment/ta-p/38
+Online Learning,Study Plan,A structured plan of tasks or milestones that guide learners toward completing learning objectives.,https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-learning-objectives/ta-p/1007
+Online Learning,Learning Goal,A defined learning objective used to measure student progress or mastery.,https://community.canvaslms.com/t5/Instructor-Guide/What-are-Outcomes/ta-p/668
+Notifications & Alerts,Alert,A persistent query or topic subscription that notifies the user when new matching content appears.,https://www.google.com/alerts
+Notifications & Alerts,Newsletter Subscription,An opt-in relationship through which posts or updates from a publisher are delivered to subscribers via email.,https://faq.substack.com/en/articles/1263415-how-substack-works
+Profile Management,Profile,"The user-facing representation of an account that includes identity attributes such as name, avatar, avatar frame, and biography.",https://support.google.com/youtube/answer/1646861
+Profile Management,Contact Information,"User-provided details such as email address, phone number, or mailing address used for communication or account recovery.",https://support.google.com/accounts/answer/32046
+Profile Management,Notification Preference,"Settings that determine whether and how a user receives notifications such as invitations, alerts, or updates.",https://support.google.com/groups/answer/9792489
+Profile Management,Language Preference,Settings that control the display language or regional locale used in the interface.,https://support.google.com/accounts/answer/32047
+Profile Management,Membership,"A paid subscription or access level that grants additional features or content beyond a standard account.",https://www.netflix.com/subscribe
+Commerce,Shopping Cart,Software that allows customers to select and manage items they intend to purchase before checkout.,https://www.shopify.com/blog/shopping-cart
+Commerce,Order,A purchase record representing the confirmed transaction after checkout.,https://help.shopify.com/en/manual/orders
+Commerce,Coupon / Discount,A promotional mechanism that reduces the price of items or orders.,https://help.shopify.com/en/manual/discounts
+Commerce,Subscription (Commerce),A recurring billing arrangement where customers automatically pay for products or services at regular intervals.,https://help.shopify.com/en/manual/products/subscriptions
+Commerce,Trade In,An arrangement where customers can exchange an old item for credit toward a new purchase.,https://www.apple.com/shop/trade-in
+Commerce,E-Gift Card,"A digital code that can be redeemed for goods or services. A e-gift card is purchased and then sent to the recipient email inbox.",https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011
+Reservation & Booking,Reservation,"An arrangement in which a resource such as a seat, room, or table is held for a user at a specified time.",https://dictionary.cambridge.org/dictionary/english/reservation
+Reservation & Booking,Appointment,A scheduled meeting or service time with a specific provider or professional.,https://en.wikipedia.org/wiki/Appointment_(meeting)
+Collaboration,Project,"A workspace that groups related tasks, artifacts, and discussions for collaborative work.",https://docs.github.com/en/issues/planning-and-tracking-with-projects
+Collaboration,Share Link,A generated URL that allows other users to access a resource without direct account permissions.,https://support.google.com/drive/answer/2494822
+Developer Collaboration,Repository,A storage location where project files and revision history are maintained.,https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
+Developer Collaboration,Branch,A parallel version of a repository used to develop changes independently before merging.,https://docs.github.com/en/get-started/quickstart/github-flow
+Developer Collaboration,Issue,A tracked item used to report bugs or discuss improvements in a repository.,https://docs.github.com/en/issues
+Developer Collaboration,Pull Request,A proposal to merge changes from one branch or fork into another branch.,https://docs.github.com/en/pull-requests
+Developer Collaboration,Wiki Page,A collaborative documentation page associated with a repository.,https://docs.github.com/en/communities/documenting-your-project-with-wikis
+Developer Collaboration,Discussion,A conversation space used for community questions and discussions related to a project.,https://docs.github.com/en/discussions
+Developer Collaboration,Gist,A simple way to share code snippets using a Git repository hosted by GitHub.,https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists
+Developer Collaboration,File,A digital artifact stored in a repository that can be created or modified.,https://docs.github.com/en/repositories/working-with-files
+Social Platform,Follow Relationship,"A subscription relationship where a user chooses to receive updates from another user, channel, or topic.",https://support.google.com/googlenews/answer/9010862
+Social Platform,Message,"A direct communication sent from one user to another or a group, such as a private message or direct message.",https://support.google.com/youtube/answer/1646861

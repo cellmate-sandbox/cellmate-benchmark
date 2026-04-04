@@ -1,0 +1,106 @@
+Category,Core Object,Action,Description
+Authentication,Account,register_account,Create a new user account
+Authentication,Account,login,Authenticate into an account
+Authentication,Account,logout,Terminate authenticated session
+Authentication,Account,verify_identity,Complete identity verification
+Authentication,Account,reset_password,Reset account password
+Navigation,Content,search_content,Search for content or items
+Navigation,Content,browse_section,Browse categories or sections
+Navigation,Content,view_content,Open item/article/media details
+Navigation,Dashboard,view_dashboard,Access user dashboard
+Navigation,Activity,view_activity,View activity history or logs
+Navigation,Search Results,filter_results,Filter search results
+Navigation,Search Results,sort_results,Sort search results
+Collection Management,List,create_list,Create a new list/playlist/watchlist/library
+Collection Management,List,view_list,View list contents
+Collection Management,List,update_list_metadata,Rename or update list metadata
+Collection Management,List,delete_list,Delete a list/playlist/watchlist/library
+Collection Management,List,add_to_list,Add item to list/playlist/watchlist/library
+Collection Management,List,remove_from_list,Remove item from list/playlist/watchlist/library
+Collection Management,List,move_between_lists,Move item between lists/playlists/watchlists/libraries
+Collection Management,List,share_list,Share list with others
+Collection Management,List,add_to_favorites,Add item to favorites
+Collection Management,List,remove_from_favorites,Remove item from favorites
+Content Creation,Content,create_content,"Create/publish/post/submit content such as listing, posts, articles, media"
+Content Creation,Content,update_content,"Edit or update content such as listing, posts, articles, media"
+Content Creation,Content,delete_content,"Delete content such as listing, posts, articles, media"
+Content Creation,Draft,create_draft,Create draft content
+Content Creation,Draft,update_draft,Edit draft content
+Content Creation,Draft,delete_draft,Delete draft
+Content Creation,Media,upload_content,Upload files or media
+Content Creation,Media,download_content,Download content
+Reviews & Ratings,Review,create_review,Write and submit review and optionally include rating
+Reviews & Ratings,Review,update_review,Edit review or rating
+Reviews & Ratings,Review,delete_review,Delete review
+Reviews & Ratings,Review,vote_review,Upvote or endorse review
+Q&A Interaction,Question,post_question,Submit new question
+Q&A Interaction,Question,upvote_question,Endorse a question
+Q&A Interaction,Answer,post_answer,Submit answer
+Q&A Interaction,Answer,update_answer,Edit answer
+Q&A Interaction,Answer,delete_answer,Delete answer
+Q&A Interaction,Answer,upvote_answer,Endorse answer
+Q&A Interaction,Comment,post_comment,Post comment
+Q&A Interaction,Comment,delete_comment,Delete comment
+Q&A Interaction,Comment,upvote_comment,Endorse comment
+Online Learning,Assignment,create_assignment,Create assignment or task
+Online Learning,Assignment,update_assignment,Modify assignment
+Online Learning,Assignment,delete_assignment,Delete assignment
+Online Learning,Assignment,submit_assignment,Submit completed assignment
+Online Learning,Study Plan,create_study_plan,Create learning plan
+Online Learning,Learning Goal,update_learning_goal,Modify learning goal
+Notifications & Alerts,Newsletter,subscribe,Subscribe to newsletter or service
+Notifications & Alerts,Newsletter,unsubscribe,Cancel subscription
+Notifications & Alerts,Alert,create_alert,Create keyword/topic alert
+Notifications & Alerts,Alert,update_alert,Modify alert settings
+Notifications & Alerts,Notification Settings,update_notification_settings,Update notification preferences
+Profile Management,Profile,update_profile,Update profile info
+Profile Management,Profile,update_contact_information,Modify contact details
+Profile Management,Profile,update_language_preferences,Update language settings
+Profile Management,Profile,update_privacy_settings,Change privacy settings
+Profile Management,Profile,update_notification_preferences,Change notification preferences
+Profile Management,Profile,start_membership,Join or renew paid membership
+Profile Management,Profile,cancel_membership,Cancel paid membership
+Commerce,Cart,view_cart,View items in a shopping cart
+Commerce,Cart,add_to_cart,Add item to shopping cart
+Commerce,Cart,remove_from_cart,Remove item from cart
+Commerce,Cart,update_cart,Change item quantity or options in cart
+Commerce,Cart,checkout,Complete purchase flow or place/create an order
+Commerce,Cart,apply_coupon,Apply discount coupon or promotional code.
+Commerce,Cart,remove_coupon,Remove applied coupon or promotional code
+Commerce,Order,track_order,Track order status
+Commerce,Order,cancel_order,Cancel order
+Commerce,Order,return_or_exchange_order,Return or exchange items in an order
+Commerce,Subscription,subscribe_item,Subscribe item for recurring purchase
+Commerce,TradeIn,trade_in_item,Trade in item for credit
+Reservation & Booking,Reservation,create_reservation,Make reservation
+Reservation & Booking,Reservation,update_reservation,Modify reservation
+Reservation & Booking,Reservation,cancel_reservation,Cancel reservation
+Reservation & Booking,Appointment,schedule_appointment,Schedule appointment
+Reservation & Booking,Appointment,reschedule_appointment,Reschedule appointment
+Reservation & Booking,Appointment,cancel_appointment,Cancel appointment
+Collaboration,Project,invite_user,Invite user to project/group
+Collaboration,Project,join_project,Join project/community
+Collaboration,Share Link,generate_shareable_link,Generate public share link
+Developer Collaboration,Repository,create_repository,Create repository
+Developer Collaboration,Repository,update_repository,Modify repository metadata
+Developer Collaboration,Repository,delete_repository,Delete repository
+Developer Collaboration,Repository,fork_repository,Fork repository
+Developer Collaboration,Branch,create_branch,Create branch
+Developer Collaboration,Branch,delete_branch,Delete branch
+Developer Collaboration,Repository,commit_changes,Commit changes
+Developer Collaboration,Repository,create_file,Create file
+Developer Collaboration,Repository,update_file,Edit file
+Developer Collaboration,Issue,create_issue,Open issue
+Developer Collaboration,Issue,update_issue,Edit issue
+Developer Collaboration,Issue,delete_issue,Delete issue
+Developer Collaboration,Pull Request,create_pull_request,Open pull request
+Developer Collaboration,Pull Request,comment_pull_request,Comment on pull request
+Developer Collaboration,Pull Request,merge_pull_request,Merge pull request
+Developer Collaboration,Wiki Page,create_wiki_page,Create wiki page
+Developer Collaboration,Discussion,create_discussion_thread,Start discussion
+Developer Collaboration,Gist,create_gist,Create code snippet
+Developer Collaboration,Gist,delete_gist,Delete code snippet
+Communication,Message,send_message,"Send message, direct message, or inquiry to another user or group"
+Communication,Message,delete_message,Delete message
+Communication,User/Channel,follow_entity,Follow user/topic/channel
+Communication,User/Channel,unfollow_entity,Unfollow user/topic/channel

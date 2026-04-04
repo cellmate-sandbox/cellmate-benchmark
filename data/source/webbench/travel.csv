@@ -1,0 +1,61 @@
+ID,Starting URL,Category,Task
+3,https://www.agoda.com,CREATE,"Create a new wishlist titled “Summer Getaways” in your Agoda account and add a hotel from Miami, Florida to it; then confirm the wishlist displays the hotel’s name and location.
+Only use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+4,https://www.agoda.com,CREATE,"Register a new account on Agoda with your travel preferences (such as “luxury hotels” and “city breaks”), and update your profile with a short bio describing your travel style.
+Only use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+5,https://www.agoda.com,DELETE,"Log in to your Agoda account, add a hotel from your recent search to your favorites list, and then remove it; finally, verify that it no longer appears in your favorites.
+Only use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+6,https://www.agoda.com,DELETE,"In your Agoda account, create a temporary wishlist titled “Weekend Trips,” then delete the wishlist and confirm that it has been completely removed from your account.
+Only use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+12,https://www.agoda.com,UPDATE,"Modify your profile settings in your Agoda account to enable email notifications for special travel offers, and then check that the subscription status is updated.
+Only use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+13,https://www.airbnb.com,CREATE,"Log in (or create a new account if needed) on Airbnb and create a new wishlist titled “Summer Escapes” by adding a beachside property.
+Only use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+15,https://www.airbnb.com,CREATE,"Log in and send a message to the host of a New York City apartment asking about Wi-Fi availability and check-out time.
+Only use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+16,https://www.airbnb.com,CREATE,"Log in, go to ""Airbnb your home"" in the top right of your homepage, list a new property called “Cozy Downtown Loft” by providing a title, detailed description, pricing, and at least three key amenities.
+Only use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+17,https://www.airbnb.com,CREATE,"Go to Airbnb Experience for Bangkok and look for a food tour and list the itinerary and pricing information.
+Only use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+19,https://www.airbnb.com,DELETE,"Log in to your Airbnb account, save a Guest Favorite property to your wishlist, and then go to your wishlist and remove the property you previously added.
+Only use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+20,https://www.airbnb.com,DELETE,"Log in to Airbnb, send a query to a host of a New York City property, and then delete your message confirming that the message does not appear on your profile.
+Only use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+26,https://www.airbnb.com,UPDATE,"Log in, access your account settings on Airbnb and change your notification preferences to mobile app notifications.
+Only use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+462,https://www.expedia.com,CREATE,"Log in to your Expedia account and plan a trip titled “NYC Getaway” that includes a booking a round-trip flight from New York (JFK) to Boston with set travel dates. Proceed until checkout page and finish before final checkout.
+Only use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+463,https://www.expedia.com,CREATE,"Sign in to Expedia, plan a trip named “Summer Vacation Spots, and add three Miami hotels along with their current rates.
+Only use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+464,https://www.expedia.com,UPDATE,"Create a trip titled ""Vegas Getaway"" on Expedia. Then update the name of the trip to ""Friends trip to Las Vegas.""
+Only use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+466,https://www.expedia.com,CREATE,"Log in, use Expedia’s “Trip Planner” feature to build an itinerary titled “Family Fun” that includes 3 hotel reservation options for Orlando Florida. 
+Only use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+468,https://www.expedia.com,CREATE,"Sign in to Expedia and plan a trip titled “Romantic Escape” that includes a saved boutique hotel in Napa.
+Only use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+471,https://www.expedia.com,CREATE,"Sign in to your Expedia account and plan a trip “Ski Trip 2025” by adding a hotel reservation in Aspen and returning a recommended flight booking from NYC to Denver for the same dates.
+Only use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+472,https://www.expedia.com,CREATE,"Log in to Expedia and create a new trip plan called “Beach Getaway” that includes a saved beachfront hotel booking for Cancun. 
+Only use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+478,https://www.expedia.com,DELETE,"Log in to your Expedia account, create a trip titled “Travel Finds,” then remove it from your account and verify that it no longer appears in your saved lists.
+Only use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+642,https://www.getyourguide.com,CREATE,"Log in to your GetYourGuide account and create a new wishlist titled ""European Adventures"", then add the ""Berlin City Bike Tour"" to that wishlist.
+Only use http://getyourguide.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+648,https://www.getyourguide.com,UPDATE,"Log in and create a new wishlist titled ""Paris Getaway""; then add the ""Paris River Cruise"" tour to it and confirm that the wishlist now includes this activity.
+Only use http://getyourguide.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+649,https://www.getyourguide.com,UPDATE,"While on the tours search page for Sydney, modify the date range to July 1–7 and record the updated list of available tours that appear.
+Only use http://getyourguide.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2636,https://www.rome2rio.com,CREATE,"Plan a new itinerary for a trip from New York, NY to Washington, D.C. using Rome2rio’s multi-modal search, then export the itinerary details as a plain text document.
+Only use https://www.rome2rio.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2637,https://www.rome2rio.com,CREATE,"Log in to your Rome2rio account, create and save an itinerary for a journey from Berlin, Germany to Munich, Germany that uses a combination of train and bus routes, and add the note “Vacation in Bavaria.”
+Only use https://www.rome2rio.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2638,https://www.rome2rio.com,CREATE,"Using Rome2rio, plan a cost-effective trip under $300 from San Francisco, CA to Las Vegas, NV, then create and save the itinerary with all travel details and estimated fares to your account.
+Only use https://www.rome2rio.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2639,https://www.rome2rio.com,CREATE,"Create an itinerary for a trip from Los Angeles, CA to San Diego, CA that incorporates a ferry option, then export the itinerary details to a text file summarizing the travel segments and timings.
+Only use https://www.rome2rio.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2640,https://www.rome2rio.com,CREATE,"Plan an international multi-modal journey from London, UK to Amsterdam, Netherlands that includes both flights and trains, and save the itinerary with annotated notes on travel durations.
+Only use https://www.rome2rio.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2641,https://www.rome2rio.com,DELETE,"Access your Rome2rio account, created a saved itinerary titled “Weekend Getaway” for a trip from Los Angeles, CA to San Diego, CA, then delete it and confirm its removal.
+Only use https://www.rome2rio.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2647,https://www.rome2rio.com,UPDATE,"Create a saved itinerary for a trip from Berlin, Germany to Prague, Czech Republic in your account, add a new stop in Vienna, Austria with updated connection times, and save the updated itinerary.
+Only use https://www.rome2rio.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

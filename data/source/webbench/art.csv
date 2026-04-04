@@ -1,0 +1,81 @@
+ID,Starting URL,Category,Task
+350,https://www.deviantart.com,CREATE,"Use the DreamUp™ AI art generator to create an artwork with the prompt “Futuristic city with cyberpunk elements” and submit it to your gallery.
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+351,https://www.deviantart.com,CREATE,"Post a comment on the artwork “Moonlit Sonata” praising its details and artistic style.
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+352,https://www.deviantart.com,CREATE,"Update your profile’s “About” section by adding a new subsection called “Latest Accomplishments” that mentions your participation in a recent online exhibition.
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+353,https://www.deviantart.com,CREATE,"Build a new favorites collection titled “Inspiration Board” and add at least 3 artworks from different categories such as digital painting, photography, and fan art.
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+354,https://www.deviantart.com,DELETE,"Log in to your account, create a temporary artwork submission titled “Test Art,” then delete it from your gallery and verify it no longer appears.
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+355,https://www.deviantart.com,DELETE,"Log in, add a comment on the artwork ""Moonlit Sonata"", then remove the comment you posted on the artwork “Moonlit Sonata” from your profile, ensuring that the deletion is confirmed.
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+356,https://www.deviantart.com,FILE_MANIPULATION,"Visit the DeviantArt Help Center, locate the downloadable user guide on profile customization, and download the PDF file ensuring its filename includes “Profile.”
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+357,https://www.deviantart.com,FILE_MANIPULATION,"Search for downloadable art resources (e.g., brushes or overlays), download a file titled “Digital Art Brushes Pack,” and verify that the downloaded file has a “.zip” extension.
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+363,https://www.deviantart.com,UPDATE,"Change your notification settings to only receive updates for comments and favorites while filtering out notifications for mentions.
+Only use http://deviantart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+524,https://flickr.com,CREATE,"Log in and create a new album titled ""Autumn Memories,"" then add three existing photos from your photostream to this album.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+525,https://flickr.com,CREATE,"Create a new gallery titled ""Wildlife Wonders"" by selecting at least 5 public photos from various photographers on Flickr.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+526,https://flickr.com,CREATE,"Post a comment on a featured photo complimenting the photographer with a message that includes the word ""inspiring.""
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+527,https://flickr.com,CREATE,"Form a new Flickr group focused on ""Street Photography"" by writing a group description, setting it to public, and inviting two other users by username: ""icydoor2"" and ""jacktastic.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+528,https://flickr.com,CREATE,"Edit the metadata of one of your existing photos to include camera settings and location details in the description.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+529,https://flickr.com,CREATE,"Curate a collection by selecting 5 public domain photos from Flickr Commons and compiling them into a new album called ""Historical Snapshots.""
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+530,https://flickr.com,CREATE,"Write a reply to an existing comment on a photo, providing constructive feedback in a multi-sentence response.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+531,https://flickr.com,CREATE,"Update the tags of one of your photos by adding additional keywords like ""travel"" and ""adventure"" to enhance its discoverability.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+532,https://flickr.com,DELETE,"Log in, add a photo to your Faves, then remove it from your Faves and confirm it no longer appears in your Faves list.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+533,https://flickr.com,DELETE,"Post a comment on a photo and subsequently delete your comment, verifying that it has been completely removed from the discussion.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+534,https://flickr.com,FILE_MANIPULATION,"Locate and download the original resolution file of a public photo titled ""Boulevard tangerine sunrise,"" then verify that the downloaded file is in JPEG or PNG format.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+540,https://flickr.com,UPDATE,"Log in and update your profile bio by adding a few sentences about your current photography interests and style.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+541,https://flickr.com,UPDATE,"Login, create an album titled ""My Album"" then change it to ""Travel Diaries 2023.""
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+542,https://flickr.com,UPDATE,"Login, create an album, and modify the privacy settings of the album from ""Friends-only"" to ""Public"" so that anyone can view it.
+Only use http://flickr.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+583,https://www.freepik.com,CREATE,"Use the AI Image Generator tool to create a new poster design with the prompt “abstract circles in neon colors” and save in the project folder.
+Only use http://freepik.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+584,https://www.freepik.com,CREATE,"Generate three different variations of a “tropical beach sunset” image using the Reimagine tool, and save each variation under a distinct name.
+Only use http://freepik.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+585,https://www.freepik.com,CREATE,"Design a product mockup using the Mockup Generator by choosing a T-shirt frame, adding a simple slogan, and saving the project.
+Only use http://freepik.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+586,https://www.freepik.com,CREATE,"Expand a low-resolution “city skyline” image using the Expand tool and export the improved version as a high-definition PNG file.
+Only use http://freepik.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+587,https://www.freepik.com,CREATE,"Generate an asset using the AI Image Generator with the prompt “rustic handmade textures” and save the final image to your project library.
+Only use http://freepik.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+588,https://www.freepik.com,DELETE,"Log in to your account, add an asset titled “Abstract Waves” to your favorites, then delete it and verify that it no longer appears in your favorites list.
+Only use http://freepik.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+594,https://www.freepik.com,UPDATE,"Log in to your Freepik account and update your profile by changing your display name to “CreativeGuru2023”.
+Only use http://freepik.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+595,https://www.freepik.com,UPDATE,"After creating a collection titled “Holiday Campaign”, update the collection by adding a descriptive summary.
+Only use http://freepik.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+899,https://www.istockphoto.com,CREATE,"Generate an AI image using the prompt ""futuristic city with flying cars"" via the iStock tool and save the image into a new collection named ""My AI Creations.""
+Only use http://istockphoto.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+900,https://www.istockphoto.com,CREATE,"Write and submit a product review for a stock video you recently downloaded, including a star rating and a comment on its quality.
+Only use http://istockphoto.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+901,https://www.istockphoto.com,DELETE,"Log in to your iStock account, add one image to your favorites list, and then remove it carefully, verifying that it no longer appears in your list.
+Only use http://istockphoto.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1352,https://pixabay.com,CREATE,"Log in to your Pixabay account and create a new collection titled ""Summer Inspirations."" Then add at least 3 images with summer themes to this collection.
+Only use http://pixabay.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1353,https://pixabay.com,CREATE,"Log in and submit a constructive comment on a trending image, explaining what you like about it, ensuring the comment follows community guidelines.
+Only use http://pixabay.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1354,https://pixabay.com,DELETE,"Log in to your account, comment on a public image. Then locate the comment you previously posted on a public image, delete that comment, and confirm that it no longer appears on the image’s page.
+Only use http://pixabay.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1355,https://pixabay.com,DELETE,"Log in to Pixabay and create a test collection. Then navigate to your test collection, delete the collection, and verify that it has been removed from your profile.
+Only use http://pixabay.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1361,https://pixabay.com,UPDATE,"Log in to your Pixabay account, navigate to your profile settings, and update your display name. Then verify that these changes appear correctly on your public profile and that it is different than before, including if the initial name was blank.
+Only use http://pixabay.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1362,https://pixabay.com,UPDATE,"Log in and create a collection titled ""My Favorites."" Add two new images related to ""nature"" and reorder the collection so that the newly added images appear at the top.
+Only use http://pixabay.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

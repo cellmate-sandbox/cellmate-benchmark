@@ -1,0 +1,107 @@
+ID,Starting URL,Category,Task
+722,https://www.grubhub.com,CREATE,"Write and submit a 4-star review for ""Chipotle Mexican Grill"" praising the customizable bowl options.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+723,https://www.grubhub.com,CREATE,"Create a new review for ""McDonald's"" by giving it a 3-star rating along with detailed comments about the drive-thru service.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+724,https://www.grubhub.com,CREATE,"Add ""Domino's Pizza"" near zip code 10015 to your list of favorite restaurants on Grubhub.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+725,https://www.grubhub.com,CREATE,"Place a new order for a pepperoni pizza from ""Domino's Pizza"" and include an instruction to add extra cheese.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+726,https://www.grubhub.com,CREATE,"Log in and save ""Panda Express"" near zip code 10004 to your list of favorite restaurants.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+727,https://www.grubhub.com,CREATE,"Write a 5-star review for ""Subway"" emphasizing the freshness of its vegetables and the quality of its sandwiches.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+728,https://www.grubhub.com,CREATE,"Add a new delivery address ""123 Main Street, Chicago, IL"" to your account profile.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+729,https://www.grubhub.com,CREATE,"Place an order for a 10-piece chicken bucket with mashed potatoes from ""KFC"". Pick one side order at random, and add this to the order. 
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+730,https://www.grubhub.com,CREATE,"FInd ""Smash House Burgers Queens"" near 555 Main Street in New York, NY. Then add a Jalapeno Smash to your order.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+731,https://www.grubhub.com,CREATE,"Submit a review for ""In-N-Out Burger"" highlighting excellent customer service and overall dining experience.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+732,https://www.grubhub.com,CREATE,"Create an order for a """"Shackburger"" from ""Shake Shack"" with a note requesting extra pickles.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+733,https://www.grubhub.com,CREATE,"Create an order for a """"SmokeShack"" from ""Shake Shack"" with a note requesting no cheese.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+734,https://www.grubhub.com,CREATE,"Write a review for ""Olive Garden"" noting your enjoyment of their pasta dishes and the restaurant's ambiance.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+735,https://www.grubhub.com,CREATE,"Place an order for a ""Vegan Salad Bowl"" from a local healthy eatery near zip code 10004, including a special instruction for extra dressing.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+736,https://www.grubhub.com,CREATE,"Place a new order from ""Culver's"" for a ButterBurger accompanied by a side of waffle fries. Ensure that the delivery time is less than 50 minutes. If it is more than 50 minutes, find a different restaurant that has <50 minute wait time and recommend a similar order.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+737,https://www.grubhub.com,CREATE,"Place an order for pickup of a ""Bacon King"" at 2 separate Burger Kings in 2 separate states. Then compare the prices of the overall orders, citing if anything led to a change in price.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+738,https://www.grubhub.com,CREATE,"Write a review for ""Starbucks"" describing your experience with their breakfast menu and the quality of their beverages.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+739,https://www.grubhub.com,CREATE,"Order an iced latte from Dunkin Donuts, and add a delivery note to your pending order from ""Dunkin' Donuts"" requesting extra napkins with your coffee.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+740,https://www.grubhub.com,CREATE,"Order a lunch combo from ""Chick-fil-A"" and include a special request for a specific dipping sauce, Chick-fil-a sauce.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+741,https://www.grubhub.com,DELETE,"Log in to your account and add ""KFC"" to your list of favorite restaurants, and then remove ""KFC"" from your list of favorite restaurants.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+742,https://www.grubhub.com,DELETE,"Log in and add a review to a McDonald's near zip code 10013. Then delete the review you previously submitted for ""McDonald's,"" confirming its removal from your account.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+743,https://www.grubhub.com,FILE_MANIPULATION,"Log in after placing an order from ""Domino's Pizza,"" download your order receipt as a PDF, and verify that the downloaded file’s name includes the word ""receipt.""
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+749,https://www.grubhub.com,UPDATE,"Log in to your Grubhub account, navigate to your saved addresses, and update your primary delivery address first to 555 Main Street, New York, NY to 456 Elm Street, Chicago, IL.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1288,https://www.opentable.com,CREATE,"Log in to your account (create one if you don't have one) and book a dinner reservation at ""Antoya"" for 2 people on the upcoming Friday at 8 PM.
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1289,https://www.opentable.com,CREATE,"Log in and make a reservation request at ""The Ivy"" in West Hollywood for a table for 2, including a special note that says ""Window seat preferred"".
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1290,https://www.opentable.com,CREATE,"Log in and book a reservation for 4 people at a restaurant on your birthday, adding a note for celebration and any dietary restrictions.
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1291,https://www.opentable.com,CREATE,"Log in and book a brunch reservation at a restuarant in New York for 2 people on the next Sunday morning.
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1292,https://www.opentable.com,CREATE,"Log in, place a table reservation at ""Gramercy Tavern"" specifying indoor seating and include a note to celebrate an anniversary.
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1293,https://www.opentable.com,CREATE,"Log in, book a family lunch reservation for 6 people at ""The Cheesecake Factory"" and include a note requesting a high chair.
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1294,https://www.opentable.com,CREATE,"Log in, book a dinner reservation at Wolfgang Steakhouse in New York City for a celebration with friends, specifying your preferred dining time and any special requests.
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1295,https://www.opentable.com,CREATE,"Log in to your account, create a reservation at PF Chang's and add a dining note ""Allergic to nuts"" to your upcoming reservation
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1301,https://www.opentable.com,UPDATE,"Log in to your profile and modify your dietary preferences by selecting Pescatarian and Vegan.
+Only use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1442,https://restaurantguru.com,CREATE,"Log in to RestaurantGuru and submit a new review for ""Rubirosa NYC"" with a 4-star rating, including a comment praising their excellent pizza.
+Only use http://restaurantguru.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1443,https://restaurantguru.com,CREATE,"Write a detailed review for ""Mountain Cafe"" that describes its cozy ambiance and friendly service, then assign it a 3-star rating.
+Only use http://restaurantguru.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1444,https://restaurantguru.com,CREATE,"Submit a new review for ""Sunset Grill"" mentioning that recent menu updates improved the dining experience, and rate it 5 stars.
+Only use http://restaurantguru.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1445,https://restaurantguru.com,CREATE,"Log in to RestaurantGuru and write a user review for ""4 Charles Prime Rib,"" detailing its healthy menu options and rating it 4 stars.
+Only use http://restaurantguru.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1446,https://restaurantguru.com,DELETE,"Log in to RestaurantGuru, submit a review for ""Downtown Diner,"" and then delete that review—confirm that it no longer appears in your review history.
+Only use http://restaurantguru.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1452,https://resy.com,CREATE,"Create a new reservation for two at ""Blue Box Café by Daniel Boulud"" on a chosen date and time, then save the confirmation.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1455,https://resy.com,CREATE,"Book a last-minute table reservation for two at a given restaurant.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1456,https://resy.com,CREATE,"Create a reservation request for a large group of eight at a restaurant in ""NoMad Diner"", including a note requesting a private dining area.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1458,https://resy.com,CREATE,"Build a favorites list on Resy by adding the restaurants ""Sushi Lin Upper West Side,"" ""Passerine,"" and ""Hutong New York.""
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1462,https://resy.com,CREATE,"Book a new Sunday brunch reservation for two at ""The Smith - Midtown,"" including a note to request a window seat.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1463,https://resy.com,CREATE,"Set up a dining event alert on Resy by subscribing to notifications for last-minute table openings at ""Nobu"" over the upcoming weekend.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1464,https://resy.com,CREATE,"Create a personalized list titled ""Romantic Dinners"" on Resy and add the restaurants ""Le Bernardin,"" ""Jeju Noodle Bar,,"" and ""Eleven Madison Park"" to it.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1465,https://resy.com,DELETE,"Log in to your account, create a reservation at ""Tacombi - Fidi"" Then select an upcoming reservation at ""Tacombi - Fidi,"" and cancel the booking—confirm its removal from your schedule.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1466,https://resy.com,DELETE,"Login, add ""Passerine"" as favoriated in your account. then access your favorites list on Resy and remove it from the list.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1472,https://resy.com,UPDATE,"Make a reservation at ""Tacombi - Williamsburg"" for 7:00 PM on a given night. Modify your ""Tacombi - Williamsburg"" reservation by changing the dinner time from 7:00 PM to 8:00 PM.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1476,https://resy.com,UPDATE,"Make a standard reservation for the nearest time at ""Mission Chinese Food, NYC."" Then edit your upcoming reservation at ""Mission Chinese Food, NYC"" to add a note about dietary restrictions.
+Only use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2489,https://www.doordash.com,CREATE,"Log in and Write and submit a detailed review for a local café near zip code 10013, including a star rating and specific comments on food quality and delivery experience.
+Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2490,https://www.doordash.com,CREATE,"Create a new favorites list by saving stores with the heart button in your DoorDash account and add three frequently ordered restaurants to that list.
+Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2491,https://www.doordash.com,DELETE,"Log in to your DoorDash account, add a new saved address 1 Broadway Street, NY, NY. Then navigate to your saved addresses, and remove the address from your profile.
+Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2496,https://www.doordash.com,UPDATE,"Change your default delivery address in your DoorDash profile from your ""1234 Smith Ln, New York, NY 10013"" to ""65 Doe Lane, New York, NY, 10001""
+Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2497,https://www.doordash.com,UPDATE,"Update your account's notification preferences to receive SMS alerts for order status updates instead of email notifications.
+Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

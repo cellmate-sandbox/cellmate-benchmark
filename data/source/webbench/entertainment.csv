@@ -1,0 +1,159 @@
+ID,Starting URL,Category,Task
+321,https://www.crunchyroll.com,CREATE,"Register for a new Crunchyroll account and create a watchlist titled ""Weekend Binge"" by adding three anime series from the trending list.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+322,https://www.crunchyroll.com,CREATE,"Log in to your account and create a watchlist named ""Favorites,"" then add ""My Hero Academia"" as the first entry on the list.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+323,https://www.crunchyroll.com,CREATE,"Access your account and set up a watchlist called ""Classic Anime"" by adding at least four classic anime series from the catalog.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+324,https://www.crunchyroll.com,CREATE,"Create a custom list titled ""Action-packed Series"" by combining selections from both anime and East Asian dramas; add ""Naruto"" and ""Violet Evergarden"" as initial entries.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+325,https://www.crunchyroll.com,CREATE,"Mark ""One Piece"" as a favorite from its details page so that it appears in your profile’s ""Favorites"" section.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+326,https://www.crunchyroll.com,CREATE,"If you haven’t already, register for a Crunchyroll account and create a new list titled ""Seasonal Picks"" by adding at least two anime series currently airing this season.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+327,https://www.crunchyroll.com,DELETE,"Log in to your account, create a ""Classic Anime"" watchlist with 2 animes including ""Naruto"". Then navigate to your ""Classic Anime"" watchlist, and remove the entry for ""Naruto,"" then verify that it is no longer listed.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+328,https://www.crunchyroll.com,DELETE,"Sign in to your profile, create a new watchlist titled ""Action-packed Series,"" then remove the watchlist titled ""Action-packed Series,"" confirming its deletion from your account.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+334,https://www.crunchyroll.com,UPDATE,"Log in to your account, create a ""Weekend Binge"" watchlist and add ""Attack on Titan."" Then open the ""Weekend Binge"" watchlist, and update it by adding the anime ""Hunter x Hunter"" to the list.
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+335,https://www.crunchyroll.com,UPDATE,"Log in, create a favorites list and add Demon Slayer to it, then update the list to also include ""Attack on Titan.""
+Only use http://crunchyroll.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+843,https://www.imdb.com,CREATE,"Upvote the featured user review for ""Dune: Part Two:
+Only use http://imdb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+844,https://www.imdb.com,CREATE,"Rate the movie ""Top Gun: Maverick"" with a score of 9 out of 10.
+Only use http://imdb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+845,https://www.imdb.com,CREATE,"Rate ""Top Gun: Maverick"" with 9 stars then leave a short review explaining why it deserves a 9
+Only use http://imdb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+846,https://www.imdb.com,CREATE,"Add ""The Witcher"" to your watchlist and confirm that its in there.
+Only use http://imdb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+847,https://www.imdb.com,CREATE,"Create a new custom list called ""Fantasy Series,"" move ""The Witcher"" from your watchlist to that new list, and add two fantasy shows.
+Only use http://imdb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+848,https://www.imdb.com,CREATE,"Look at all the movies in your watchlist, see which one has the highest user rating, and check if its offered in Chinese.
+Only use http://imdb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+991,https://letterboxd.com,CREATE,"Create a new diary entry for the film ""Parasite,"" assign it a 4-star rating, and include a brief review of its plot.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+992,https://letterboxd.com,CREATE,"Compose a detailed film review diary entry for ""The Grand Budapest Hotel,"" focusing on its cinematography, and rate it 5 stars.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+993,https://letterboxd.com,CREATE,"Create a new custom list titled ""Must Watch 2025"" and add at least top 5 films that are popular this week.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+994,https://letterboxd.com,CREATE,"Write a diary entry that compares the films ""Blade Runner"" and ""Blade Runner 2049,"" including your opinions and a star rating for each.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+995,https://letterboxd.com,CREATE,"Update your profile with a public update listing your top 3 favorite films of all time.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+996,https://letterboxd.com,CREATE,"Create a new diary entry for the film ""Mad Max: Fury Road,"" include your rating, write a review comment, and tag the entry with ""action.""
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+997,https://letterboxd.com,DELETE,"Log in to your account, create a new diary entry for any film, then delete that diary entry and verify its removal from your profile.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+998,https://letterboxd.com,DELETE,"Login, create a custom list titled ""Old Favorites"" from your profile and add 3 movies, then delete this list ensuring it no longer appears in your account.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1004,https://letterboxd.com,UPDATE,"Log in to your Letterboxd account, create a diary entry for ""Inception"" with 3 stars, then locate your diary entry for ""Inception,"" and update its rating from 3 stars to 4 stars.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1005,https://letterboxd.com,UPDATE,"Edit your profile to add ""Citizen Kane"" to your personal list of favorite films.
+Only use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1139,https://www.metacritic.com,CREATE,"Log in to your Metacritic account and submit a new user review for the movie “Inception,” including a star rating out of 10 and a brief comment on its plot and visuals.
+Only use http://metacritic.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1140,https://www.metacritic.com,CREATE,"Write and submit a user review for the video game “God of War” that covers gameplay, graphics, and storyline, and include your overall rating.
+Only use http://metacritic.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1141,https://www.metacritic.com,CREATE,"Navigate to the review section for the movie “Parasite” and compose a personal review that includes your rating and thoughts on its directing and script.
+Only use http://metacritic.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1142,https://www.metacritic.com,DELETE,"Log in to your Metacritic account, post a user review for the TV show “The Mandalorian,” and then delete that review, confirming its complete removal from your profile.
+Only use http://metacritic.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1143,https://www.metacritic.com,DELETE,"Create a user review for the video game “Super Mario Odyssey” and immediately remove it from your account
+Only use http://metacritic.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1149,https://www.metacritic.com,UPDATE,"Log in to your Metacritic account, create a user review for the video game “Resident Evil 2,” then locate your existing user review for the video game “Resident Evil 2,” and update it to add comments on its multiplayer features.
+Only use http://metacritic.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1150,https://www.metacritic.com,UPDATE,"Sign in, post a review for “The Dark Knight” and give it 7 stars, then modify your previously submitted review for the film “The Dark Knight” by changing the star rating from 7 to 2 stars and update the review text.
+Only use http://metacritic.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1589,https://open.spotify.com,CREATE,"Log in to your Spotify account and create a new playlist titled ""Workout Beats,"" then add 3 songs from the ""Workout"" genre.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1590,https://open.spotify.com,CREATE,"Create a playlist named ""Road Trip Essentials"" and add ""Life is a Highway"" by Rascal Flatts along with two additional road trip-themed tracks.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1591,https://open.spotify.com,CREATE,"Create a podcast playlist by starting a new list and adding one episode from a podcast in the ""Tech Trends"" category.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1592,https://open.spotify.com,CREATE,"Use Spotify’s AI-generated playlist feature by entering the prompt ""chill acoustic vibes"" and then save the resulting playlist.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1593,https://open.spotify.com,CREATE,"Create a personal playlist titled ""Indie Discoveries"" and add 5 indie tracks from different artists to it.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1594,https://open.spotify.com,CREATE,"Find an episode from the ""Technology"" podcast category and add it to your favorites by bookmarking it.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1595,https://open.spotify.com,CREATE,"Build a playlist called ""Evening Classics"" by manually adding 4 classical pieces from Spotify’s classical music collection.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1596,https://open.spotify.com,CREATE,"Search for ""Blinding Lights"" by The Weeknd, create a new playlist, and add the track along with two similar hit songs.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1597,https://open.spotify.com,CREATE,"Create a new playlist titled ""Summer Hits"" and add 4 tracks that evoke a summer vibe based on your listening preference.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1598,https://open.spotify.com,CREATE,"Log in to your Spotify account and create a new playlist titled ""Evening Chill"" by adding a mix of 6 tracks, including at least one slow jazz track, an acoustic ballad, and a chill pop song.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1599,https://open.spotify.com,CREATE,"Use the search function to find a podcast on ""True Crime,"" listen to one episode, and add it to a new playlist titled ""True Crime Stories.""
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1600,https://open.spotify.com,CREATE,"Log in, listen to two tracks on the US Top Charts page, then go to the queue and see what the next song recommnded in the queue is and return the name and artist.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1601,https://open.spotify.com,DELETE,"Create a temporary playlist titled ""Test Playlist,"" add two tracks, then delete the playlist and confirm its removal from your library.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1602,https://open.spotify.com,DELETE,"Log in to Spotify, access your ""Liked Songs"" collection, select a track, and remove it from your saved list.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1603,https://open.spotify.com,DELETE,"Build a playlist called ""Obsolete Playlist"" with three tracks, then delete it permanently and confirm the deletion was successful.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1604,https://open.spotify.com,DELETE,"Locate a podcast, subscribe to it, confirm you are subscribed to in your library, unsubscribe from it, and ensure it is removed from your ""Podcasts"" list.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1605,https://open.spotify.com,FILE_MANIPULATION,"Login and find out how to request extended streaming data, and follow the steps to request this data. 
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1606,https://open.spotify.com,FILE_MANIPULATION,"Navigate to the offline mode troubleshooting section, download the guide for offline playback, and verify that the file contains the word ""offline.""
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1612,https://open.spotify.com,UPDATE,"Log in to your Spotify account, create a personal playlist ""Chill Vibes"" and add 5 lofi songs. Then open your personal playlist ""Chill Vibes,"" and add a 6th song ""Sundress"" by ASAP Rocky. 
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1613,https://open.spotify.com,UPDATE,"Access your account settings and update your streaming quality by changing the audio setting to ""High.""
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1614,https://open.spotify.com,UPDATE,"Create a playlist called ""Workout Beats,"" open your playlist, rename it to ""High-Intensity Workout Beats,"" and add one additional energetic track to it.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1615,https://open.spotify.com,UPDATE,"Visit your privacy settings and change your preferences so that your listening activity is hidden from friends.
+Only use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1903,https://www.twitch.tv,CREATE,"Log in to Twitch and create a new channel panel titled “Schedule” by adding a text description of your streaming hours.
+Only use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1904,https://www.twitch.tv,CREATE,"Write and post an announcement on your channel’s community board detailing the setup for an upcoming charity stream event, including the event’s date and time.
+Only use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1905,https://www.twitch.tv,DELETE,"Add a favorite channel to your list, then remove it from your favorites, verifying that it no longer appears in your list.
+Only use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1911,https://www.twitch.tv,UPDATE,"Modify your alert settings by updating the text that appears when someone donates Bits, ensuring your channel name is featured prominently in the alert.
+Only use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1912,https://www.twitch.tv,UPDATE,"Log in to Twitch and modify your channel’s alert settings to include a custom message for new follower notifications, ensuring the update is saved.
+Only use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2295,https://soundcloud.com,CREATE,"Create a new playlist named “Morning Motivation” and add at least three tracks from Country music among the top-10 ones.
+Only use https://soundcloud.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2296,https://soundcloud.com,CREATE,"Repost the first track on my Library > Likes using the repost button so that it appears on your public profile feed.
+Only use https://soundcloud.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2297,https://soundcloud.com,DELETE,"Log in, post a comment on ""Nothing on you"" track, and then delete that comment—confirm that it no longer appears in the track’s comment section.
+Only use https://soundcloud.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2298,https://soundcloud.com,DELETE,"Log in, create a ""Morning Motivation"" playlist and add 3 songs, then remove the first track by clicking Edit button, and verify that the updated playlist reflects this removal.
+Only use https://soundcloud.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2304,https://soundcloud.com,UPDATE,"Create a playlist titled “Morning Motivation.” After creating the “Morning Motivation” playlist, add the song ""Gimme Shelter"" by the Rolling Stones. 
+Only use https://soundcloud.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2305,https://soundcloud.com,UPDATE,"Modify your account settings to enable notifications for new comments on your posts, and then save the changes.
+Only use https://soundcloud.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2463,https://www.deezer.com/us,CREATE,"Log in to your Deezer account, create a new playlist titled ""Road Trip 2023"", and add the songs ""Life is a Highway"" and ""Route 66"" to it.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2464,https://www.deezer.com/us,CREATE,"Create a new playlist called ""Chill Evening"" by selecting 5 tracks from the chill or ambient genre available on Deezer.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2465,https://www.deezer.com/us,CREATE,"Generate a collaborative playlist titled ""Party Mix"" and include upbeat tracks suitable for a dance party.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2466,https://www.deezer.com/us,CREATE,"Create a fresh playlist named ""Indie Discoveries"" and add at least 4 tracks by independent artists featured on the platform.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2467,https://www.deezer.com/us,CREATE,"Assemble a playlist titled ""Workout Beats"" by selecting 3 high-energy tracks recommended in Deezer's fitness genre section.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2468,https://www.deezer.com/us,CREATE,"Create a shared playlist entitled ""Study Sessions"", add 5 ambient tracks to it, and generate a shareable URL link.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2469,https://www.deezer.com/us,CREATE,"Develop a new playlist called ""Weekly Favorites"", add 4 chart-rated tracks, and include a text description explaining why each track represents your week.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2470,https://www.deezer.com/us,DELETE,"Log in to your account, create a temporary playlist titled ""Test Delete"", add three songs to it, then delete the playlist to confirm its removal.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2471,https://www.deezer.com/us,DELETE,"Save a track by ""Arctic Monkeys"" to your favorites. Then remove the track by the artist ""Arctic Monkeys"", and verify that the song is no longer listed.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2472,https://www.deezer.com/us,DELETE,"Log in, create a saved playlist titled ""gym"" and add 2 songs to it, then delete the saved playlist ""gym"" ensuring it is completely removed from your library.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2477,https://www.deezer.com/us,UPDATE,"Create a playlist called ""Road trip 2024"" playlist, then rename it to ""Ultimate Road Trip"" and add the track ""Born to Run"" by Bruce Springsteen.
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2478,https://www.deezer.com/us,UPDATE,"Create a favorites track list and add ""Life is a Highway"" and ""Route 66."" Then update the list by adding ""Highway to Hell."" 
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2479,https://www.deezer.com/us,UPDATE,"Create a playlist titled ""Workout Beats"" with 3 songs. Then update the playlist with a description and save it. 
+Only use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

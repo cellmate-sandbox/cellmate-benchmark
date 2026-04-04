@@ -1,0 +1,15 @@
+ID,Starting URL,Category,Task
+1973,https://www.usa.gov,FILE_MANIPULATION,"Locate the downloadable PDF form for passport renewal on USA.gov, download it, and confirm that the file title includes the word ""passport.""
+Only use http://usa.gov to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1974,https://www.usa.gov,FILE_MANIPULATION,"Find and download the most recent government guide on disaster preparedness from USA.gov, then verify that the file is in PDF format.
+Only use http://usa.gov to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1975,https://www.usa.gov,FILE_MANIPULATION,"Download the consumer rights factsheet from USA.gov and check that the file name contains the word ""consumer.""
+Only use http://usa.gov to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1976,https://www.usa.gov,FILE_MANIPULATION,"Locate and download the bilingual (English/Spanish) guide on government services, ensuring that both language sections are present in the document.
+Only use http://usa.gov to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1977,https://www.usa.gov,FILE_MANIPULATION,"Find and download a printable guide on COVID-19 resources from USA.gov, then list three health and safety tips provided within the document.
+Only use http://usa.gov to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2599,https://www.nih.gov,FILE_MANIPULATION,"Locate and download the PDF form for NIH grant applications from the website.
+Only use https://www.nih.gov/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2600,https://www.nih.gov,FILE_MANIPULATION,"Identify and download a bulk data export from the NIH website, and verify that the downloaded file contains information related to clinical trials.
+Only use https://www.nih.gov/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

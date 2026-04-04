@@ -1,0 +1,405 @@
+ID,Starting URL,Category,Task
+36,https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,CREATE,"Search for 'Bluetooth speakers', filter to only show items shipped from USA, and then find my one with 4.0+ review score and bluetooth 5.0. Add it to my cart.
+Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+37,https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,CREATE,"Go to Coupon Center and collect 1 coupon for my account, then confirm its been added to the profile.
+Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+38,https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,CREATE,"Redeem a coupon code that gives discounts for orders over a certain amount. Then add items to the cart until there is enough total cost to redeem the coupon, and apply it to the total cart price. Return the final price of the shoppingcart.
+Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+39,https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,CREATE,"Change my default shipping address to 92 2nd Ave, New York, New York
+Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+40,https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,CREATE,"Search up a highly ranked woman's wool sweater, and message the seller asking if they do custom sizing for their sweaters.
+Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+123,http://www.barnesandnoble.com,CREATE,"Create an account and create a new wishlist titled ""Summer Reads 2025"" and add three selected physical books to it.
+Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+124,http://www.barnesandnoble.com,CREATE,"Write and submit a review for the digital version of ""1984"" by George Orwell, including a star rating and a detailed comment.
+Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+125,http://www.barnesandnoble.com,DELETE,"Log in, add the physical book ""To Kill a Mockingbird"" to your wishlist, then remove it and verify its deletion.
+Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+126,http://www.barnesandnoble.com,DELETE,"Add Pride and Prejudice to the wishlist, then remove it from the existing wishlist and confirm its removal.
+Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+127,http://www.barnesandnoble.com,FILE_MANIPULATION,"Download a free eBook sample from the ""ebooks & Nook"", in mystery category 
+Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+133,http://www.barnesandnoble.com,UPDATE,"Log in to your account and update your shipping address to ""123 New Street, Springfield, IL"", then save the changes.
+Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+134,http://www.barnesandnoble.com,UPDATE,"Login and create a wishlist titled ""Holiday Gifts"" then update an existing wishlist titled ""Holiday Gifts"" by adding the book ""Educated"" by Tara Westover.
+Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+149,https://www.bestbuy.com,CREATE,"Log into your Best Buy account and create a new wishlist titled ""Holiday Shopping,"" then add the ""Sony 65-inch 4K Ultra HD TV"" to that wishlist.
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+150,https://www.bestbuy.com,CREATE,"Write and submit a detailed product review for the ""PS5"" including a star rating and comments on your experience.
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+151,https://www.bestbuy.com,CREATE,"On the ""Sony 75-inch 4K TV"" product page, post a new question in the Q&A section asking, ""Does this TV support VESA wall mounting?""
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+152,https://www.bestbuy.com,DELETE,"Log into your Best Buy account, add the ""Google Nest Hub"" to your wishlist, then remove it and verify that it no longer appears in your saved items.
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+153,https://www.bestbuy.com,DELETE,"Login, post a review for the ""Sony WH-1000XM4,"" and then remove your review for the ""Sony WH-1000XM4"" headphones from the product page, ensuring that the review is no longer visible.
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+154,https://www.bestbuy.com,DELETE,"Add a promotional code to your shopping cart for a discount, then remove the code and verify that the cart total reverts to its original amount.
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+160,https://www.bestbuy.com,UPDATE,"Log into your Best Buy account, add a ""Dell XPS 14"" laptop to your shopping cart, update the quantity to 2, and verify that the total price reflects the change.
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+161,https://www.bestbuy.com,UPDATE,"Update your shipping settings in Best Buy by changing your primary shipping address to New York City, NY 10003. 
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+162,https://www.bestbuy.com,UPDATE,"Log into your account, add an item to your cart, then switch the delivery option from standard shipping to in-store pickup and confirm that the order details update accordingly.
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+279,https://newyork.craigslist.org,CREATE,"Log in, create a new ""housing offered"" listing in the San Francisco region for a one-bedroom apartment for rent at $2200/month, specifying location, move-in date, and lease terms.
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+281,https://newyork.craigslist.org,CREATE,"Log in to Craigslist and create a ""community"" listing in Los Angeles for a found item, including the details of the item and the pick-up location.
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+287,https://newyork.craigslist.org,CREATE,"Log in to Craigslist and create a ""service offered"" post in Dallas advertising professional home cleaning services with clearly listed pricing packages and contact details.
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+288,https://newyork.craigslist.org,CREATE,"Log in and create a ""for sale by owner"" listing in Miami for a used cell phone along with its accessories, detailing the condition, price, and availability.
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+290,https://newyork.craigslist.org,CREATE,"Log in to Craigslist and submit an ""event"" post advertising an upcoming local farmers market event in San Diego, adding the vendor information and an event schedule.
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+291,https://newyork.craigslist.org,CREATE,"Advertise your upcoming book event in Atlanta by logging in to Craigslist and creating an event post; specify your event details, location, and suggested genres.
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+292,https://newyork.craigslist.org,CREATE,"Log in to Craigslist, search for a baby stroller in your area in the ""for sale"" section, and save it to your favorites.
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+293,https://newyork.craigslist.org,CREATE,"Log in to Craigslist, go to your profile, and edit your notifications settings by turning off expiring post alerts.
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+364,https://www.dickssportinggoods.com,CREATE,"Register a new user account on Dick’s Sporting Goods by filling out the required personal information and confirm the registration via the on-screen confirmation message.
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+365,https://www.dickssportinggoods.com,CREATE,"Log in to your new account and write a detailed product review for a pair of Under Armour training shoes, including a star rating and specific comments on performance.
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+366,https://www.dickssportinggoods.com,CREATE,"Log in, create a list titled ""Weekend Adventure"" and add three items to it: a camping tent, a pair of hiking boots, and a portable camping stove.
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+367,https://www.dickssportinggoods.com,CREATE,"Log in and submit a product review for a Cole Haan running shoe, making sure to include your shoe size, comfort rating, and comments on style.
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+368,https://www.dickssportinggoods.com,CREATE,"Log in, write a detailed product review for a Wilson baseball glove including a star rating, a title, and your experience with the product, then submit the review.
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+369,https://www.dickssportinggoods.com,DELETE,"Log in, add a ""Patagonia Jacket"" to your list, then delete it from the list and confirm that it has been removed.
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+375,https://www.dickssportinggoods.com,UPDATE,"Add a pair of Nike running shoes to your cart, then go to your cart and modify the quantity of the Nike running shoes from 1 to 2.
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+376,https://www.dickssportinggoods.com,UPDATE,"Log in to your profile and update your address by adding your new apartment details.
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+561,https://www.ford.com,CREATE,"Use the vehicle configuration tool to build a new ""Ford Mustang GT Fastback""by selecting the model, choosing ""Race Red"" as the exterior color, and adding ""Leather seats"" for the interior; then save the build and output the configuration summary.
+Only use http://ford.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+562,https://www.ford.com,CREATE,"Log in to your Ford account and enroll in the FordPass Rewards program, ensuring you capture the on-screen confirmation of your new membership.
+Only use http://ford.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+563,https://www.ford.com,CREATE,"Launch the vehicle builder for a Ford F-150, select a specific trim, add a towing package, and choose the “Velvet Red” paint option; then output the complete build summary including selected features.
+Only use http://ford.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+564,https://www.ford.com,CREATE,"Establish a new saved configuration for a Ford Mustang Mach-E with added options such as an extended battery and panoramic sunroof, then note the generated build reference number.
+Only use http://ford.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+565,https://www.ford.com,CREATE,"Utilize the financing calculator tool to simulate a Ford Credit financing option for a Ford Fusion, and output the estimated monthly payment along with the term details.
+Only use http://ford.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+566,https://www.ford.com,CREATE,"Register a new account on the Ford website by entering all required profile details including your contact information, and then confirm that your profile settings are successfully saved.
+Only use http://ford.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+567,https://www.ford.com,DELETE,"Login, create a new saved vehicle configuration, then access your saved vehicle configurations and delete it, and confirm that it is no longer present in your saved builds list.
+Only use http://ford.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+573,https://www.ford.com,UPDATE,"Create a saved vehicle configuration for a Ford Mustang GT Fastback and update the exterior color option from Red to Block; then verify that the configuration summary displays the new color choice.
+Only use http://ford.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+771,https://www.homedepot.com,CREATE,"Log in to your Home Depot account and create a new project list titled “Spring Garden,” then add the product “Husky Outdoor Planter Box” to the list.
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+772,https://www.homedepot.com,CREATE,"Write and submit a product review for the “Milwaukee M18 Fuel Impact Wrench” in your account, including a 5‑star rating and a brief comment on its performance.
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+773,https://www.homedepot.com,CREATE,"Log in to your account and create a new shopping list titled “Weekend DIY Repairs,” then add the items “3 packs of 2‑inch drywall screws” and “1 gallon of white paint.”
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+774,https://www.homedepot.com,CREATE,"Log in to your Home Depot account and schedule an installation appointment for a “Range Hood” by selecting an available date and service option.
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+775,https://www.homedepot.com,CREATE,"Submit a “Contact Us” inquiry regarding delivery options for a “Samsung Family Hub Refrigerator,” including your contact details and a brief question.
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+776,https://www.homedepot.com,DELETE,"Log in to your Home Depot account, add the “Husky 5‑piece Tool Set” to your saved projects list, then remove it and confirm that it no longer appears in the list.
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+777,https://www.homedepot.com,FILE_MANIPULATION,"Search for the downloadable PDF installation guide for the “Moen 26021 Brushed Nickel Kitchen Faucet,” download the file, and verify that the file name includes the word “Installation” or “Guide.”
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+778,https://www.homedepot.com,FILE_MANIPULATION,"Find the downloadable “Home Depot Installation Tips” guide on the website, download the PDF, and confirm that it includes a section on tool safety recommendations.
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+784,https://www.homedepot.com,UPDATE,"Log in to your Home Depot account and update your shipping address by changing the street to “1234 Elm Street,” the city to “Atlanta,” state to “GA,” and zip code to “30303.”
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+785,https://www.homedepot.com,UPDATE,"Log in to Home Depot, add a “DEWALT 20V Max Lithium‑Ion Drill” to your cart, then update the order quantity to 3 units and verify the updated total price.
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+786,https://www.homedepot.com,UPDATE,"Log in to your Home Depot Pro account and update your business contact number to “555‑678‑9012” in the account settings.
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+824,https://www.ikea.com,CREATE,"Log in to your IKEA account and create a new wishlist named ""New Bedroom""; then add both the ""MALM bed frame"" and the ""HEMNES dresser"" to it.
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+825,https://www.ikea.com,CREATE,"Use the IKEA Kreativ AI design tool to create a custom living room layout featuring a ""POÄNG armchair"" and a ""LACK coffee table""; save the design with the title ""Cozy Living.""
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+826,https://www.ikea.com,CREATE,"Write and submit a product review for the ""EKTORP sofa"" that includes a star rating and a comment highlighting its comfort and durability.
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+827,https://www.ikea.com,CREATE,"Log in and post a review for the ""BILLY bookcase"" emphasizing its ease of assembly, then share your review on the product page.
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+828,https://www.ikea.com,DELETE,"Log in, create a temporary wishlist containing the ""LIDHULT chair"" and the ""EKEDALEN table,"" then delete the entire wishlist to confirm its removal.
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+829,https://www.ikea.com,DELETE,"Add the ""FLÄRDFULL rug"" to your favorites, subsequently remove it, and verify that it no longer appears in your favorites list.
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+830,https://www.ikea.com,FILE_MANIPULATION,"Navigate to the product page for the ""MALM bed frame,"" locate the downloadable PDF assembly instructions, download the file, and verify that the filename includes ""MALM.""
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+836,https://www.ikea.com,UPDATE,"Log in to your IKEA account and create a saved design project ""Office Layout"" and add in a top selling desk, then update your saved design project ""Office Layout"" by replacing the current desk with the ""BEKANT workstation.""
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+837,https://www.ikea.com,UPDATE,"Sign in, add the ""FJÄLLBO TV unit"" to your shopping cart, and then update its quantity to 2.
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+838,https://www.ikea.com,UPDATE,"Log in, create a wishlist titled ""Summer Outdoor"" with 3 items for an outdoor deck. Then modify your wishlist titled ""Summer Outdoor"" by removing one item and adding the ""ÄPPLARÖ outdoor table"" in its place.
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+839,https://www.ikea.com,UPDATE,"Access your profile, navigate to your saved addresses, and update your default delivery address to include specific instructions for building access.
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+869,https://www.instacart.com,CREATE,"Log in to your Instacart account and create a new grocery order containing “2 lbs of organic strawberries,” “1 gallon of whole milk,” and “1 loaf of sourdough bread.”
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+870,https://www.instacart.com,CREATE,"Log in, create a new shopping list titled “Weekend BBQ” and add “Hot dogs,” “Buns,” and “Coleslaw mix” to it.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+871,https://www.instacart.com,CREATE,"Log in to Instacart and add “Avocados” to your cart for a same-day delivery order.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+872,https://www.instacart.com,CREATE,"Log in, create a new list titled “Healthy Snacks” and add “Almonds” and “Greek Yogurt” to it.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+873,https://www.instacart.com,CREATE,"Search for ""Peanut Butter and Jelly"", add it to your cart, and then go to your cart to check the estimated delivery time for the order.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+874,https://www.instacart.com,CREATE,"Log in and add a coupon code found on the Instacart promotions page to your account for an upcoming grocery order.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+875,https://www.instacart.com,CREATE,"Log in to Instacart and add “Organic Carrots” to your shopping cart for immediate checkout.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+876,https://www.instacart.com,DELETE,"Log in to your Instacart account, search “Canned Soup” and add a soup product to your shopping cart, then remove it to update the cart.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+877,https://www.instacart.com,DELETE,"Log in to Instacart, create a temporary test order by adding an “Energy Drink” to your cart, then delete the order before checkout.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+878,https://www.instacart.com,DELETE,"Log in, add a ""Deli Sandwich"" to your cart, and then delete the “Deli Sandwich” you previously added from your cart.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+879,https://www.instacart.com,DELETE,"Log in to Instacart, add a new address with a New York, NY location, and then remove it from your account to ensure it is fully deleted.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+885,https://www.instacart.com,UPDATE,"Log in to your Instacart account, add 6 bunches of organic bananas to your cart, and then access your cart and update the quantity of your organic bananas from 6 to 10 bunches.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+886,https://www.instacart.com,UPDATE,"Log in to your Instacart profile and update your delivery address by adding a location in Brooklyn, NY.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+887,https://www.instacart.com,UPDATE,"Log in to Instacart and update your default delivery instructions to “Leave at the front door.”
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+888,https://www.instacart.com,UPDATE,"Log in and change the default pickup location to your preferred Instacart retailer store in Los Angeles.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+889,https://www.instacart.com,UPDATE,"Log in to Instacart, navigate to your profile settings, and update your notification preferences to receive SMS alerts for order updates.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+921,https://www.justdial.com,CREATE,"Log in to your consumer Justdial account and submit a detailed review for “Sunshine Dental Clinic” in Delhi, including both a star rating and commentary on the service quality.
+Only use http://justdial.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+922,https://www.justdial.com,CREATE,"Create a new business listing for a “Gourmet Cafe” located in Mumbai by providing the address, phone number, operating hours, and a brief service description.
+Only use http://justdial.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+923,https://www.justdial.com,CREATE,"Sign up as a business owner on Justdial and create a profile for your “AC Repair Service” in Chennai, ensuring you include your service description, contact details, and business hours.
+Only use http://justdial.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+924,https://www.justdial.com,CREATE,"Write an informative review for “Green Valley School” in Pune, rating its educational services and providing a summary of your experience.
+Only use http://justdial.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+925,https://www.justdial.com,DELETE,"Log in to your consumer account on Justdial, add a plumbing service to your favorites, then remove it and confirm its deletion from your list.
+Only use http://justdial.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+955,https://www.kmart.com.au,CREATE,"Create an account and Log in to your Kmart account, create a new wishlist titled ""Family Essentials,"" and add a ""Children's Toy"" along with a ""Kitchen Appliance"" to it.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+956,https://www.kmart.com.au,CREATE,"Add a new shipping address to your Kmart account by providing all required details such as street address, city, state, and postal code.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+957,https://www.kmart.com.au,CREATE,"Subscribe to Kmart's newsletter by entering your email address to receive weekly deals and promotional offers.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+958,https://www.kmart.com.au,CREATE,"Log in to your Kmart account, create a new wishlist titled ""Holiday Gifts,"" and add 3 items representing gifts for him, for her, and for kids.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+959,https://www.kmart.com.au,CREATE,"Submit a customer query regarding the availability of ""Organic Bedding"" using Kmart’s online contact form.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+960,https://www.kmart.com.au,DELETE,"Log in to your Kmart account, add a ""Camera"" to your shopping cart, then remove the ""Camera"" item from your shopping cart, and confirm its deletion from the cart.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+961,https://www.kmart.com.au,DELETE,"Log in, create a ""Family Essentials"" wishlist and add 3 items including a children's toy. Then access your ""Family Essentials"" wishlist, remove the toy item, and verify that it is no longer listed in the list.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+967,https://www.kmart.com.au,UPDATE,"Login, add wireless headphones to your shopping cart, then modify the quantity of a ""Wireless Headphones"" item in your shopping cart to 2 and verify that the total price is recalculated accurately.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+968,https://www.kmart.com.au,UPDATE,"Adjust your newsletter subscription preferences from daily updates to a weekly digest for promotional alerts and deals.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1203,https://www.newegg.com,CREATE,"Log in to your Newegg account and create a new wishlist titled ""Gaming Setup,"" then add the product ""Logitech G502 HERO Gaming Mouse"" to it.
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1204,https://www.newegg.com,CREATE,"Log in to your Newegg account and submit a new product review for the ""AMD Ryzen 9 5900X Processor,"" including a star rating and a detailed comment on its gaming performance.
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1205,https://www.newegg.com,CREATE,"Post a new question in the Q&A section of the ""Samsung 27-inch Curved Monitor"" product page asking, ""Does this monitor support a 144Hz refresh rate?""
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1206,https://www.newegg.com,CREATE,"Log in to your account and post a detailed question in the Q&A section on the ""Dell G15 Gaming Laptop"" product page asking, ""How does the thermal performance compare under heavy load?""
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1207,https://www.newegg.com,CREATE,"Log in to your Newegg seller account (or convert your account to a seller if eligible) and create a new product listing for a refurbished ""HP EliteDesk 800 G5 Desktop,"" including specifications, condition, pricing, and warranty details.
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1208,https://www.newegg.com,DELETE,"Log in to your Newegg account, create a new wishlist titled ""Temp Wishlist,"" add the ""Seagate Barracuda 2TB HDD"" to it, then delete the item from the wishlist and confirm its removal.
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1214,https://www.newegg.com,UPDATE,"Log in to your Newegg account, navigate to your account settings, and update your primary shipping address to 92 2nd Ave, New York, NY, 1003. Apartment 11. 
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1215,https://www.newegg.com,UPDATE,"Log in to your Newegg account and modify your email notification preferences to receive promotional emails on a weekly basis instead of daily.
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1227,https://www.nordstrom.com,CREATE,"Log in to your account, create a new Wish List titled ""Weekend Looks"", and add a pair of lace up leather boots to your Weekend Looks wishlist.
+Only use http://nordstrom.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1228,https://www.nordstrom.com,CREATE,"Log in to your account, create a saved wish list called ""Vacation Wardrobe"", and add one item each from Women’s sweaters, accessories, and skirts categories.
+Only use http://nordstrom.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1229,https://www.nordstrom.com,CREATE,"Log in to your account, create a wish list titled ""Business Essentials"", and add one Men's suit, one pair of formal shoes, and a selected hat.
+Only use http://nordstrom.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1230,https://www.nordstrom.com,DELETE,"Log in, add the ""Ray-Ban Aviator Sunglasses"" to your wish list, then remove that item and confirm its deletion from your account.
+Only use http://nordstrom.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1231,https://www.nordstrom.com,DELETE,"Log in, create a wish list titled ""Past Purchases"", and then permanently delete that wish list.
+Only use http://nordstrom.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1237,https://www.nordstrom.com,UPDATE,"Log in, create a wish list named ""Weekday Looks"", add a Burberry Scarf to the list
+Only use http://nordstrom.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1363,https://www.playstation.com/en-us,CREATE,"Log in to your PlayStation account, create a new wishlist called ""RPG Favorites,"" and add the game ""Final Fantasy VII Remake"" to it.
+Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1364,https://www.playstation.com/en-us,CREATE,"Subscribe to the newsletters by entering your email to receive monthly updates on PlayStation news, deals, and events.
+Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1365,https://www.playstation.com/en-us,CREATE,"In the support section, submit a formal inquiry about issues with remote downloads, specifying your console model and error details.
+Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1366,https://www.playstation.com/en-us,DELETE,"Log in to your account, add a new shipping address for testing purposes, then delete that address and confirm the deletion from your profile.
+Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1372,https://www.playstation.com/en-us,UPDATE,"Add ""Uncharted: Legacy"" to your wishlist. Then add ""Gran Turismo 7"" and remove an outdated entry labeled ""Uncharted: Legacy."" from wishlist
+Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1373,https://www.playstation.com/en-us,UPDATE,"Add a PlayStation Plus subscription for 1 months and then switch your renewal option from automatic to manual for the next billing cycle.
+Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1418,https://www.redbubble.com,CREATE,"Log in to your Redbubble account, search for the design “Sunset Harmony,” and add a product to a new wishlist titled “Inspiration Picks.”
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1419,https://www.redbubble.com,CREATE,"Write and submit a product review for the “Galactic Nebula Hoodie,” including a star rating of 4 out of 5 and a brief comment about its quality.
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1420,https://www.redbubble.com,CREATE,"Write an artist statement on your public profile that explains the fictional inspiration behind your latest design titled “Dreamscape Aurora.”
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1421,https://www.redbubble.com,CREATE,"Add the design “Rustic Charm” to your collection of favorites and use the website’s sharing feature to generate a shareable link.
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1422,https://www.redbubble.com,CREATE,"Create a public list on your profile showcasing your top 5 favorite Redbubble products and include brief descriptions for each item.
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1423,https://www.redbubble.com,DELETE,"Log in to your account, add the design “Retro Sunset” to your favorites, then remove it and verify that it has been successfully deleted from your favorites list.
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1429,https://www.redbubble.com,UPDATE,"Log in to your account, navigate to your default shipping address settings, and update it to “123 Creative Lane, Art City, NY 11223.”
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1512,https://us.shein.com/?ref=www&rep=dir&ret=us,CREATE,"Log in to your account and create a new board titled ""Summer 2024"" in the ""Wish List"" section, then add a ""sleeveless midi dress"" from the Women’s category to it.
+Only use http://shein.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1513,https://us.shein.com/?ref=www&rep=dir&ret=us,CREATE,"From the homepage's ""Top Trends"" section, select an accessory (for example, a statement necklace) and check if social media sharing feature is availble
+Only use http://shein.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1514,https://us.shein.com/?ref=www&rep=dir&ret=us,CREATE,"Explore the ""New In"" section, add a ""striped off-shoulder top"" to your shopping cart, and note the final price as displayed during checkout.
+Only use http://shein.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1515,https://us.shein.com/?ref=www&rep=dir&ret=us,CREATE,"Start a new shopping cart session by adding multiple items (e.g., ""casual sneakers,"" ""high-waist jeans,"" and a ""leather bag"") and record the cart summary details.
+Only use http://shein.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1516,https://us.shein.com/?ref=www&rep=dir&ret=us,DELETE,"Log in, add a ""casual t-shirt"" to your wishlist, then remove it and verify that it no longer appears in your wishlist.
+Only use http://shein.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1522,https://us.shein.com/?ref=www&rep=dir&ret=us,UPDATE,"While logged in, add a ""gold hoop earrings"" product to your cart, update its quantity to 2 units, and verify that the total price is adjusted accordingly.
+Only use http://shein.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1523,https://us.shein.com/?ref=www&rep=dir&ret=us,UPDATE,"Log in to your account, create a board titled ""Summer Styles"" and rename it to ""Resort Collection,"" then confirm that the new name appears.
+Only use http://shein.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1714,https://store.steampowered.com,CREATE,"Create a new wishlist titled ""Upcoming Indie Titles"" and add three recently released indie games to it.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1715,https://store.steampowered.com,CREATE,"Write and submit a game review for ""Red Dead Redemption 2,"" including a 4-star rating and a brief comment on its storyline.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1716,https://store.steampowered.com,CREATE,"Build a custom game collection named ""My RPG Favorites"" by grouping together 5 role-playing games. 
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1717,https://store.steampowered.com,CREATE,"Start a discussion thread in the ""General Gaming"" forum asking for opinions on the latest Valve platform update.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1718,https://store.steampowered.com,CREATE,"Develop and share a detailed user guide on ""How to Use Steam Remote Play Together"" in the community guides section.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1719,https://store.steampowered.com,CREATE,"Draft and submit a feedback post on the Steam forums suggesting improvements to the library management interface.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1720,https://store.steampowered.com,DELETE,"Log in, create a temporary forum post in the ""General Discussion"" section, then delete it and confirm its removal.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1721,https://store.steampowered.com,DELETE,"Login, add Team Fortress 2 to your wishlist, then remove""Team Fortress 2"" from your wishlist and verify that it no longer appears in your list.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1727,https://store.steampowered.com,UPDATE,"Log in to your Steam account and update your profile bio to include your latest gaming achievements.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1728,https://store.steampowered.com,UPDATE,"Change your account privacy settings so that only friends can view your game library and recent activity.
+Only use http://steampowered.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1947,https://www.uniqlo.com/us/en,CREATE,"Log in to your account and create a new wishlist titled ""Summer Essentials,"" then add at least 3 trending summer products found on the homepage to the list.
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1948,https://www.uniqlo.com/us/en,CREATE,"Log in to your Uniqlo account, locate the GIRLS American Sleeve Ribbed"" collection, and write a detailed product review for one item that includes a star rating and descriptive comment.
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1949,https://www.uniqlo.com/us/en,CREATE,"Log in to your Uniqlo account, navigate to the product page for the AIRism Short Sleeve, and write a product review including a star rating, a pros and cons list, and a brief comment on its comfort and design.
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1950,https://www.uniqlo.com/us/en,CREATE,"Log in to your Uniqlo account and update your account settings by adding a new shipping address in the Address Book with complete details (street, city, postal code), then verify that the new address is saved.
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1951,https://www.uniqlo.com/us/en,DELETE,"Log in to your Uniqlo account, add the BlockTech Shirt to a wishlist, then remove it from the wishlist, confirming that the product no longer appears on the list.
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1952,https://www.uniqlo.com/us/en,DELETE,"Log in to your account, navigate to the Address Book, and delete an outdated shipping address, confirming that it is removed from your list.
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1958,https://www.uniqlo.com/us/en,UPDATE,"Log in to your Uniqlo account, go to your shopping cart, add the HEATTECH Thermal Leggings product, and update its quantity from 1 to 2.
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1959,https://www.uniqlo.com/us/en,UPDATE,"Log in to your account, navigate to your profile settings, and update your preferred T-shirt size from ""Medium"" to ""Large.""
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2057,https://www.walmart.com,CREATE,"Locate the Walmart Customer Servicing AI Chat and ask it for help on your most recent order
+Only use http://walmart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2058,https://www.walmart.com,CREATE,"Locate 3 top-rated vacuum cleaner and determine which one can be delivered the fastest to New York City, and add it to cart. 
+Only use http://walmart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2059,https://www.walmart.com,CREATE,"Upvote the top ranked feedback left for the PS5 gaming console
+Only use http://walmart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2060,https://www.walmart.com,CREATE,"Create a new Holiday wishlist and add a “Nintendo Switch Console” to it
+Only use http://walmart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2206,https://www.yellowpages.com,CREATE,"Submit a review for ""Sunshine Salon"" in Orlando, FL with a 5-star rating and a descriptive comment about your experience.
+Only use http://yellowpages.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2207,https://www.yellowpages.com,CREATE,"Submit a question on the Homepage's ""Ask a Question"" page about a ""Sunrise Dental Clinic"" listing in Houston, TX to inquire further about their offerings.
+Only use http://yellowpages.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2208,https://www.yellowpages.com,CREATE,"Add a detailed review for ""Global Tech Service"" in Atlanta, GA describing your recent experience with their IT services and assign a 4-star rating.
+Only use http://yellowpages.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2209,https://www.yellowpages.com,CREATE,"Submit customer feedback for ""First Choice Car Rental"" in Minneapolis, MN that includes your overall experience along with service quality ratings.
+Only use http://yellowpages.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2210,https://www.yellowpages.com,DELETE,"Log in to your YellowPages account, create a review for ""Sunshine Salon,"" then delete that review from your profile and confirm its removal.
+Only use http://yellowpages.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2306,https://streeteasy.com,CREATE,"Log in to your agent account and create a new rental listing for a 1-bedroom apartment in East Village, including full details such as price, amenities, and address.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2307,https://streeteasy.com,CREATE,"Log in to your account and create a new favorites list within folders titled ""NYC Dream Rentals,"" adding three distinct Manhattan listings to it.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2308,https://streeteasy.com,CREATE,"Log in as a property owner and submit a new sale listing for your condo in the Upper East Side, ensuring all property details are complete.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2309,https://streeteasy.com,CREATE,"As a user, set up a saved search alert for 2-bedroom apartments in Brooklyn under $2,500, naming the alert ""Affordable Brooklyn 2BR.""
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2310,https://streeteasy.com,CREATE,"Log in to StreetEasy and update your profile by adding detailed contact information along with your property interests.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2311,https://streeteasy.com,CREATE,"As a real estate agent, log in and create a branded profile page for a new luxury apartment listing in Tribeca.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2312,https://streeteasy.com,CREATE,"Create a favorites list titled ""High-Rise Loves"" in your account and add at least 5 high-rise apartment listings from Manhattan.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2313,https://streeteasy.com,CREATE,"As a property owner, log in and create a new listing for a 3-bedroom apartment in Harlem, including a comprehensive set of property details.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2314,https://streeteasy.com,CREATE,"Log in as a user and compile a new favorites list titled ""Luxury Rentals,"" adding at least 4 listings from Manhattan’s high-end market.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2315,https://streeteasy.com,CREATE,"Find the most affordable apartment south of Houston Street.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2316,https://streeteasy.com,CREATE,"Log in to your account and set up a new alert for 1-bedroom apartments in NYC under $2,000, naming it ""Budget Apartment Alert.""
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2317,https://streeteasy.com,CREATE,"Log in and add a note to your saved search for Brooklyn lofts detailing two features that appeal to you in the listed properties.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2318,https://streeteasy.com,CREATE,"As a prospective renter, log in and create a custom filter for listings that offer short-term leases, then save the filter for future searches.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2319,https://streeteasy.com,CREATE,"Log in to your account and bookmark a studio apartment listing in SoHo, adding a note about its proximity to a major subway line.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2320,https://streeteasy.com,CREATE,"Log in to your account and draft a property description for a potential rental option in Midtown, including details on square footage and amenities.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2321,https://streeteasy.com,DELETE,"Log in to your account and create a wishlist titled ""Best."" Then remove the wishlist titled ""Best"" confirming its deletion from your list.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2322,https://streeteasy.com,DELETE,"Log in to your account, bookmark a note on a certain property. Then locate a previously bookmarked note on a property, and delete the note, then verify its removal.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2323,https://streeteasy.com,FILE_MANIPULATION,"As a PRO agent, log in and generate a showsheet PDF for a listing in Soho, then download and verify that the file was generated correctly.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2324,https://streeteasy.com,FILE_MANIPULATION,"As a PRO agent, download the most recent showsheet PDF for a listing in Chelsea and verify that the file title includes the word ""showsheet.""
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2325,https://streeteasy.com,FILE_MANIPULATION,"Find and download the latest market report on NYC rentals from StreetEasy, then confirm that the downloaded file’s title contains ""Market Report.""
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2326,https://streeteasy.com,FILE_MANIPULATION,"Locate and download the downloadable guide on buying property from StreetEasy, then verify that the file includes the phrase ""buyer guide.""
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2332,https://streeteasy.com,UPDATE,"Log in to your account and create and save a search called ""NYC Dream."" Then update your saved search ""NYC Dream"" to include an additional filter for outdoor spaces.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2333,https://streeteasy.com,UPDATE,"While logged in, adjust your advanced filter settings to also include properties in adjacent boroughs beyond Manhattan.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2428,https://www.costco.com,CREATE,"Create a new wishlist titled ""Office Supplies"" and add the ""Office Favorites Snack Box"" to it.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2429,https://www.costco.com,CREATE,"Write and submit a product review for the ""Kirkland Signature Ultra Soft Bedding Set"" including a star rating and a comment on its quality.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2430,https://www.costco.com,CREATE,"Create a digital shopping list by adding ""Kirkland Signature Almonds (bulk pack) for future order planning.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2431,https://www.costco.com,CREATE,"Add 2 packs of ""Kirkland Signature AA Batteries"" and 1 pack of ""Kirkland Signature Toilet Paper"" to your cart.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2432,https://www.costco.com,CREATE,"Register a new account on Costco.com and then navigate to the membership renewal page to set up auto-renewal for the membership.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2433,https://www.costco.com,CREATE,"Build a new ""My Warehouse"" inventory checklist by selecting several products and adding them to the list after checking availability at a store near zip code 10001.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2434,https://www.costco.com,DELETE,"Log in to your Costco account, add ""Bulk Paper Towels"" to your shopping list, then delete the item and verify its removal from the list.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2435,https://www.costco.com,DELETE,"Add a new shipping address in your profile within the zip code 18940, then remove that address and ensure it no longer appears in your saved addresses.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2441,https://www.costco.com,UPDATE,"Add one pack of ""Kirkland Signature Organic Orange Juice"" to your cart. While reviewing your shopping cart, change the quantity of ""Kirkland Signature Organic Orange Juice"" from one pack to three packs and confirm the updated total price.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2442,https://www.costco.com,UPDATE,"In your account settings, update your shipping address from ""123 Old St"" to ""456 New Blvd"" and save the changes.
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2549,https://www.johnlewis.com,CREATE,"Log in to your account, create a new wishlist titled “Home Essentials,” and add both a “Designer Sofa” and a “Coffee Table” from the Furniture category.
+Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2550,https://www.johnlewis.com,CREATE,"Write and submit a product review for the “John Lewis & Partners Microwave,” including a 4-star rating and a comment of approximately 100 words.
+Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2551,https://www.johnlewis.com,DELETE,"Log in to your account, add a “Bracelet Watch” to your wishlist, then remove it, and confirm that it has been successfully deleted from your wishlist.
+Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2557,https://www.johnlewis.com,UPDATE,"Log in to your John Lewis account, add “Basketball Shoes” to your cart, update the quantity to 2, and confirm the new total price displayed.
+Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2558,https://www.johnlewis.com,UPDATE,"Create a list named 'Home Essentials"" and update the “Home Essentials” list by adding a “Dining Table” from the Furniture section.
+Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2559,https://www.johnlewis.com,UPDATE,"Sign in to your account and change your delivery preference for orders over £50 from home delivery to click-and-collect at a nearby location.
+Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2606,https://www.nike.com,CREATE,"Use the ""Nike By You"" customization tool to design a custom pair of sneakers with a blue color scheme, then save the design.
+Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2607,https://www.nike.com,CREATE,"Write and submit a product review for a pair of Nike running shoes, including a 5-star rating and comments on comfort and style.
+Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2608,https://www.nike.com,DELETE,"Log in to your Nike account, add a product (such as a pair of Nike soccer cleats) to your cart, then remove the product and confirm its deletion from the cart.
+Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2609,https://www.nike.com,DELETE,"Within your Nike account settings, create a temporary saved shipping address of ""1234 Smith Drive, New York, NY 10001"" from your profile. Then remove it and verify its removal.
+Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2615,https://www.nike.com,UPDATE,"Add Nike Air Force 1 product to your cart, then update the shopping cart quantity from one pair to two pairs of the item.
+Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

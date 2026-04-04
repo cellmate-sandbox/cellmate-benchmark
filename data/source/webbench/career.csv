@@ -1,0 +1,73 @@
+ID,Starting URL,Category,Task
+677,https://www.glassdoor.com/index.htm,CREATE,"Log in to your Glassdoor account and submit an anonymous review for your current employer, BCG, including a 4‑star rating, three pros, and two cons.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+678,https://www.glassdoor.com/index.htm,CREATE,"Log in and create a new salary submission for a ""Product Manager"" position, detailing base salary, bonus, and any additional compensation components.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+679,https://www.glassdoor.com/index.htm,CREATE,"Log in to your Glassdoor account and add an interview review for a Finance Manager role, including the questions asked, interviewer impressions, and an overall difficulty rating.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+680,https://www.glassdoor.com/index.htm,CREATE,"Post a new discussion in a Glassdoor community Bowl about work-life balance at tech startups, providing your insights and suggestions.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+681,https://www.glassdoor.com/index.htm,CREATE,"Log in and submit a feedback tip for improving the company review process on Glassdoor, detailing specific areas where enhancements can be made.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+682,https://www.glassdoor.com/index.htm,CREATE,"Log in to your Glassdoor account, and join The Worklife Bowl, the New York City Bowl, and Job Referrals! Bowl.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+683,https://www.glassdoor.com/index.htm,CREATE,"Log in to your Glassdoor account and share your interview feedback for ""Salesforce"" by posting a detailed anonymous interview experience that includes specific questions and an overall difficulty rating.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+684,https://www.glassdoor.com/index.htm,CREATE,"Submit a new salary information entry on Glassdoor for a ""Marketing Manager"" position at a mid-sized company, including details for base salary, bonus, and location while ensuring anonymity.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+685,https://www.glassdoor.com/index.htm,DELETE,"Log in to your Glassdoor account, submit a new anonymous review for a company of your choice, then delete that review immediately, confirming that it has been removed from your profile.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+686,https://www.glassdoor.com/index.htm,DELETE,"Log in to your Glassdoor account, create an interview review for a ""Sales Manager"" position, then delete the interview review, validating that it is no longer visible.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+687,https://www.glassdoor.com/index.htm,DELETE,"Log in to your Glassdoor account, post a new comment in a community discussion about job search tips, then delete your comment and verify that it is no longer displayed.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+693,https://www.glassdoor.com/index.htm,UPDATE,"Log in to your Glassdoor account, create a review for ""Apple"" as your employer, and submit the rating as 4 stars. Then locate the review you submitted for ""Apple"", and update it by increasing the rating from 4 to 5 stars and adding two new pros.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+694,https://www.glassdoor.com/index.htm,UPDATE,"Log in to your Glassdoor account, post a review for the firm ""Accenture."" Then find the review you posted for ""Accenture"", and update the text to add further insights about career growth opportunities.
+Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1009,https://www.linkedin.com,CREATE,"Log in and create a new text post about your recent professional success, tagging two colleagues.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1010,https://www.linkedin.com,CREATE,"Publish a long-form article titled “The Future of Remote Work” using LinkedIn’s article editor, complete with an introduction and body text.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1011,https://www.linkedin.com,CREATE,"Create a Linkedin update post suggesting you got a job promotion and are now a Senior Associate at McKinsey.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1012,https://www.linkedin.com,CREATE,"Initiate a poll asking your network “What is your preferred work-from-home setup?” with four distinct answer options.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1013,https://www.linkedin.com,CREATE,"Write a direct message to a new connection thanking them for connecting and mentioning a shared professional interest.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1014,https://www.linkedin.com,CREATE,"Add a new certification entry titled “Certified Data Professional” to your profile, including the issuing organization and date earned.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1015,https://www.linkedin.com,CREATE,"Add a job history entry to your profile titled Analyst at LabRite, from June 2021 - September 2023.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1016,https://www.linkedin.com,CREATE,"Post a recommendation for a colleague, highlighting their project management expertise.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1017,https://www.linkedin.com,CREATE,"Comment on a recent article posted by Google, ensuring that your comment has a positive and professional connotation.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1018,https://www.linkedin.com,CREATE,"Compose and publish a newsletter titled “Career Hacks” with an outline covering at least three topics for the first issue.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1019,https://www.linkedin.com,CREATE,"Create a job description post on your LinkedIn profile for a freelance project opportunity.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1020,https://www.linkedin.com,CREATE,"Write a LinkedIn post sharing your insights on current market trends in digital marketing.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1021,https://www.linkedin.com,CREATE,"Compose a text-based post asking your network for advice on upskilling in data analytics and mention two trending skills you wish to learn.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1022,https://www.linkedin.com,DELETE,"Log in to your LinkedIn account, comment on a group discussion, and delete it.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1023,https://www.linkedin.com,DELETE,"Find a random profile on Linkedin, and request to connect. Then cancel the pending connection request that has not yet been accepted.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1024,https://www.linkedin.com,DELETE,"Make a Linkedin post about an event, and then remove it. 
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1025,https://www.linkedin.com,DELETE,"Save a job posting to a list of saved jobs. Then remove the saved job posting from your list of saved jobs.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1026,https://www.linkedin.com,FILE_MANIPULATION,"Log in to your LinkedIn account, navigate to account settings, export your connection data as a CSV file, and verify that the file contains your full connection list.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1032,https://www.linkedin.com,UPDATE,"Log in to your LinkedIn account and update your headline to “Senior Software Engineer at Google.”
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1033,https://www.linkedin.com,UPDATE,"Make a post thanking several colleagues. Then edit the post to add an additional relevant hashtag before resubmitting it.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1034,https://www.linkedin.com,UPDATE,"Update your LinkedIn profile summary to include details about a recent major project and new skills acquired.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1035,https://www.linkedin.com,UPDATE,"Update your privacy settings so that only your first-degree connections can view your contact information.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1036,https://www.linkedin.com,UPDATE,"Change the URL of your public LinkedIn profile to a personalized version.
+Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

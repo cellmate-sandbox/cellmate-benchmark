@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables (Secrets)
+.env
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE Settings (Optional but recommended)
+.vscode/
+.idea/
+
+# Local Output Data (Optional: ignore your results JSONs)
+results_*.json

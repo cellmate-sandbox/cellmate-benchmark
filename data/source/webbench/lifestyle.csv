@@ -1,0 +1,79 @@
+ID,Starting URL,Category,Task
+49,https://www.allrecipes.com,CREATE,"Log in and submit a new original recipe titled ""Spicy Mango Salsa"" including a list of ingredients and step-by-step instructions.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+50,https://www.allrecipes.com,CREATE,"Log in to your account, create a new collection titled ""Weekend Baking"" and add at least 3 dessert recipes to it.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+51,https://www.allrecipes.com,CREATE,"Log in, write a detailed review for the ""Lemon Chicken Orzo Soup"" recipe including a 5-star rating and your comments on taste and presentation.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+52,https://www.allrecipes.com,CREATE,"Log in, post a review on a grilled salmon recipe describing your success in using a homemade marinade, and rate it with 5 stars.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+53,https://www.allrecipes.com,CREATE,"Log in and extract the ingredients for the ""Taco Salad"" recipe to create a shopping list.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+54,https://www.allrecipes.com,CREATE,"Log in, write a brief tip as a review on the ""Best Brownies"" recipe suggesting an alternative baking time, and rate the recipe with 5 stars.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+55,https://www.allrecipes.com,CREATE,"Log in to your account, go to ""Add a Recipe"" section, and submit an adapted version of the classic ""Meatloaf"" recipe with healthier ingredient substitutions.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+56,https://www.allrecipes.com,CREATE,"Log in, create a new recipe collection titled ""Quick Weeknight Dinners"" and populate it with 5 chosen recipes.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+57,https://www.allrecipes.com,CREATE,"Log in, write a review for an ""Avocado Toast"" recipe, commenting on its nutritional information display and taste, and rate it with 5 stars.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+58,https://www.allrecipes.com,CREATE,"Log in and share your cooking experience on the ""Ultimate Pancake"" recipe page, detailing how you customized it, then rate the recipe with 5 stars.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+59,https://www.allrecipes.com,CREATE,"Log in to your account and submit your own original recipe for ""Cinnamon Roll Muffins"" with clear step-by-step instructions.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+60,https://www.allrecipes.com,CREATE,"Log in, write a recipe variation comment on the ""Classic Caesar Salad"" recipe outlining your suggestion for a vegan dressing alternative, and rate the recipe with 5 stars.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+61,https://www.allrecipes.com,CREATE,"Log in to your allrecipes account and sign up to their Newsletter.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+62,https://www.allrecipes.com,DELETE,"Log in, save the ""Best Brownies"" recipe to your Saved Recipes, then go to your Saved Recipes page and remove the recipe that you previously saved.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+68,https://www.allrecipes.com,UPDATE,"Log in, write a review on the ""Classic Caesar Salad"" recipe suggesting a vegan dressing alternative, and rate the recipe with 5 stars. Then, go to your review and edit it to to specify a preferred brand of vegan dressing.
+Only use http://allrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+69,https://www.alltrails.com,CREATE,"Log in to your account and create a custom list titled ""Weekend Trails,"" then add the ""Lake Loop"" trail to this list.
+Only use http://alltrails.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+70,https://www.alltrails.com,CREATE,"Log in to your account and submit a new review for the ""Fig Tree Loop"" trail, including a star rating and a brief comment about its difficulty.
+Only use http://alltrails.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+71,https://www.alltrails.com,CREATE,"Log in to your account and write a detailed trail review for the ""Redwood Creek"" trail, commenting on the scenery, difficulty, and overall experience.
+Only use http://alltrails.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+72,https://www.alltrails.com,CREATE,"Log in to your account and add a comment on the ""Sunrise Peak"" trail page congratulating the team for their excellent maintenance of the trail.
+Only use http://alltrails.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+73,https://www.alltrails.com,DELETE,"Log in to your account, add the ""Canyon Loop"" trail to your saved trails, and then delete it—confirm that it no longer appears in your list.
+Only use http://alltrails.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+79,https://www.alltrails.com,UPDATE,"Log in to your account and modify your privacy settings to hide your activity feed from public view.
+Only use http://alltrails.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+80,https://www.alltrails.com,UPDATE,"Log in to your account and update your adventure profile by changing your favorite activity from ""hiking"" to ""mountain biking.""
+Only use http://alltrails.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+339,https://www.delish.com,CREATE,"Log in to your Delish account (or create one if you don’t have one) and save the ""Marry Me Chicken"" recipe to your favorites list.
+Only use http://delish.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+340,https://www.delish.com,CREATE,"Save three recipes from the ""Dinner"" category to your account’s favorites list on Delish.com.
+Only use http://delish.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+341,https://www.delish.com,CREATE,"Log in to your Delish account and create a new public recipe collection titled ""Weekend Treats"", then add three favorite dessert recipes from Delish to this collection.
+Only use http://delish.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+343,https://www.delish.com,DELETE,"Log in to your Delish account, create a recipe collection you created titled ""Weekend Treats"", and delete the whole recipe collection and confirm its removal
+Only use http://delish.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+349,https://www.delish.com,UPDATE,"Log in to your account, create a saved recipes list and add a recipe for Air Fryer Chicken Wings with the ""Dinner"" tag, then access your saved recipes list, and update the tags for the ""Air Fryer Chicken Wings"" recipe from ""Dinner"" to ""Quick Meals"".
+Only use http://delish.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1530,https://www.simplyrecipes.com,CREATE,"Write and submit a comment on the ""Easy One-Pan Pasta"" recipe expressing your feedback and suggesting a substitute ingredient you tried.
+Only use http://simplyrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1531,https://www.simplyrecipes.com,CREATE,"Compose a 100-word review of the ""Ultimate Chocolate Chip Cookies"" recipe, detailing your personal experience and any modifications you made.
+Only use http://simplyrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1532,https://www.simplyrecipes.com,CREATE,"Write a celebratory post comment on the ""Family Favorites"" section describing how one of the Simply Recipes recipes has become a part of your weekly tradition.
+Only use http://simplyrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1538,https://www.simplyrecipes.com,UPDATE,"Update your newsletter subscription settings on Simply Recipes to switch from daily alerts to receiving weekly recipe updates only.
+Only use http://simplyrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1539,https://www.simplyrecipes.com,UPDATE,"Login, post a comment praising a Lentil Soup recipe, then edit your previously submitted comment with additional recommendations for pairings with this dish. 
+Only use http://simplyrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1540,https://www.simplyrecipes.com,UPDATE,"Create a review for a ""Spaghetti Carbonara"" recipe, then modify your review for the ""Spaghetti Carbonara"" recipe by adding additional details about the cooking techniques you found most helpful.
+Only use http://simplyrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+1541,https://www.simplyrecipes.com,UPDATE,"Change your newsletter subscription email address on Simply Recipes to a new email and verify that the change has been successfully registered.
+Only use http://simplyrecipes.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2365,https://www.bbcgoodfood.com,CREATE,"Write and submit a comment on the ""Avocado Toast"" recipe that includes a 4-star rating and a brief review of your experience.
+Only use https://www.bbcgoodfood.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2366,https://www.bbcgoodfood.com,CREATE,"Create a new recipe collection titled ""Weekend Brunch"" and add the ""Banana Pancakes"" and ""Shakshuka"" recipes to it.
+Only use https://www.bbcgoodfood.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2367,https://www.bbcgoodfood.com,DELETE,"Log in, create a “Quick Pasta” recipe collection and add 3 pasta recipes, then delete the recipe collection and confirm it is gone
+Only use https://www.bbcgoodfood.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2368,https://www.bbcgoodfood.com,DELETE,"Log in, post a comment under a grilled chicken recipe, then delete that comment. 
+Only use https://www.bbcgoodfood.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."
+2369,https://www.bbcgoodfood.com,FILE_MANIPULATION,"From the ""Classic Beef Stew"" recipe page, print the recipe to a PDF file and extract a textual list of the ingredients included.
+Only use https://www.bbcgoodfood.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site."

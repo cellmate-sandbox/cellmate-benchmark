@@ -1,0 +1,66 @@
+{
+  "commerce_platform": [
+    "Authentication",
+    "Collection Management",
+    "Reviews & Ratings",
+    "Q&A Interaction",
+    "Notifications & Alerts",
+    "Profile Management",
+    "Commerce",
+    "Reservation & Booking",
+    "Communication"
+  ],
+
+  "content_sharing_platform": [
+    "Content Creation",
+    "Collection Management",
+    "Reviews & Ratings",
+    "Notifications & Alerts",
+    "Profile Management"
+  ],
+
+  "knowledge_community_platform": [
+    "Content Creation",
+    "Q&A Interaction",
+    "Reviews & Ratings",
+    "Notifications & Alerts",
+    "Profile Management"
+  ],
+
+  "media_library_platform": [
+    "Communication",
+    "Reviews & Ratings",
+    "Notifications & Alerts",
+    "Profile Management"
+  ],
+
+  "developer_collaboration_platform": [
+    "Content Creation",
+    "Q&A Interaction",
+    "Collaboration",
+    "Developer Collaboration",
+    "Notifications & Alerts",
+    "Profile Management"
+  ],
+
+  "reservation_service_platform": [
+    "Reservation & Booking",
+    "Reviews & Ratings",
+    "Notifications & Alerts",
+    "Profile Management"
+  ],
+
+  "information_reference_platform": [
+    "Social Platform",
+    "Notifications & Alerts",
+    "Profile Management"
+  ],
+
+  "professional_network_platform": [
+    "Content Creation",
+    "Collaboration",
+    "Q&A Interaction",
+    "Notifications & Alerts",
+    "Profile Management"
+  ]
+}
