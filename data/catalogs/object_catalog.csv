@@ -18,8 +18,10 @@ Online Learning,Course,"A container that organizes learning materials, assignmen
 Online Learning,Assignment,An activity or assessment that students must complete as part of a course.,https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-an-Assignment/ta-p/38
 Online Learning,Study Plan,A structured plan of tasks or milestones that guide learners toward completing learning objectives.,https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-learning-objectives/ta-p/1007
 Online Learning,Learning Goal,A defined learning objective used to measure student progress or mastery.,https://community.canvaslms.com/t5/Instructor-Guide/What-are-Outcomes/ta-p/668
-Notifications & Alerts,Alert,A persistent query or topic subscription that notifies the user when new matching content appears.,https://www.google.com/alerts
-Notifications & Alerts,Newsletter Subscription,An opt-in relationship through which posts or updates from a publisher are delivered to subscribers via email.,https://faq.substack.com/en/articles/1263415-how-substack-works
+Notifications & Subscription,Subscription,An opt-in relationship through which posts or updates from a publisher are delivered to subscribers via email.,https://faq.substack.com/en/articles/1263415-how-substack-works
+Notifications & Subscription,Notification,"A message sent to a user to inform them of an event, update, or action related to their account or content.",https://support.google.com/accounts/answer/9079647
+Notifications & Subscription,Notification Preference,"User-configured settings that determine how and when notifications are delivered for various events or updates.",https://support.google.com/groups/answer/9792489
+Monitoring & Alerts,Alert,A persistent query or topic subscription that notifies the user when new matching content appears.,https://www.google.com/alerts
 Profile Management,Profile,"The user-facing representation of an account that includes identity attributes such as name, avatar, avatar frame, and biography.",https://support.google.com/youtube/answer/1646861
 Profile Management,Contact Information,"User-provided details such as email address, phone number, or mailing address used for communication or account recovery.",https://support.google.com/accounts/answer/32046
 Profile Management,Notification Preference,"Settings that determine whether and how a user receives notifications such as invitations, alerts, or updates.",https://support.google.com/groups/answer/9792489
@@ -31,6 +33,10 @@ Commerce,Coupon / Discount,A promotional mechanism that reduces the price of ite
 Commerce,Subscription (Commerce),A recurring billing arrangement where customers automatically pay for products or services at regular intervals.,https://help.shopify.com/en/manual/products/subscriptions
 Commerce,Trade In,An arrangement where customers can exchange an old item for credit toward a new purchase.,https://www.apple.com/shop/trade-in
 Commerce,E-Gift Card,"A digital code that can be redeemed for goods or services. A e-gift card is purchased and then sent to the recipient email inbox.",https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011
+Commerce,Payment Method,"A stored payment instrument such as a credit card or digital wallet used to complete purchases.",https://www.paypal.com/us/webapps/mpp/payment-methods
+Commerce,Fulfillment Method,"The delivery or pickup option selected for receiving physical goods after purchase.",https://www.shopify.com/blog/fulfillment
+Commerce,Delivery,"The process and details related to the shipment of physical goods, including address, instructions, and preferences.",https://www.shopify.com/encyclopedia/delivery
+Commerce,Pickup,"An arrangement where customers collect purchased items from a physical location rather than having them delivered.",https://www.shopify.com/blog/local-pickup
 Reservation & Booking,Reservation,"An arrangement in which a resource such as a seat, room, or table is held for a user at a specified time.",https://dictionary.cambridge.org/dictionary/english/reservation
 Reservation & Booking,Appointment,A scheduled meeting or service time with a specific provider or professional.,https://en.wikipedia.org/wiki/Appointment_(meeting)
 Collaboration,Project,"A workspace that groups related tasks, artifacts, and discussions for collaborative work.",https://docs.github.com/en/issues/planning-and-tracking-with-projects
