@@ -33,7 +33,12 @@ Q&A Interaction,Answer,delete_answer,Delete answer
 Q&A Interaction,Answer,upvote_answer,Endorse answer
 Q&A Interaction,Comment,post_comment,Post comment
 Q&A Interaction,Comment,delete_comment,Delete comment
+Q&A Interaction,Comment,update_comment,Edit comment
 Q&A Interaction,Comment,upvote_comment,Endorse comment
+Q&A Interaction,Poll,create_poll,Create a new poll
+Q&A Interaction,Poll,update_poll,Edit poll
+Q&A Interaction,Poll,delete_poll,Delete poll
+Q&A Interaction,Poll,vote_poll,Vote in poll
 Online Learning,Assignment,create_assignment,Create assignment or task
 Online Learning,Assignment,update_assignment,Modify assignment
 Online Learning,Assignment,delete_assignment,Delete assignment
@@ -77,6 +82,7 @@ Reservation & Booking,Reservation,cancel_reservation,Cancel reservation
 Reservation & Booking,Appointment,schedule_appointment,Schedule appointment
 Reservation & Booking,Appointment,reschedule_appointment,Reschedule appointment
 Reservation & Booking,Appointment,cancel_appointment,Cancel appointment
+Collaboration,Project,create_project,Create project or group
 Collaboration,Project,invite_user,Invite user to project/group
 Collaboration,Project,join_project,Join project/community
 Collaboration,Share Link,generate_shareable_link,Generate public share link

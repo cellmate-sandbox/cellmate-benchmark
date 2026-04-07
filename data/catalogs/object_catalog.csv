@@ -14,6 +14,7 @@ Reviews & Ratings,Rating,A numeric or scalar evaluation used to measure the qual
 Q&A Interaction,Question,A user-submitted request for information or help posted to a community for answers.,https://stackoverflow.com/help/how-to-ask
 Q&A Interaction,Answer,A response posted to address a question.,https://stackoverflow.com/help/answering
 Q&A Interaction,Comment,A short message attached to a post used for clarification or discussion.,https://stackoverflow.com/help/privileges/comment
+Q&A Interaction,Poll,"A user-created survey or questionnaire used to gather opinions or feedback from a community.",https://help.x.com/en/using-x/x-polls
 Online Learning,Course,"A container that organizes learning materials, assignments, and communication tools for an educational experience.",https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-a-Course/ta-p/33
 Online Learning,Assignment,An activity or assessment that students must complete as part of a course.,https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-an-Assignment/ta-p/38
 Online Learning,Study Plan,A structured plan of tasks or milestones that guide learners toward completing learning objectives.,https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-learning-objectives/ta-p/1007
