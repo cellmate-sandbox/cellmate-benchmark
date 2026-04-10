@@ -1,30 +1,28 @@
 Category,Core Object,Action,Description
-Authentication,Account,register_account,Create a new user account
-Authentication,Account,reset_password,Reset account password
 Navigation,Dashboard,view_dashboard,Access user dashboard
 Navigation,Activity,view_activity,View activity history or logs
 Collection Management,List,create_list,Create a new list/playlist/watchlist/library
-Collection Management,List,view_list,View list contents
 Collection Management,List,update_list_metadata,"Rename or update list metadata (e.g., description, visibility, note)"
 Collection Management,List,delete_list,Delete a list/playlist/watchlist/library
 Collection Management,List,add_to_list,Add item to list/playlist/watchlist/library
 Collection Management,List,remove_from_list,Remove item from list/playlist/watchlist/library
 Collection Management,List,move_between_lists,Move item between lists/playlists/watchlists/libraries
-Collection Management,List,share_list,Share list with others
-Collection Management,List,add_to_favorite,Add item to favorites
-Collection Management,List,remove_from_favorite,Remove item from favorites
+Collection Management,List,share_list,Share list by adding collaborators or generating shareable link
+Collection Management,Favorite,add_to_favorite,Add item to favorites
+Collection Management,Favorite,remove_from_favorite,Remove item from favorites
+Collection Management,Bookmark,add_bookmark,Bookmark item for later reference
+Collection Management,Bookmark,remove_bookmark,Remove bookmark
 Content Creation,Content,create_content,"Create/publish/post/submit content such as listing, posts, articles, media"
 Content Creation,Content,update_content,"Edit or update content such as listing, posts, articles, media"
 Content Creation,Content,delete_content,"Delete content such as listing, posts, articles, media"
 Content Creation,Draft,create_draft,Create draft content
 Content Creation,Draft,update_draft,Edit draft content
 Content Creation,Draft,delete_draft,Delete draft
-Content Creation,Media,upload_content,Upload files or media
-Content Creation,Media,download_content,Download content
+Content Creation,Share Link,generate_shareable_link,Generate public share link
 Reviews & Ratings,Review,create_review,Write and submit review and optionally include rating
 Reviews & Ratings,Review,update_review,Edit review or rating
 Reviews & Ratings,Review,delete_review,Delete review
-Reviews & Ratings,Review,vote_review,Upvote or endorse review
+Reviews & Ratings,Review,upvote_review,Upvote or endorse review
 Q&A Interaction,Question,post_question,Submit new question
 Q&A Interaction,Question,upvote_question,Endorse a question
 Q&A Interaction,Answer,post_answer,Submit answer
@@ -45,16 +43,15 @@ Online Learning,Assignment,delete_assignment,Delete assignment
 Online Learning,Assignment,submit_assignment,Submit completed assignment
 Online Learning,Study Plan,create_study_plan,Create learning plan
 Online Learning,Learning Goal,update_learning_goal,Modify learning goal
-Notifications & Subscription,Subscription,subscribe,Subscribe to an existing notification stream (e.g., newsletter or service updates)
-Notifications & Subscription,Subscription,unsubscribe,Unsubscribe from an existing notification stream
+Notifications & Subscription,Subscription,subscribe,"Subscribe to an existing notification stream (e.g., newsletter or service updates)"
+Notifications & Subscription,Subscription,unsubscribe,"Unsubscribe from an existing notification stream"
 Notifications & Subscription,Notifications,update_notification_settings,Update notification delivery preferences
 Monitoring & Alerts,Alert,create_alert,Create a user-defined condition-based alert
 Monitoring & Alerts,Alert,update_alert,Modify alert conditions or delivery settings
 Monitoring & Alerts,Alert,delete_alert,Delete alert
-Profile Management,Profile,update_contact_information,Modify contact details
+Profile Management,Profile,update_contact_information,"Modify contact details, including email, phone number, and mailing address"
 Profile Management,Profile,update_language_preferences,Update language settings
 Profile Management,Profile,update_privacy_settings,Change privacy settings
-Profile Management,Profile,update_notification_preferences,Change notification preferences
 Profile Management,Profile,start_membership,Join or renew paid membership
 Profile Management,Profile,cancel_membership,Cancel paid membership
 Profile Management,Profile,setup_auto_renewal,Enable automatic membership renewal
@@ -62,7 +59,7 @@ Profile Management,Profile,cancel_auto_renewal,Disable automatic membership rene
 Commerce,Cart,add_to_cart,Add item to shopping cart
 Commerce,Cart,remove_from_cart,Remove item from cart
 Commerce,Cart,update_cart,Change item quantity or options in cart
-Commerce,Cart,checkout,Complete purchase flow or place/create an order
+Commerce,Cart,checkout,Complete purchase flow or place/create an order for the current shopping cart
 Commerce,Cart,apply_coupon,Apply discount coupon or promotional code.
 Commerce,Cart,remove_coupon,Remove applied coupon or promotional code
 Commerce,Order,track_order,Track order status
@@ -75,7 +72,7 @@ Commerce,TradeIn,trade_in_item,Trade in item for credit
 Commerce,Payment,add_payment_method,Add payment method
 Commerce,Payment,remove_payment_method,Remove payment method
 Commerce,Payment,update_payment_method,Update payment method details
-Commerce,Fulfillment,update_fulfillment_method,Change delivery or pickup option
+Commerce,Delivery,update_delivery_or_pickup,Change delivery or pickup options for physical goods
 Reservation & Booking,Reservation,create_reservation,Make reservation
 Reservation & Booking,Reservation,update_reservation,Modify reservation
 Reservation & Booking,Reservation,cancel_reservation,Cancel reservation
@@ -85,7 +82,6 @@ Reservation & Booking,Appointment,cancel_appointment,Cancel appointment
 Collaboration,Project,create_project,Create project or group
 Collaboration,Project,invite_user,Invite user to project/group
 Collaboration,Project,join_project,Join project/community
-Collaboration,Share Link,generate_shareable_link,Generate public share link
 Developer Collaboration,Repository,create_repository,Create repository
 Developer Collaboration,Repository,update_repository,Modify repository metadata
 Developer Collaboration,Repository,delete_repository,Delete repository

@@ -2,9 +2,11 @@
   "commerce_platform": [
     "Authentication",
     "Collection Management",
+    "Content Creation",
     "Reviews & Ratings",
     "Q&A Interaction",
-    "Notifications & Alerts",
+    "Notifications & Subscription",
+    "Monitoring & Alerts",
     "Profile Management",
     "Commerce",
     "Reservation & Booking",
@@ -15,7 +17,7 @@
     "Content Creation",
     "Collection Management",
     "Reviews & Ratings",
-    "Notifications & Alerts",
+    "Notifications & Subscription",
     "Profile Management"
   ],
 
@@ -23,14 +25,14 @@
     "Content Creation",
     "Q&A Interaction",
     "Reviews & Ratings",
-    "Notifications & Alerts",
+    "Notifications & Subscription",
     "Profile Management"
   ],
 
   "media_library_platform": [
     "Communication",
     "Reviews & Ratings",
-    "Notifications & Alerts",
+    "Notifications & Subscription",
     "Profile Management"
   ],
 
@@ -39,20 +41,20 @@
     "Q&A Interaction",
     "Collaboration",
     "Developer Collaboration",
-    "Notifications & Alerts",
+    "Notifications & Subscription",
     "Profile Management"
   ],
 
   "reservation_service_platform": [
     "Reservation & Booking",
     "Reviews & Ratings",
-    "Notifications & Alerts",
+    "Notifications & Subscription",
     "Profile Management"
   ],
 
   "information_reference_platform": [
     "Social Platform",
-    "Notifications & Alerts",
+    "Notifications & Subscription",
     "Profile Management"
   ],
 
@@ -60,7 +62,7 @@
     "Content Creation",
     "Collaboration",
     "Q&A Interaction",
-    "Notifications & Alerts",
+    "Notifications & Subscription",
     "Profile Management"
   ]
 }

@@ -35,7 +35,6 @@ Commerce,Subscription (Commerce),A recurring billing arrangement where customers
 Commerce,Trade In,An arrangement where customers can exchange an old item for credit toward a new purchase.,https://www.apple.com/shop/trade-in
 Commerce,E-Gift Card,"A digital code that can be redeemed for goods or services. A e-gift card is purchased and then sent to the recipient email inbox.",https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011
 Commerce,Payment Method,"A stored payment instrument such as a credit card or digital wallet used to complete purchases.",https://www.paypal.com/us/webapps/mpp/payment-methods
-Commerce,Fulfillment Method,"The delivery or pickup option selected for receiving physical goods after purchase.",https://www.shopify.com/blog/fulfillment
 Commerce,Delivery,"The process and details related to the shipment of physical goods, including address, instructions, and preferences.",https://www.shopify.com/encyclopedia/delivery
 Commerce,Pickup,"An arrangement where customers collect purchased items from a physical location rather than having them delivered.",https://www.shopify.com/blog/local-pickup
 Reservation & Booking,Reservation,"An arrangement in which a resource such as a seat, room, or table is held for a user at a specified time.",https://dictionary.cambridge.org/dictionary/english/reservation
