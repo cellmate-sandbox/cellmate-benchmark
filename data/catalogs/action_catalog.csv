@@ -1,20 +1,16 @@
 Category,Core Object,Action,Description
 Navigation,Dashboard,view_dashboard,Access user dashboard
 Navigation,Activity,view_activity,View activity history or logs
-Collection Management,List,create_list,Create a new list/playlist/watchlist/library
-Collection Management,List,update_list_metadata,"Rename or update list metadata (e.g., description, visibility, note)"
-Collection Management,List,delete_list,Delete a list/playlist/watchlist/library
-Collection Management,List,add_to_list,Add item to list/playlist/watchlist/library
-Collection Management,List,remove_from_list,Remove item from list/playlist/watchlist/library
-Collection Management,List,move_between_lists,Move item between lists/playlists/watchlists/libraries
-Collection Management,List,share_list,Share list by adding collaborators or generating shareable link
-Collection Management,Favorite,add_to_favorite,Add item to favorites
-Collection Management,Favorite,remove_from_favorite,Remove item from favorites
-Collection Management,Bookmark,add_bookmark,Bookmark item for later reference
-Collection Management,Bookmark,remove_bookmark,Remove bookmark
-Content Creation,Content,create_content,"Create/publish/post/submit content such as listing, posts, articles, media"
-Content Creation,Content,update_content,"Edit or update content such as listing, posts, articles, media"
-Content Creation,Content,delete_content,"Delete content such as listing, posts, articles, media"
+Collection Management,List,create_list,"Create a new container (e.g., list/playlist/watchlist/library/favorite/bookmark)"
+Collection Management,List,update_list_metadata,"Rename or update container/list metadata (e.g., description, visibility, note)"
+Collection Management,List,delete_list,"Delete a container (e.g., list/playlist/watchlist/library/favorite/bookmark)"
+Collection Management,List,add_to_list,"Add item to a container (e.g., list/playlist/watchlist/library/favorite/bookmark)"
+Collection Management,List,remove_from_list,"Remove item from a container (e.g., list/playlist/watchlist/library/favorite/bookmark)"
+Collection Management,List,move_between_lists,"Move item between two user-defined containers (e.g., lists/playlists/watchlists/libraries/favorites/bookmarks)"
+Collection Management,List,share_list,Share container by adding collaborators or generating shareable link
+Content Creation,Content,create_content,"Create/publish/post/submit content such as listing, posts, articles, media, for sharing or publication"
+Content Creation,Content,update_content,"Edit or update content such as listing, posts, articles, media, for sharing or publication"
+Content Creation,Content,delete_content,"Delete content such as listing, posts, articles, media, for sharing or publication"
 Content Creation,Draft,create_draft,Create draft content
 Content Creation,Draft,update_draft,Edit draft content
 Content Creation,Draft,delete_draft,Delete draft
@@ -46,10 +42,12 @@ Online Learning,Learning Goal,update_learning_goal,Modify learning goal
 Notifications & Subscription,Subscription,subscribe,"Subscribe to an existing notification stream (e.g., newsletter or service updates)"
 Notifications & Subscription,Subscription,unsubscribe,"Unsubscribe from an existing notification stream"
 Notifications & Subscription,Notifications,update_notification_settings,Update notification delivery preferences
-Monitoring & Alerts,Alert,create_alert,Create a user-defined condition-based alert
-Monitoring & Alerts,Alert,update_alert,Modify alert conditions or delivery settings
-Monitoring & Alerts,Alert,delete_alert,Delete alert
-Profile Management,Profile,update_contact_information,"Modify contact details, including email, phone number, and mailing address"
+Monitoring & Alerts,Alert,create_alert,Create a user-defined condition-based alert/saved search that notifies the user when new matching content appears
+Monitoring & Alerts,Alert,update_alert,"Modify user-defined condition-based alert conditions, delivery settings, or saved search parameters"
+Monitoring & Alerts,Alert,delete_alert,"Delete user-defined condition-based alert, saved search, or notification"
+Profile Management,Profile,update_profile,"Edit profile information such as name, bio, profile picture, and other personal details. May also include personal preference, interests, or identification."
+Profile Management,Profile,update_contact_information,"Change contact details, including email, location, and phone number"
+Profile Management,Profile,update_address_and_payment,"Change address (delivery and pickup addresses) and payment settings on user's account"
 Profile Management,Profile,update_language_preferences,Update language settings
 Profile Management,Profile,update_privacy_settings,Change privacy settings
 Profile Management,Profile,start_membership,Join or renew paid membership
@@ -59,7 +57,7 @@ Profile Management,Profile,cancel_auto_renewal,Disable automatic membership rene
 Commerce,Cart,add_to_cart,Add item to shopping cart
 Commerce,Cart,remove_from_cart,Remove item from cart
 Commerce,Cart,update_cart,Change item quantity or options in cart
-Commerce,Cart,checkout,Complete purchase flow or place/create an order for the current shopping cart
+Commerce,Cart,checkout,"Complete purchase flow or place/create an order for the current shopping cart, including providing payment and delivery/pickup information, and reviewing and confirming the order"
 Commerce,Cart,apply_coupon,Apply discount coupon or promotional code.
 Commerce,Cart,remove_coupon,Remove applied coupon or promotional code
 Commerce,Order,track_order,Track order status
@@ -71,8 +69,6 @@ Commerce,Subscription,update_subscription,Modify subscription details or prefere
 Commerce,TradeIn,trade_in_item,Trade in item for credit
 Commerce,Payment,add_payment_method,Add payment method
 Commerce,Payment,remove_payment_method,Remove payment method
-Commerce,Payment,update_payment_method,Update payment method details
-Commerce,Delivery,update_delivery_or_pickup,Change delivery or pickup options for physical goods
 Reservation & Booking,Reservation,create_reservation,Make reservation
 Reservation & Booking,Reservation,update_reservation,Modify reservation
 Reservation & Booking,Reservation,cancel_reservation,Cancel reservation

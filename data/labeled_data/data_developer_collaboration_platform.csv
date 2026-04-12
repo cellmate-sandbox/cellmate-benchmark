@@ -1,0 +1,52 @@
+index,task,url,source,functional_category,profile
+GitHub--40,Select Sign up on the GitHub homepage to see if email 'test123@gmail.com' already exists.,https://github.com,web_voyager,developer_collaboration,developer_collaboration_platform
+650,"Create a new public repository named ""MyFirstProject"" with an initial README file using GitHub’s web interface.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+651,"In the repository ""octocat/Hello-World"", create a new issue titled ""Bug Report: Cannot load homepage"" with a detailed description of the problem.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+652,"Fork the repository ""microsoft/vscode"" to your GitHub account and verify that the fork appears in your profile repository list.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+653,"In your repository ""username/sample-repo"", create a new branch called ""feature/login"" and commit a file named ""login.md"" with placeholder text.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+654,"Initiate a pull request to merge the ""feature/login"" branch into the ""main"" branch in the repository ""username/sample-repo"", including a brief explanation for the change.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+655,"Add a new Wiki page titled ""Setup Guide"" to the repository ""username/documentation-repo"" and write a short introductory paragraph.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+656,"Create a new GitHub Gist containing a Python code snippet that prints ""Hello GitHub"" and share the generated link.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+657,"Set up GitHub Pages for a repository containing your personal website by enabling the GitHub Pages feature in its settings.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+658,"Write a constructive comment on a pull request in the ""tensorflow/tensorflow"" repository offering one suggestion for improvement.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+659,"Start a new discussion thread in your repository ""username/opensource-project"" to request community feedback on a proposed feature.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+660,"Log in, create a repository called ""OldProject"" on your Github account then delete the repository named ""OldProject"" from your GitHub account and verify its no longer there. 
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+661,"Log in, create a repository called ""sample-repo"" with a new branch ""old-feature"" then delete the ""old-feature"" branch using GitHub’s branch management options.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+662,"Create a GitHub Gist, then delete the created GitHub Gist and verify it is gone. 
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+663,"Create a ""Hello-World"" repository and create an issue for that repo. Then delete the issue created for that repository and verify its gone.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+670,"Log in to your GitHub account and create a repo titled ""MyFirstProject,"" then update the description of the repository ""MyFirstProject"" to read ""This is my first public project on GitHub.""
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+671,"Create an issue for the ""octocat/Hello-World"" repository titled ""Bug Fix"" then update the title of the issue to ""Bug Report: Cannot load homepage."" 
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+672,"Create a repository named ""sample-repo-2"" then change the branch protection rules for the ""main"" branch in your repository to require at least one approving review before merging any changes.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+673,"Create a repository titled ""username/MyFirstProject"" then edit the ""README.md"" file in your repository ""username/MyFirstProject"" to include a new section outlining installation instructions.
+Only use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://github.com,webbench_technology,developer_collaboration,developer_collaboration_platform
+2678,"Log in to your Uptodown account and submit a new review for ""VLC"" that includes a star rating and written feedback about its performance.
+Only use https://www.uptodown.com/mac to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uptodown.com/mac,webbench_technology,software_distribution,developer_collaboration_platform
+2679,"Write and post a detailed comment under the ""Instagram"" app’s update log suggesting a feature improvement.
+Only use https://www.uptodown.com/mac to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uptodown.com/mac,webbench_technology,software_distribution,developer_collaboration_platform
+2680,"After registering, submit a review for ""ChatGPT"" app that includes pros and cons along with a star rating based on your testing experience.
+Only use https://www.uptodown.com/mac to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uptodown.com/mac,webbench_technology,software_distribution,developer_collaboration_platform
+2681,"Compose a fresh feedback comment on the latest update of ""Firefox"", discussing any noticeable improvements or persisting issues.
+Only use https://www.uptodown.com/mac to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uptodown.com/mac,webbench_technology,software_distribution,developer_collaboration_platform
+2682,"Log in to your account, post a comment on the ""Whats APp"" app page requesting help, then delete the comment and confirm its removal from your activity log.
+Only use https://www.uptodown.com/mac to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uptodown.com/mac,webbench_technology,software_distribution,developer_collaboration_platform
+2683,"Access your account, leave a comment for the app ‘PUBG Mobile’, and delete it, confirming that the comment is no longer visible.
+Only use https://www.uptodown.com/mac to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uptodown.com/mac,webbench_technology,software_distribution,developer_collaboration_platform
+2691,"Create a ""LibreOffice"" review, then updated the review to include observations about the newest features.
+Only use https://www.uptodown.com/mac to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uptodown.com/mac,webbench_technology,software_distribution,developer_collaboration_platform

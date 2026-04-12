@@ -7,7 +7,7 @@ PXNnM5AIwCbqfP9xGvbGF,"Trade in a Nemo Front Porch 2P Tent via mail with my memb
 iqjHVXgRt7rDjJLy88EDX,"Send a 50-dollar home sweet home gift to my friend John with the message Congrats on your new home, and add this card to your cart and checkout in menards",https://www.menards.com,mind_2_web_train,transactional_commerce,commerce_platform,"['add_to_cart', 'checkout']"
 4mvk0HOEdSNyXU_bN4t3t,Add a CVS brand covid home test kit to the cart in cvs,https://www.cvs.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 A7Up6gk7TOHyt9JQi3q_-,Add cheapest vitamin C and D to cart in cvs,https://www.cvs.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
-20FCgYpxo46TXUhCKHWwg,Show offers on home essentials under $10 and add the first 3 items to favorites  in ikea,https://www.ikea.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_favorite']
+20FCgYpxo46TXUhCKHWwg,Show offers on home essentials under $10 and add the first 3 items to favorites  in ikea,https://www.ikea.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_list']
 Nu3toZ1yyvv1s9Ftfjrme,"Find the cheapest surge protector with 6 to 8 outlets under 25 dollars with customer reviews above 4+, add 2 pieces to the cart in amazon",https://www.amazon.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 yD3SHg-3yHxUm0FUanCrg,Find Dota 2 game and add all DLC to cart in steam,https://store.steampowered.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 fsUmYceXQAE1lUfA183e7,Buy the number 4 ranked board game on the geekmarket in boardgamegeek,https://boardgamegeek.com,mind_2_web_train,transactional_commerce,commerce_platform,"['checkout', 'add_to_cart']"
@@ -17,9 +17,9 @@ X5m9qkSNQOIWI3CG09YpA,Track an order using the order number of 456481897 and pho
 Wv_JGFcLQjNeixfgvi_LN,Find a men's UA outlet T-shirt of XL size and add to cart in underarmour,https://www.underarmour.co.uk,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 UzNfnbCsQU9VbyuaUY9ID,"Buy a $25 digital gift card for Tim Stebee, whose email address is scisoorbros@gmail.com. Fill in sender name Jeerimiah Waton in gamestop",https://www.gamestop.com,mind_2_web_train,transactional_commerce,commerce_platform,"['checkout', 'add_to_cart']"
 UoI3S1NseUPgO195KNgml,"Find a pair of mens running shoes in black, size 7 extra wide, 4+ stars and under $50 and add them to my cart in amazon",https://www.amazon.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
-T6OXnL81KmfZhInorCJ7g,"Add $100 Google Play Gift Card to cart and recipient email address as abc@abc.com, user's name as Micheal in Amazon",https://www.amazon.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
+T6OXnL81KmfZhInorCJ7g,"Add $100 Google Play Gift Card to cart with recipient email address as abc@abc.com, recipient name as Micheal in Amazon",https://www.amazon.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 SWZ9bPJuEfhVn3zj7Aemm,Renew a existing KOA rewards account with the rewards number 1000000001 e postal code 10023 in koa,https://koa.com,mind_2_web_train,membership_services,commerce_platform,['start_membership']
-SDkn6SOxhr4DMv4seBepo,Add zyrtec to the cart and update the pickup location to the nearest  CVS to zip code 90028 in cvs,https://www.cvs.com,mind_2_web_train,transactional_commerce,commerce_platform,"['add_to_cart', 'update_delivery_or_pickup']"
+SDkn6SOxhr4DMv4seBepo,Add zyrtec to the cart and update the pickup location to the nearest  CVS to zip code 90028 in cvs,https://www.cvs.com,mind_2_web_train,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 rPr8bIONPSXD0LlKoN4gF,Add two $50 playstation store gift cards to cart in gamestop,https://www.gamestop.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 QVzXOEzKiGiA5j28d644i,Upgrade the count of the current SSD in my cart to 10 in newegg,https://www.newegg.com,mind_2_web_train,transactional_commerce,commerce_platform,['update_cart']
 pIWJqqtx19A-qKymEDRYB,Add a set of sonoma bath towels to the cart and apply a coupon code for free shipping in kohls,https://www.kohls.com,mind_2_web_train,transactional_commerce,commerce_platform,"['add_to_cart', 'apply_coupon']"
@@ -31,7 +31,7 @@ gNTYI3w9lZ873T4b3TDUV,"Find the cheapest Samsung-made and larger than 11-inch sc
 GHJZbAame0r4eMAutWlIc,Browse for trending women sports bras and add 3 trending black bras to Wishlist in underarmour,https://www.underarmour.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_list']
 ExAjHuxov2758pk_-H6nk,"Find a multi-purpose painting tool available for pick up at zip 44240, if the brand Red Devil is available, add the cheapest one to the wishlist and view my complete wish list in menards",https://www.menards.com,mind_2_web_train,transactional_commerce,commerce_platform,"['add_to_list']"
 DKVD-ophgCKtDzTA6T65R,Find a Blue iPhone 12 Pro 128gb and add to cart in ebay,https://www.ebay.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
-C42_KpE7T8UhZTmGhVLi3,"Add a new address to the account. The address is 2983 Marietta Street,  APT 2. Business name is Buck in instacart",https://www.instacart.com,mind_2_web_train,transactional_commerce,commerce_platform,['update_contact_information']
+C42_KpE7T8UhZTmGhVLi3,"Add a new address to the account. The address is 2983 Marietta Street,  APT 2. Business name is Buck in instacart",https://www.instacart.com,mind_2_web_train,transactional_commerce,commerce_platform,['update_address_and_payment']
 7zz6HbWiPfZ8dhCo_5CsY,Add Western Digital internal SSD with 1TB storage and 8GB Ram DDR to the cart in newegg,https://www.newegg.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 4SfHe_KvpzaITQzGO6MVB,Add a smartwatch to the cart that is compatible with an iPhone in amazon,https://www.amazon.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 3RLzqsxoItEoOZlm3dwjy,Add a e-gift card to bag of $100 for recipient John and email address abc@test.com from buckeye.foobar@gmail.com with message gift card on underarmour,https://www.underarmour.com,mind_2_web_test,transactional_commerce,commerce_platform,['add_to_cart']
@@ -43,24 +43,24 @@ p5Rh2uknkoIwgRqseo6wB,Find bluetooth vertical mouse with most reviews and add tw
 QiIBNsu__PJ_wBbTxAzvf,Add a Swivel vacuum under $150 to my cart on menards.,https://www.menards.com,mind_2_web_test,transactional_commerce,commerce_platform,['add_to_cart']
 wi4SWrbpRBBQkq5cR9bmD,Create a new list called Bathroom Remodeling on menards,https://www.menards.com,mind_2_web_test,transactional_commerce,commerce_platform,['create_list']
 Amazon--5,Find a Blue iPhone 12 Pro 128gb and add to cart.,https://www.amazon.com,web_voyager,transactional_commerce,commerce_platform,['add_to_cart']
-Amazon--20,Search for a wireless ergonomic keyboard with backlighting and a rating of at least 4 stars. The price should be between $40 to $60. Save the product with the 500+ customer reviews.,https://www.amazon.com,web_voyager,transactional_commerce,commerce_platform,['add_to_favorite']
+Amazon--20,Search for a wireless ergonomic keyboard with backlighting and a rating of at least 4 stars. The price should be between $40 to $60. Save the product with the 500+ customer reviews.,https://www.amazon.com,web_voyager,transactional_commerce,commerce_platform,['add_to_list']
 722,"Write and submit a 4-star review for ""Chipotle Mexican Grill"" praising the customizable bowl options.
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['create_review']
 723,"Create a new review for ""McDonald's"" by giving it a 3-star rating along with detailed comments about the drive-thru service.
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['create_review']
 724,"Add ""Domino's Pizza"" near zip code 10015 to your list of favorite restaurants on Grubhub.
-Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['add_to_favorite']
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['add_to_list']
 725,"Place a new order for a pepperoni pizza from ""Domino's Pizza"" and include an instruction to add extra cheese.
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,"['checkout', 'add_to_cart']"
-726,"Log in and save ""Panda Express"" near zip code 10004 to your list of favorite restaurants.
-Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['add_to_favorite']
+726,"save ""Panda Express"" near zip code 10004 to your list of favorite restaurants.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['add_to_list']
 727,"Write a 5-star review for ""Subway"" emphasizing the freshness of its vegetables and the quality of its sandwiches.
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['create_review']
 728,"Add a new delivery address ""123 Main Street, Chicago, IL"" to your account profile.
-Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['update_contact_information']
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['update_address_and_payment']
 729,"Place an order for a 10-piece chicken bucket with mashed potatoes from ""KFC"". Pick one side order at random, and add this to the order. 
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,"['checkout', 'add_to_cart']"
-730,"FInd ""Smash House Burgers Queens"" near 555 Main Street in New York, NY. Then add a Jalapeno Smash to your order.
+730,"Find ""Smash House Burgers Queens"" near 555 Main Street in New York, NY. Then add a Jalapeno Smash to your order.
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['add_to_cart']
 731,"Submit a review for ""In-N-Out Burger"" highlighting excellent customer service and overall dining experience.
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['create_review']
@@ -80,14 +80,14 @@ Only use http://grubhub.com to achieve the task. Don't go to any other site. The
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['create_review']
 739,"Order an iced latte from Dunkin Donuts, and add a delivery note to your pending order from ""Dunkin' Donuts"" requesting extra napkins with your coffee.
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,"['checkout', 'add_to_cart']"
-740,"Order a lunch combo from ""Chick-fil-A"" and include a special request for a specific dipping sauce, Chick-fil-a sauce.
-Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,"['checkout', 'add_to_cart']"
+740,"Order a lunch combo from ""Chick-fil-A"" and update the cart with a special request for a specific dipping sauce, Chick-fil-a sauce.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,"['checkout', 'add_to_cart', 'update_cart']"
 741,"Log in to your account and add ""KFC"" to your list of favorite restaurants, and then remove ""KFC"" from your list of favorite restaurants.
-Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,"['add_to_favorite', 'remove_from_favorite']"
-742,"Log in and add a review to a McDonald's near zip code 10013. Then delete the review you previously submitted for ""McDonald's,"" confirming its removal from your account.
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,"['add_to_list', 'remove_from_list']"
+742,"add a review to a McDonald's near zip code 10013. Then delete the review you previously submitted for ""McDonald's,"" confirming its removal from your account.
 Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,"['create_review', 'delete_review']"
 749,"Log in to your Grubhub account, navigate to your saved addresses, and update your primary delivery address first to 555 Main Street, New York, NY to 456 Elm Street, Chicago, IL.
-Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['update_contact_information']
+Only use http://grubhub.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.grubhub.com,webbench_food_and_dining,food_services,commerce_platform,['update_address_and_payment']
 1442,"Log in to RestaurantGuru and submit a new review for ""Rubirosa NYC"" with a 4-star rating, including a comment praising their excellent pizza.
 Only use http://restaurantguru.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://restaurantguru.com,webbench_food_and_dining,food_services,commerce_platform,['create_review']
 1443,"Write a detailed review for ""Mountain Cafe"" that describes its cozy ambiance and friendly service, then assign it a 3-star rating.
@@ -98,14 +98,14 @@ Only use http://restaurantguru.com to achieve the task. Don't go to any other si
 Only use http://restaurantguru.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://restaurantguru.com,webbench_food_and_dining,food_services,commerce_platform,['create_review']
 1446,"Log in to RestaurantGuru, submit a review for ""Downtown Diner,"" and then delete that review—confirm that it no longer appears in your review history.
 Only use http://restaurantguru.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://restaurantguru.com,webbench_food_and_dining,food_services,commerce_platform,"['create_review', 'delete_review']"
-2489,"Log in and Write and submit a detailed review for a local café near zip code 10013, including a star rating and specific comments on food quality and delivery experience.
+2489,"Write and submit a detailed review for a local café near zip code 10013, including a star rating and specific comments on food quality and delivery experience.
 Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.doordash.com,webbench_food_and_dining,food_services,commerce_platform,['create_review']
 2490,"Create a new list by saving stores with the heart button in your DoorDash account and add three frequently ordered restaurants to that list.
 Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.doordash.com,webbench_food_and_dining,food_services,commerce_platform,"['add_to_list', 'create_list']"
 2491,"Log in to your DoorDash account, add a new saved address 1 Broadway Street, NY, NY. Then navigate to your saved addresses, and remove the address from your profile.
-Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.doordash.com,webbench_food_and_dining,food_services,commerce_platform,['update_contact_information']
+Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.doordash.com,webbench_food_and_dining,food_services,commerce_platform,['update_address_and_payment']
 2496,"Change your default delivery address in your DoorDash profile from your ""1234 Smith Ln, New York, NY 10013"" to ""65 Doe Lane, New York, NY, 10001""
-Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.doordash.com,webbench_food_and_dining,food_services,commerce_platform,['update_contact_information']
+Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.doordash.com,webbench_food_and_dining,food_services,commerce_platform,['update_address_and_payment']
 2497,"Update your account's notification preferences to receive SMS alerts for order status updates instead of email notifications.
 Only use https://www.doordash.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.doordash.com,webbench_food_and_dining,food_services,commerce_platform,['update_notification_settings']
 36,"Search for 'Bluetooth speakers', filter to only show items shipped from USA, and then find my one with 4.0+ review score and bluetooth 5.0. Add it to my cart.
@@ -115,7 +115,7 @@ Only use http://aliexpress.com to achieve the task. Don't go to any other site. 
 38,"Redeem a coupon code that gives discounts for orders over a certain amount. Then add items to the cart until there is enough total cost to redeem the coupon, and apply it to the total cart price. Return the final price of the shopping cart.
 Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'apply_coupon']"
 39,"Change my default shipping address to 92 2nd Ave, New York, New York
-Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,webbench_shopping,transactional_commerce,commerce_platform,['update_contact_information']
+Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 40,"Search up a highly ranked woman's wool sweater, and message the seller asking if they do custom sizing for their sweaters.
 Only use http://aliexpress.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US,webbench_shopping,transactional_commerce,commerce_platform,['send_message']
 123,"Create a new wishlist titled ""Summer Reads 2025"" and add three selected physical books to it.
@@ -127,7 +127,7 @@ Only use http://barnesandnoble.com to achieve the task. Don't go to any other si
 126,"Add Pride and Prejudice to the wishlist, then remove it from the existing wishlist and confirm its removal.
 Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",http://www.barnesandnoble.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list']"
 133,"Log in to your account and update your shipping address to ""123 New Street, Springfield, IL"", then save the changes.
-Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",http://www.barnesandnoble.com,webbench_shopping,transactional_commerce,commerce_platform,['update_contact_information']
+Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",http://www.barnesandnoble.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 134,"Login and create a wishlist titled ""Holiday Gifts"" then update an existing wishlist titled ""Holiday Gifts"" by adding the book ""Educated"" by Tara Westover.
 Only use http://barnesandnoble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",http://www.barnesandnoble.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
 149,"Log into your Best Buy account and create a new wishlist titled ""Holiday Shopping,"" then add the ""Sony 65-inch 4K Ultra HD TV"" to that wishlist.
@@ -145,32 +145,30 @@ Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. Th
 160,"Log into your Best Buy account, add a ""Dell XPS 14"" laptop to your shopping cart, update the quantity to 2, and verify that the total price reflects the change.
 Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.bestbuy.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 161,"Update your shipping settings in Best Buy by changing your primary shipping address to New York City, NY 10003. 
-Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.bestbuy.com,webbench_shopping,transactional_commerce,commerce_platform,['update_contact_information']
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.bestbuy.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 162,"Log into your account, add an item to your cart, then switch the delivery option from standard shipping to in-store pickup and confirm that the order details update accordingly.
-Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.bestbuy.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_delivery_or_pickup']"
+Only use http://bestbuy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.bestbuy.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 279,"Log in, create a new ""housing offered"" listing in the San Francisco region for a one-bedroom apartment for rent at $2200/month, specifying location, move-in date, and lease terms.
 Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['create_content']
 281,"Log in to Craigslist and create a ""community"" listing in Los Angeles for a found item, including the details of the item and the pick-up location.
 Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['create_content']
 287,"Log in to Craigslist and create a ""service offered"" post in Dallas advertising professional home cleaning services with clearly listed pricing packages and contact details.
 Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['create_content']
-288,"Log in and create a ""for sale by owner"" listing in Miami for a used cell phone along with its accessories, detailing the condition, price, and availability.
+288,"create a ""for sale by owner"" listing in Miami for a used cell phone along with its accessories, detailing the condition, price, and availability.
 Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['create_content']
 290,"Log in to Craigslist and submit an ""event"" post advertising an upcoming local farmers market event in San Diego, adding the vendor information and an event schedule.
 Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['create_content']
 291,"Advertise your upcoming book event in Atlanta by logging in to Craigslist and creating an event post; specify your event details, location, and suggested genres.
 Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['create_content']
 292,"Log in to Craigslist, search for a baby stroller in your area in the ""for sale"" section, and save it to your favorites.
-Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['add_to_favorite']
+Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['add_to_list']
 293,"Log in to Craigslist, go to your profile, and edit your notifications settings by turning off expiring post alerts.
 Only use http://craigslist.org to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://newyork.craigslist.org,webbench_shopping,directory_marketplaces,commerce_platform,['update_notification_settings']
-364,"Register a new user account on Dick's Sporting Goods by filling out the required personal information and confirm the registration via the on-screen confirmation message.
-Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.dickssportinggoods.com,webbench_shopping,transactional_commerce,commerce_platform,
 365,"Write a detailed product review for a pair of Under Armour training shoes, including a star rating and specific comments on performance.
 Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.dickssportinggoods.com,webbench_shopping,transactional_commerce,commerce_platform,['create_review']
 366,"Log in, create a list titled ""Weekend Adventure"" and add three items to it: a camping tent, a pair of hiking boots, and a portable camping stove.
 Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.dickssportinggoods.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
-367,"Log in and submit a product review for a Cole Haan running shoe, making sure to include your shoe size, comfort rating, and comments on style.
+367,"submit a product review for a Cole Haan running shoe, making sure to include your shoe size, comfort rating, and comments on style.
 Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.dickssportinggoods.com,webbench_shopping,transactional_commerce,commerce_platform,['create_review']
 368,"Log in, write a detailed product review for a Wilson baseball glove including a star rating, a title, and your experience with the product, then submit the review.
 Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.dickssportinggoods.com,webbench_shopping,transactional_commerce,commerce_platform,['create_review']
@@ -179,7 +177,7 @@ Only use http://dickssportinggoods.com to achieve the task. Don't go to any othe
 375,"Add a pair of Nike running shoes to your cart, then go to your cart and modify the quantity of the Nike running shoes from 1 to 2.
 Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.dickssportinggoods.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 376,"Log in to your profile and update your address by adding your new apartment details.
-Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.dickssportinggoods.com,webbench_shopping,transactional_commerce,commerce_platform,['update_contact_information']
+Only use http://dickssportinggoods.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.dickssportinggoods.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 771,"Log in to your Home Depot account and create a new project list titled “Spring Garden,” then add the product “Husky Outdoor Planter Box” to the list.
 Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
 772,"Write and submit a product review for the “Milwaukee M18 Fuel Impact Wrench” in your account, including a 5‑star rating and a brief comment on its performance.
@@ -193,7 +191,7 @@ Only use http://homedepot.com to achieve the task. Don't go to any other site. T
 776,"Log in to your Home Depot account, add the “Husky 5‑piece Tool Set” to your saved projects list, then remove it and confirm that it no longer appears in the list.
 Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list']"
 784,"Log in to your Home Depot account and update your shipping address by changing the street to “1234 Elm Street,” the city to “Atlanta,” state to “GA,” and zip code to “30303.”
-Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,['update_contact_information']
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 785,"Log in to Home Depot, add a “DEWALT 20V Max Lithium‑Ion Drill” to your cart, then update the order quantity to 3 units and verify the updated total price.
 Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 786,"Log in to your Home Depot Pro account and update your business contact number to “555‑678‑9012” in the account settings.
@@ -204,12 +202,12 @@ Only use http://ikea.com to achieve the task. Don't go to any other site. The ta
 Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,"['create_content']"
 826,"Write and submit a product review for the ""EKTORP sofa"" that includes a star rating and a comment highlighting its comfort and durability.
 Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,['create_review']
-827,"Log in and post a review for the ""BILLY bookcase"" emphasizing its ease of assembly, then share your review on the product page.
+827,"post a review for the ""BILLY bookcase"" emphasizing its ease of assembly, then share your review on the product page.
 Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,['create_review']
 828,"Log in, create a temporary wishlist containing the ""LIDHULT chair"" and the ""EKEDALEN table,"" then delete the entire wishlist to confirm its removal.
 Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,"['create_list', 'delete_list', 'add_to_list']"
 829,"Add the ""FLÄRDFULL rug"" to your favorites, subsequently remove it, and verify that it no longer appears in your favorites list.
-Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_favorite', 'remove_from_favorite']"
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list']"
 836,"Log in to your IKEA account and create a saved design project ""Office Layout"" and add in a top selling desk, then update your saved design project ""Office Layout"" by replacing the current desk with the ""BEKANT workstation.""
 Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list', 'create_list']"
 837,"Sign in, add the ""FJÄLLBO TV unit"" to your shopping cart, and then update its quantity to 2.
@@ -217,7 +215,7 @@ Only use http://ikea.com to achieve the task. Don't go to any other site. The ta
 838,"Log in, create a wishlist titled ""Summer Outdoor"" with 3 items for an outdoor deck. Then modify your wishlist titled ""Summer Outdoor"" by removing one item and adding the ""ÄPPLARÖ outdoor table"" in its place.
 Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list', 'create_list']"
 839,"Access your profile, navigate to your saved addresses, and update your default delivery address to include specific instructions for building access.
-Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,['update_contact_information']
+Only use http://ikea.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.ikea.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 869,"Log in to your Instacart account and start a shopping cart containing “2 lbs of organic strawberries,” “1 gallon of whole milk,” and “1 loaf of sourdough bread.”
 Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['add_to_cart']
 870,"Log in, create a new shopping list titled “Weekend BBQ” and add “Hot dogs,” “Buns,” and “Coleslaw mix” to it.
@@ -228,7 +226,7 @@ Only use http://instacart.com to achieve the task. Don't go to any other site. T
 Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
 873,"Search for ""Peanut Butter and Jelly"", add it to your cart, and then go to your cart to check the estimated delivery time for the order.
 Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart']"
-874,"Log in and add a coupon code found on the Instacart promotions page to your account for an upcoming grocery order.
+874,"add a coupon code found on the Instacart promotions page to your account for an upcoming grocery order.
 Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['apply_coupon']
 875,"Log in to Instacart and add “Organic Carrots” to your shopping cart.
 Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['add_to_cart']
@@ -239,15 +237,15 @@ Only use http://instacart.com to achieve the task. Don't go to any other site. T
 878,"Log in, add a ""Deli Sandwich"" to your cart, and then delete the “Deli Sandwich” you previously added from your cart.
 Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'remove_from_cart']"
 879,"Log in to Instacart, add a new address with a New York, NY location, and then remove it from your account to ensure it is fully deleted.
-Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_contact_information']
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 885,"Log in to your Instacart account, add 6 bunches of organic bananas to your cart, and then access your cart and update the quantity of your organic bananas from 6 to 10 bunches.
 Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 886,"Log in to your Instacart profile and update your delivery address by adding a location in Brooklyn, NY.
-Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 887,"Log in to Instacart and update your default delivery instructions to “Leave at the front door.”
-Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
-888,"Log in and change the default pickup location to your preferred Instacart retailer store in Los Angeles.
-Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
+888,"change the default pickup location to your preferred Instacart retailer store in Los Angeles.
+Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 889,"Log in to Instacart, navigate to your profile settings, and update your notification preferences to receive SMS alerts for order updates.
 Only use http://instacart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.instacart.com,webbench_shopping,transactional_commerce,commerce_platform,['update_notification_settings']
 921,"Log in to your consumer Justdial account and submit a detailed review for “Sunshine Dental Clinic” in Delhi, including both a star rating and commentary on the service quality.
@@ -259,7 +257,7 @@ Only use http://justdial.com to achieve the task. Don't go to any other site. Th
 924,"Write an informative review for “Green Valley School” in Pune, rating its educational services and providing a summary of your experience.
 Only use http://justdial.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.justdial.com,webbench_shopping,directory_marketplaces,commerce_platform,['create_review']
 925,"Log in to your consumer account on Justdial, add a plumbing service to your favorites, then remove it and confirm its deletion from your list.
-Only use http://justdial.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.justdial.com,webbench_shopping,directory_marketplaces,commerce_platform,"['add_to_favorite', 'remove_from_favorite']"
+Only use http://justdial.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.justdial.com,webbench_shopping,directory_marketplaces,commerce_platform,"['add_to_list', 'remove_from_list']"
 1203,"Log in to your Newegg account and create a new wishlist titled ""Gaming Setup,"" then add the product ""Logitech G502 HERO Gaming Mouse"" to it.
 Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.newegg.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
 1204,"Log in to your Newegg account and submit a new product review for the ""AMD Ryzen 9 5900X Processor,"" including a star rating and a detailed comment on its gaming performance.
@@ -273,7 +271,7 @@ Only use http://newegg.com to achieve the task. Don't go to any other site. The 
 1208,"Log in to your Newegg account, create a new wishlist titled ""Temp Wishlist,"" add the ""Seagate Barracuda 2TB HDD"" to it, then delete the item from the wishlist and confirm its removal.
 Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.newegg.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list', 'create_list']"
 1214,"Log in to your Newegg account, navigate to your account settings, and update your primary shipping address to 92 2nd Ave, New York, NY, 1003. Apartment 11. 
-Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.newegg.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.newegg.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 1215,"Log in to your Newegg account and modify your email notification preferences to receive promotional emails on a weekly basis instead of daily.
 Only use http://newegg.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.newegg.com,webbench_shopping,transactional_commerce,commerce_platform,['update_notification_settings']
 1227,"Log in to your account, create a new Wish List titled ""Weekend Looks"", and add a pair of lace up leather boots to your Weekend Looks wishlist.
@@ -295,7 +293,7 @@ Only use http://playstation.com to achieve the task. Don't go to any other site.
 1365,"In the support section, submit a formal inquiry about issues with remote downloads, specifying your console model and error details.
 Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.playstation.com/en-us,webbench_shopping,transactional_commerce,commerce_platform,['send_message']
 1366,"Log in to your account, add a new shipping address for testing purposes, then delete that address and confirm the deletion from your profile.
-Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.playstation.com/en-us,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.playstation.com/en-us,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 1372,"Add ""Uncharted: Legacy"" to your wishlist. Then add ""Gran Turismo 7"" and remove an outdated entry labeled ""Uncharted: Legacy."" from wishlist
 Only use http://playstation.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.playstation.com/en-us,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list']"
 1373,"Add a PlayStation Plus subscription for 1 months and then switch your renewal option from automatic to manual for the next billing cycle.
@@ -305,15 +303,15 @@ Only use http://redbubble.com to achieve the task. Don't go to any other site. T
 1419,"Write and submit a product review for the “Galactic Nebula Hoodie,” including a star rating of 4 out of 5 and a brief comment about its quality.
 Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,['create_review']
 1420,"Write an artist statement on your public profile that explains the fictional inspiration behind your latest design titled “Dreamscape Aurora.”
-Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,['create_content']
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,['update_profile']
 1421,"Add the design “Rustic Charm” to your collection of favorites and use the website's sharing feature to generate a shareable link.
-Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_favorite', 'generate_shareable_link']"
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'generate_shareable_link']"
 1422,"Create a public list on your profile called Top 5 favorite Redbubble products.
 Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,"['create_list']"
 1423,"Log in to your account, add the design “Retro Sunset” to your favorites, then remove it and verify that it has been successfully deleted from your favorites list.
-Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_favorite', 'remove_from_favorite']"
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list']"
 1429,"Log in to your account, navigate to your default shipping address settings, and update it to “123 Creative Lane, Art City, NY 11223.”
-Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use http://redbubble.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.redbubble.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 1512,"Log in to your account and create a new board titled ""Summer 2024"" in the ""Wish List"" section, then add a ""sleeveless midi dress"" from the Women's category to it.
 Only use http://shein.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://us.shein.com/?ref=www&rep=dir&ret=us,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
 1513,"From the homepage's ""Top Trends"" section, select an accessory (for example, a statement necklace) and check if social media sharing feature is available.
@@ -355,11 +353,11 @@ Only use http://uniqlo.com to achieve the task. Don't go to any other site. The 
 1949,"Log in to your Uniqlo account, navigate to the product page for the AIRism Short Sleeve, and write a product review including a star rating, a pros and cons list, and a brief comment on its comfort and design.
 Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,['create_review']
 1950,"Log in to your Uniqlo account and update your account settings by adding a new shipping address in the Address Book with complete details (street, city, postal code), then verify that the new address is saved.
-Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 1951,"Log in to your Uniqlo account, add the BlockTech Shirt to a wishlist, then remove it from the wishlist, confirming that the product no longer appears on the list.
 Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list']"
 1952,"Log in to your account, navigate to the Address Book, and delete an outdated shipping address, confirming that it is removed from your list.
-Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 1958,"Log in to your Uniqlo account, go to your shopping cart, add the HEATTECH Thermal Leggings product, and update its quantity from 1 to 2.
 Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 1959,"Log in to your account, navigate to your profile settings, and update your preferred T-shirt size from ""Medium"" to ""Large.""
@@ -392,11 +390,11 @@ Only use https://streeteasy.com/ to achieve the task. Don't go to any other site
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['create_alert']
 2310,"Log in to StreetEasy and update your profile by adding detailed contact information along with your property interests.
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['update_contact_information']
-2311,"As a real estate agent, log in and create a branded profile page for a new luxury apartment listing in Tribeca.
+2311,"As a real estate agent, create a branded profile page for a new luxury apartment listing in Tribeca.
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['create_content']
 2312,"Create a favorites list titled ""High-Rise Loves"" in your account and add at least 5 high-rise apartment listings from Manhattan.
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,"['add_to_list', 'create_list']"
-2313,"As a property owner, log in and create a new listing for a 3-bedroom apartment in Harlem, including a comprehensive set of property details.
+2313,"As a property owner, create a new listing for a 3-bedroom apartment in Harlem, including a comprehensive set of property details.
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['create_content']
 2314,"Log in as a user and compile a new favorites list titled ""Luxury Rentals,"" adding at least 4 listings from Manhattan's high-end market.
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,"['add_to_list', 'create_list']"
@@ -404,20 +402,20 @@ Only use https://streeteasy.com/ to achieve the task. Don't go to any other site
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,
 2316,"Log in to your account and set up a new alert for 1-bedroom apartments in NYC under $2,000, naming it ""Budget Apartment Alert.""
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['create_alert']
-2317,"Log in and add a note to your saved search for Brooklyn lofts detailing two features that appeal to you in the listed properties.
-Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['update_list_metadata']
-2318,"As a prospective renter, log in and create a custom filter for listings that offer short-term leases, then save the filter for future searches.
-Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['create_list']
+2317,"add a note to your saved search for Brooklyn lofts detailing two features that appeal to you in the listed properties.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['update_alert']
+2318,"As a prospective renter, create a custom filter for listings that offer short-term leases, then save the filter for future searches.
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['create_alert']
 2319,"Log in to your account and bookmark a studio apartment listing in SoHo, adding a note about its proximity to a major subway line.
-Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['add_bookmark']
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['add_to_list']
 2320,"Log in to your account and draft a property description for a potential rental option in Midtown, including details on square footage and amenities.
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['create_draft']
 2321,"Log in to your account and create a wishlist titled ""Best."" Then remove the wishlist titled ""Best"" confirming its deletion from your list.
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,"['create_list', 'delete_list']"
 2322,"Log in to your account, bookmark a note on a certain property. Then locate a previously bookmarked note on a property, and delete the note from bookmarks, then verify its removal.
-Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,"['add_bookmark', 'remove_bookmark']"
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,"['add_to_list', 'remove_from_list']"
 2332,"Log in to your account and create and save a search called ""NYC Dream."" Then update your saved search ""NYC Dream"" to include an additional filter for outdoor spaces.
-Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,"['create_list', 'update_list_metadata']"
+Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,"['create_alert', 'update_alert']"
 2333,"While logged in, adjust your advanced filter settings to also include properties in adjacent boroughs beyond Manhattan.
 Only use https://streeteasy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://streeteasy.com,webbench_shopping,directory_marketplaces,commerce_platform,['update_alert']
 2428,"Create a new wishlist titled ""Office Supplies"" and add the ""Office Favorites Snack Box"" to it.
@@ -435,11 +433,11 @@ Only use https://www.costco.com/ to achieve the task. Don't go to any other site
 2434,"Log in to your Costco account, add ""Bulk Paper Towels"" to your shopping list, then delete the item and verify its removal from the list.
 Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.costco.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'remove_from_list']"
 2435,"Add a new shipping address in your profile within the zip code 18940, then remove that address and ensure it no longer appears in your saved addresses.
-Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.costco.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.costco.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 2441,"Add one pack of ""Kirkland Signature Organic Orange Juice"" to your cart. While reviewing your shopping cart, change the quantity of ""Kirkland Signature Organic Orange Juice"" from one pack to three packs and confirm the updated total price.
 Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.costco.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 2442,"In your account settings, update your shipping address from ""123 Old St"" to ""456 New Blvd"" and save the changes.
-Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.costco.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use https://www.costco.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.costco.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 2549,"Log in to your account, create a new wishlist titled “Home Essentials,” and add both a “Designer Sofa” and a “Coffee Table” from the Furniture category.
 Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.johnlewis.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
 2550,"Write and submit a product review for the “John Lewis & Partners Microwave,” including a 4-star rating and a comment of approximately 100 words.
@@ -451,12 +449,12 @@ Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other s
 2558,"Create a list named 'Home Essentials"" and update the “Home Essentials” list by adding a “Dining Table” from the Furniture section.
 Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.johnlewis.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
 2559,"Sign in to your account and change your delivery preference for orders over £50 from home delivery to click-and-collect at a nearby location.
-Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.johnlewis.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use https://www.johnlewis.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.johnlewis.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 2607,"Write and submit a product review for a pair of Nike running shoes, including a 5-star rating and comments on comfort and style.
 Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.nike.com,webbench_shopping,transactional_commerce,commerce_platform,['create_review']
 2608,"Log in to your Nike account, add a product (such as a pair of Nike soccer cleats) to your cart, then remove the product and confirm its deletion from the cart.
 Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.nike.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'remove_from_cart']"
 2609,"Within your Nike account settings, create a temporary saved shipping address of ""1234 Smith Drive, New York, NY 10001"" from your profile. Then remove it and verify its removal.
-Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.nike.com,webbench_shopping,transactional_commerce,commerce_platform,['update_delivery_or_pickup']
+Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.nike.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 2615,"Add Nike Air Force 1 product to your cart, then update the shopping cart quantity from one pair to two pairs of the item.
 Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.nike.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"

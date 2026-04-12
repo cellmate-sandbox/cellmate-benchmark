@@ -54,8 +54,8 @@ def main(app_type: str):
     )
 
     # Save prompt template
-    with open(f'labeled_data/prompt_template_{app_type}.txt', 'w') as f:
-        f.write(prompt_template)
+    # with open(f'labeled_data/prompt_template_{app_type}.txt', 'w') as f:
+    #     f.write(prompt_template)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate prompt template for a given app type")

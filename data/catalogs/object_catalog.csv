@@ -5,7 +5,7 @@ Navigation,Search Result,An item returned by a search query that represents a ma
 Navigation,Dashboard,"A personal overview page that aggregates recent activity, notifications, and shortcuts to commonly accessed resources.",https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-the-Dashboard/ta-p/12
 Navigation,Activity Stream,"A feed that displays recent activity across a user’s content, subscriptions, or courses.",https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-the-Activity-Stream/ta-p/62
 Collection Management,List,"A user-created container that stores a group of items for later reference or organization, such as a wishlist or saved items list.",https://www.amazon.com/gp/help/customer/display.html?nodeId=G7R6C7K39U5GQJ99
-Collection Management,Favorite,A lightweight positive-preference marker applied to content to indicate interest or save it for quick access.,https://support.google.com/youtube/answer/6342839
+Collection Management,Favorite,"A user-designated container for items marked for quick access or special attention, often stored in a personalized list of favorites.",https://www.amazon.com/gp/help/customer/display.html?nodeId=G7R6C7K39U5GQJ99
 Content Creation,Content,"A published piece of user-generated material such as an article, post, video, or message shared on a platform.",https://faq.substack.com/en/articles/1031889-how-to-publish-a-post
 Content Creation,Draft,"An editable, unpublished version of content that can be modified before publication.",https://faq.substack.com/en/articles/1031889-how-to-publish-a-post
 Content Creation,Media,"A digital file such as an image, video, or document that can be uploaded, downloaded, or attached to content.",https://developer.mozilla.org/en-US/docs/Web/Media
@@ -24,7 +24,9 @@ Notifications & Subscription,Notification,"A message sent to a user to inform th
 Notifications & Subscription,Notification Preference,"User-configured settings that determine how and when notifications are delivered for various events or updates.",https://support.google.com/groups/answer/9792489
 Monitoring & Alerts,Alert,A persistent query or topic subscription that notifies the user when new matching content appears.,https://www.google.com/alerts
 Profile Management,Profile,"The user-facing representation of an account that includes identity attributes such as name, avatar, avatar frame, and biography.",https://support.google.com/youtube/answer/1646861
-Profile Management,Contact Information,"User-provided details such as email address, phone number, or mailing address used for communication or account recovery.",https://support.google.com/accounts/answer/32046
+Profile Management,Contact Information,"User-provided details such as email address, phone number, or mailing address used for communication or account recovery. Do NOT include payments or delivery addresses.",https://support.google.com/accounts/answer/32046
+Profile Management,Delivery/Pickup Address,"User-provided addresses stored in user account used for delivery/pickup purposes.",https://support.google.com/accounts/answer/32046
+Profile Management,Payment Method,"A stored payment instrument stored in user account such as a credit card or digital wallet used to complete purchases.",https://www.paypal.com/us/webapps/mpp/payment-methods
 Profile Management,Notification Preference,"Settings that determine whether and how a user receives notifications such as invitations, alerts, or updates.",https://support.google.com/groups/answer/9792489
 Profile Management,Language Preference,Settings that control the display language or regional locale used in the interface.,https://support.google.com/accounts/answer/32047
 Profile Management,Membership,"A paid subscription or access level that grants additional features or content beyond a standard account.",https://www.netflix.com/subscribe
