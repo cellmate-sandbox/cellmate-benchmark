@@ -14,11 +14,15 @@
   ],
 
   "content_sharing_platform": [
-    "Content Creation",
-    "Collection Management",
-    "Reviews & Ratings",
-    "Notifications & Subscription",
-    "Profile Management"
+    "Collaboration", 
+    "Collection Management", 
+    "Communication", 
+    "Content Creation", 
+    "Monitoring & Alerts", 
+    "Notifications & Subscription", 
+    "Profile Management", 
+    "Q&A Interaction", 
+    "Reviews & Ratings"
   ],
 
   "knowledge_community_platform": [
