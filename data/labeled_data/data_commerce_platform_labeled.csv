@@ -1,7 +1,7 @@
 index,task,url,source,functional_category,profile,actions
 3pgcXaIyKP86RuRIAYxuL,View the toddler collection and add one pair of the cheapest socks for a 6 months to 5 years to the wishlist in uniqlo,https://www.uniqlo.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_list']
 Z4sN-x3Om-1ceaX-MGZOh,Add to my cart a women's T-shirt priced under 10 dollars in uniqlo,https://www.uniqlo.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
-U48JEskxYwDR2suJariKt,Schedule COVID-19 test appointment at 90028 in cvs,https://www.cvs.com,mind_2_web_train,transactional_commerce,commerce_platform,['schedule_appointment']
+U48JEskxYwDR2suJariKt,Schedule COVID-19 test appointment at 90028 in cvs,https://www.cvs.com,mind_2_web_train,transactional_commerce,commerce_platform,['create_booking']
 ERwj-HJ1LyzPg78HDFLXl,Add a NBA basketball game for the PS5 to the shoping cart in gamestop,https://www.gamestop.com,mind_2_web_train,transactional_commerce,commerce_platform,['add_to_cart']
 PXNnM5AIwCbqfP9xGvbGF,"Trade in a Nemo Front Porch 2P Tent via mail with my membership info Joe Bloggs, phone number 123456789 in rei",https://www.rei.com,mind_2_web_train,transactional_commerce,commerce_platform,['trade_in_item']
 iqjHVXgRt7rDjJLy88EDX,"Send a 50-dollar home sweet home gift to my friend John with the message Congrats on your new home, and add this card to your cart and checkout in menards",https://www.menards.com,mind_2_web_train,transactional_commerce,commerce_platform,"['add_to_cart', 'checkout']"
@@ -185,7 +185,7 @@ Only use http://homedepot.com to achieve the task. Don't go to any other site. T
 773,"Log in to your account and create a new shopping list titled “Weekend DIY Repairs,” then add the items “3 packs of 2‑inch drywall screws” and “1 gallon of white paint.”
 Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_list', 'create_list']"
 774,"Log in to your Home Depot account and schedule an installation appointment for a “Range Hood” by selecting an available date and service option.
-Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,['schedule_appointment']
+Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,['create_booking']
 775,"Submit a “Contact Us” inquiry regarding delivery options for a “Samsung Family Hub Refrigerator,” including your contact details and a brief question.
 Only use http://homedepot.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.homedepot.com,webbench_shopping,transactional_commerce,commerce_platform,['send_message']
 776,"Log in to your Home Depot account, add the “Husky 5‑piece Tool Set” to your saved projects list, then remove it and confirm that it no longer appears in the list.
@@ -361,7 +361,7 @@ Only use http://uniqlo.com to achieve the task. Don't go to any other site. The 
 1958,"Log in to your Uniqlo account, go to your shopping cart, add the HEATTECH Thermal Leggings product, and update its quantity from 1 to 2.
 Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
 1959,"Log in to your account, navigate to your profile settings, and update your preferred T-shirt size from ""Medium"" to ""Large.""
-Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,['update_profile']
+Only use http://uniqlo.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.uniqlo.com/us/en,webbench_shopping,transactional_commerce,commerce_platform,['update_user_preferences']
 2057,"Locate the Walmart Customer Servicing AI Chat and ask it for help on your most recent order
 Only use http://walmart.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.walmart.com,webbench_shopping,transactional_commerce,commerce_platform,['send_message']
 2058,"Locate 3 top-rated vacuum cleaner and determine which one can be delivered the fastest to New York City, and add it to cart. 
@@ -458,3 +458,22 @@ Only use https://www.nike.com/ to achieve the task. Don't go to any other site. 
 Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.nike.com,webbench_shopping,transactional_commerce,commerce_platform,['update_address_and_payment']
 2615,"Add Nike Air Force 1 product to your cart, then update the shopping cart quantity from one pair to two pairs of the item.
 Only use https://www.nike.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.nike.com,webbench_shopping,transactional_commerce,commerce_platform,"['add_to_cart', 'update_cart']"
+955,"Create an account and Log in to your Kmart account, create a new wishlist titled ""Family Essentials,"" and add a ""Children's Toy"" along with a ""Kitchen Appliance"" to it.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['add_to_list', 'create_list']"
+956,"Add a new shipping address to your Kmart account by providing all required details such as street address, city, state, and postal code.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['update_address_and_payment']"
+957,"Subscribe to Kmart's newsletter by entering your email address to receive weekly deals and promotional offers.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['subscribe']"
+958,"Log in to your Kmart account, create a new wishlist titled ""Holiday Gifts,"" and add 3 items representing gifts for him, for her, and for kids.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['add_to_list', 'create_list']"
+959,"Submit a customer query regarding the availability of ""Organic Bedding"" using Kmart’s online contact form.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['post_question']"
+960,"Log in to your Kmart account, add a ""Camera"" to your shopping cart, then remove the ""Camera"" item from your shopping cart, and confirm its deletion from the cart.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['add_to_cart', 'remove_from_cart']"
+961,"Log in, create a ""Family Essentials"" wishlist and add 3 items including a children's toy. Then access your ""Family Essentials"" wishlist, remove the toy item, and verify that it is no longer listed in the list.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['add_to_list', 'create_list', 'remove_from_list']"
+967,"Login, add wireless headphones to your shopping cart, then modify the quantity of a ""Wireless Headphones"" item in your shopping cart to 2 and verify that the total price is recalculated accurately.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['add_to_cart', 'update_cart']"
+968,"Adjust your newsletter subscription preferences from daily updates to a weekly digest for promotional alerts and deals.
+Only use http://kmart.com.au/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.kmart.com.au,webbench_shopping,other,commerce_platform,"['update_notification_preferences']"
+JXQ4jTD6VxC2xGJ_-_7wC,"Find a woman t-shirt in xl size from merchandise section, add 2 pieces to the cart and check out in last.fm",https://www.last.fm,mind_2_web_train,media_consumption,commerce_platform,"['add_to_cart','checkout']"

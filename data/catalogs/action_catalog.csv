@@ -1,6 +1,4 @@
 Category,Core Object,Action,Description
-Navigation,Dashboard,view_dashboard,Access user dashboard
-Navigation,Activity,view_activity,View activity history or logs
 Collection Management,List,create_list,"Create a new container (e.g., list/playlist/watchlist/library/favorite/bookmark)"
 Collection Management,List,update_list_metadata,"Rename or update container/list metadata (e.g., description, visibility, note)"
 Collection Management,List,delete_list,"Delete a container (e.g., list/playlist/watchlist/library/favorite/bookmark)"
@@ -11,11 +9,12 @@ Collection Management,List,share_list,Share container by adding collaborators or
 Content Creation,Content,create_content,"Create/publish/post/submit content such as listing, posts, articles, media, for sharing or publication"
 Content Creation,Content,update_content,"Edit or update content such as listing, posts, articles, media, for sharing or publication"
 Content Creation,Content,delete_content,"Delete content such as listing, posts, articles, media, for sharing or publication"
+Content Creation,Content,repost_content,Repost or share existing content to create a new post or listing
 Content Creation,Draft,create_draft,Create draft content
 Content Creation,Draft,update_draft,Edit draft content
 Content Creation,Draft,delete_draft,Delete draft
 Content Creation,Share Link,generate_shareable_link,Generate public share link
-Reviews & Ratings,Review,create_review,Write and submit review and optionally include rating
+Reviews & Ratings,Review,create_review,"Write and submit review or rate an item, product, service, or experience"
 Reviews & Ratings,Review,update_review,Edit review or rating
 Reviews & Ratings,Review,delete_review,Delete review
 Reviews & Ratings,Review,upvote_review,Upvote or endorse review
@@ -25,35 +24,39 @@ Q&A Interaction,Answer,post_answer,Submit answer
 Q&A Interaction,Answer,update_answer,Edit answer
 Q&A Interaction,Answer,delete_answer,Delete answer
 Q&A Interaction,Answer,upvote_answer,Endorse answer
-Q&A Interaction,Comment,post_comment,Post comment
-Q&A Interaction,Comment,delete_comment,Delete comment
-Q&A Interaction,Comment,update_comment,Edit comment
-Q&A Interaction,Comment,upvote_comment,Endorse comment
-Q&A Interaction,Poll,create_poll,Create a new poll
-Q&A Interaction,Poll,update_poll,Edit poll
-Q&A Interaction,Poll,delete_poll,Delete poll
-Q&A Interaction,Poll,vote_poll,Vote in poll
+Social Interaction,Comment,post_comment,Post comment
+Social Interaction,Comment,delete_comment,Delete comment
+Social Interaction,Comment,update_comment,Edit comment
+Social Interaction,Comment,upvote_comment,Endorse comment
+Social Interaction,Poll,create_poll,Create a new poll
+Social Interaction,Poll,update_poll,Edit poll
+Social Interaction,Poll,delete_poll,Delete poll
+Social Interaction,Poll,vote_poll,Vote in poll
 Online Learning,Assignment,create_assignment,Create assignment or task
 Online Learning,Assignment,update_assignment,Modify assignment
 Online Learning,Assignment,delete_assignment,Delete assignment
 Online Learning,Assignment,submit_assignment,Submit completed assignment
 Online Learning,Study Plan,create_study_plan,Create learning plan
 Online Learning,Learning Goal,update_learning_goal,Modify learning goal
-Notifications & Subscription,Subscription,subscribe,"Subscribe to an existing notification stream (e.g., newsletter or service updates)"
-Notifications & Subscription,Subscription,unsubscribe,"Unsubscribe from an existing notification stream"
+Notifications & Subscription,Subscription,subscribe,"Subscribe to a content source (newsletter, podcast, creator, channel, feed)"
+Notifications & Subscription,Subscription,unsubscribe,"Unsubscribe from an existing subscription to a content source (newsletter, podcast, creator, channel, feed)"
 Notifications & Subscription,Notifications,update_notification_settings,Update notification delivery preferences
 Monitoring & Alerts,Alert,create_alert,Create a user-defined condition-based alert/saved search that notifies the user when new matching content appears
 Monitoring & Alerts,Alert,update_alert,"Modify user-defined condition-based alert conditions, delivery settings, or saved search parameters"
 Monitoring & Alerts,Alert,delete_alert,"Delete user-defined condition-based alert, saved search, or notification"
-Profile Management,Profile,update_profile,"Edit profile information such as name, bio, profile picture, and other personal details. May also include personal preference, interests, or identification."
-Profile Management,Profile,update_contact_information,"Change contact details, including email, location, and phone number"
-Profile Management,Profile,update_address_and_payment,"Change address (delivery and pickup addresses) and payment settings on user's account"
-Profile Management,Profile,update_language_preferences,Update language settings
-Profile Management,Profile,update_privacy_settings,Change privacy settings
-Profile Management,Profile,start_membership,Join or renew paid membership
-Profile Management,Profile,cancel_membership,Cancel paid membership
-Profile Management,Profile,setup_auto_renewal,Enable automatic membership renewal
-Profile Management,Profile,cancel_auto_renewal,Disable automatic membership renewal
+Profile Management,Profile,update_profile,"Edit profile information such as name, bio, profile picture, and other personal details."
+Profile Management,Settings,update_language_preferences,Update language settings
+Profile Management,Settings,update_privacy_settings,Change privacy settings
+Profile Management,Settings,update_user_preferences,"Update general personalization settings (interests, recommendations, default choices,etc.)"
+Profile Management,Account Info,update_contact_information,"Change contact details, including email, location, and phone number"
+Profile Management,Account Info,update_address_and_payment,"Change address (delivery and pickup addresses) and payment settings on user's account"
+Profile Management,Membership,start_membership,Join or renew paid membership
+Profile Management,Membership,cancel_membership,Cancel paid membership
+Profile Management,Membership,setup_auto_renewal,Enable automatic membership renewal
+Profile Management,Membership,cancel_auto_renewal,Disable automatic membership renewal
+Profile Management,Dashboard,view_dashboard,Access user dashboard
+Profile Management,Activity,view_activity,View activity history or logs
+Profile Management,Activity,delete_activity,Delete activity history or logs
 Commerce,Cart,add_to_cart,Add item to shopping cart
 Commerce,Cart,remove_from_cart,Remove item from cart
 Commerce,Cart,update_cart,Change item quantity or options in cart
@@ -69,12 +72,14 @@ Commerce,Subscription,update_subscription,Modify subscription details or prefere
 Commerce,TradeIn,trade_in_item,Trade in item for credit
 Commerce,Payment,add_payment_method,Add payment method
 Commerce,Payment,remove_payment_method,Remove payment method
-Reservation & Booking,Reservation,create_reservation,Make reservation
-Reservation & Booking,Reservation,update_reservation,Modify reservation
-Reservation & Booking,Reservation,cancel_reservation,Cancel reservation
-Reservation & Booking,Appointment,schedule_appointment,Schedule appointment
-Reservation & Booking,Appointment,reschedule_appointment,Reschedule appointment
-Reservation & Booking,Appointment,cancel_appointment,Cancel appointment
+Commerce,My Store,change_my_store,Change store preference or default store
+Booking,Booking,create_booking,"Make reservation for a resource such as a seat, room, table, or service at a specified time"
+Booking,Booking,update_booking,"Modify reservation details such as time, date, or resource"
+Booking,Booking,cancel_booking,Cancel reservation
+Trip,Trip,create_trip,Create travel itinerary or plan
+Trip,Trip,update_trip,Modify trip name or description
+Trip,Trip,add_to_trip,Add reservation or booking to travel itinerary or plan
+Trip,Trip,delete_trip,Delete travel itinerary or plan
 Collaboration,Project,create_project,Create project or group
 Collaboration,Project,invite_user,Invite user to project/group
 Collaboration,Project,join_project,Join project/community
@@ -82,9 +87,9 @@ Developer Collaboration,Repository,create_repository,Create repository
 Developer Collaboration,Repository,update_repository,Modify repository metadata
 Developer Collaboration,Repository,delete_repository,Delete repository
 Developer Collaboration,Repository,fork_repository,Fork repository
+Developer Collaboration,Repository,create_ruleset,Create branch ruleset or tag ruleset
 Developer Collaboration,Branch,create_branch,Create branch
 Developer Collaboration,Branch,delete_branch,Delete branch
-Developer Collaboration,Repository,commit_changes,Commit changes
 Developer Collaboration,Repository,create_file,Create file
 Developer Collaboration,Repository,update_file,Edit file
 Developer Collaboration,Issue,create_issue,Open issue
@@ -97,7 +102,19 @@ Developer Collaboration,Wiki Page,create_wiki_page,Create wiki page
 Developer Collaboration,Discussion,create_discussion_thread,Start discussion
 Developer Collaboration,Gist,create_gist,Create code snippet
 Developer Collaboration,Gist,delete_gist,Delete code snippet
+Developer Collaboration,Gist,setup_page,Setup a GitHub Pages site
 Communication,Message,send_message,"Send message, direct message, or inquiry to another user or group"
 Communication,Message,delete_message,Delete message
 Communication,User/Channel,follow_entity,Follow user/topic/channel
 Communication,User/Channel,unfollow_entity,Unfollow user/topic/channel
+Communication,User/Channel,create_channel,Create new channel or group
+Tracking & Organization,Log,create_log,Create log entry for tracking or organization purposes
+Tracking & Organization,Log,update_log,Edit log entry for tracking or organization purposes
+Tracking & Organization,Log,delete_log,Delete log entry for tracking or organization purposes
+Professional Networking,Salary,submit_salary,Submit salary information for a job or position
+Professional Networking,Certification,add_certification,Add professional certification or credential to profile
+Professional Networking,Job History,add_job_experience,Add job experience entry to profile
+Professional Networking,Recommendation,post_recommendation,Write and post recommendation for a connection
+Professional Networking,Connection,send_connection_request,Send connection request to another user
+Professional Networking,Connection,accept_connection_request,Accept connection request from another user
+Professional Networking,Connection,cancel_connection_request,Cancel sent connection request

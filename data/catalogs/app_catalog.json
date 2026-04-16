@@ -1,6 +1,5 @@
 {
   "commerce_platform": [
-    "Authentication",
     "Collection Management",
     "Content Creation",
     "Reviews & Ratings",
@@ -9,7 +8,7 @@
     "Monitoring & Alerts",
     "Profile Management",
     "Commerce",
-    "Reservation & Booking",
+    "Booking",
     "Communication"
   ],
 
@@ -34,26 +33,27 @@
   ],
 
   "media_library_platform": [
-    "Communication",
+    "Collection Management",
     "Reviews & Ratings",
+    "Social Interaction",
     "Notifications & Subscription",
-    "Profile Management"
+    "Profile Management",
+    "Communication",
+    "Tracking & Organization"
   ],
 
   "developer_collaboration_platform": [
-    "Content Creation",
-    "Q&A Interaction",
-    "Collaboration",
-    "Developer Collaboration",
-    "Notifications & Subscription",
-    "Profile Management"
+    "Developer Collaboration"
   ],
 
   "reservation_service_platform": [
-    "Reservation & Booking",
+    "Collection Management",
+    "Booking",
+    "Trip",
     "Reviews & Ratings",
     "Notifications & Subscription",
-    "Profile Management"
+    "Profile Management",
+    "Communication"
   ],
 
   "information_reference_platform": [

@@ -13,8 +13,8 @@ Reviews & Ratings,Review,"A user-generated written evaluation of a product, serv
 Reviews & Ratings,Rating,A numeric or scalar evaluation used to measure the quality or usefulness of an item.,https://stackoverflow.com/help/why-vote
 Q&A Interaction,Question,A user-submitted request for information or help posted to a community for answers.,https://stackoverflow.com/help/how-to-ask
 Q&A Interaction,Answer,A response posted to address a question.,https://stackoverflow.com/help/answering
-Q&A Interaction,Comment,A short message attached to a post used for clarification or discussion.,https://stackoverflow.com/help/privileges/comment
-Q&A Interaction,Poll,"A user-created survey or questionnaire used to gather opinions or feedback from a community.",https://help.x.com/en/using-x/x-polls
+Social Interaction,Comment,"A comment is a short, context-specific response attached to a particular piece of content for discussion or reaction.",https://stackoverflow.com/help/privileges/comment
+Social Interaction,Poll,"A user-created survey or questionnaire used to gather opinions or feedback from a community.",https://help.x.com/en/using-x/x-polls
 Online Learning,Course,"A container that organizes learning materials, assignments, and communication tools for an educational experience.",https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-a-Course/ta-p/33
 Online Learning,Assignment,An activity or assessment that students must complete as part of a course.,https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-an-Assignment/ta-p/38
 Online Learning,Study Plan,A structured plan of tasks or milestones that guide learners toward completing learning objectives.,https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-learning-objectives/ta-p/1007
@@ -41,6 +41,7 @@ Commerce,Delivery,"The process and details related to the shipment of physical g
 Commerce,Pickup,"An arrangement where customers collect purchased items from a physical location rather than having them delivered.",https://www.shopify.com/blog/local-pickup
 Reservation & Booking,Reservation,"An arrangement in which a resource such as a seat, room, or table is held for a user at a specified time.",https://dictionary.cambridge.org/dictionary/english/reservation
 Reservation & Booking,Appointment,A scheduled meeting or service time with a specific provider or professional.,https://en.wikipedia.org/wiki/Appointment_(meeting)
+Reservation & Booking,Trip,"A centralized digital container used for both organizing travel ideas and managing confirmed reservations.",https://www.expedia.com/trips
 Collaboration,Project,"A workspace that groups related tasks, artifacts, and discussions for collaborative work.",https://docs.github.com/en/issues/planning-and-tracking-with-projects
 Collaboration,Share Link,A generated URL that allows other users to access a resource without direct account permissions.,https://support.google.com/drive/answer/2494822
 Developer Collaboration,Repository,A storage location where project files and revision history are maintained.,https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
