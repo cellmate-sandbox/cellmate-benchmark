@@ -10,6 +10,8 @@ Content Creation,Content,create_content,"Create/publish/post/submit content such
 Content Creation,Content,update_content,"Edit or update content such as listing, posts, articles, media, for sharing or publication"
 Content Creation,Content,delete_content,"Delete content such as listing, posts, articles, media, for sharing or publication"
 Content Creation,Content,repost_content,Repost or share existing content to create a new post or listing
+Content Creation,Content,upvote_content,"Upvote or endorse content such as listing, posts, articles, media"
+Content Creation,Content,save_content,"Save content such as listing, posts, articles, media to a personal collection or library"
 Content Creation,Draft,create_draft,Create draft content
 Content Creation,Draft,update_draft,Edit draft content
 Content Creation,Draft,delete_draft,Delete draft
@@ -19,6 +21,8 @@ Reviews & Ratings,Review,update_review,Edit review or rating
 Reviews & Ratings,Review,delete_review,Delete review
 Reviews & Ratings,Review,upvote_review,Upvote or endorse review
 Q&A Interaction,Question,post_question,Submit new question
+Q&A Interaction,Question,delete_question,Delete question
+Q&A Interaction,Question,update_question,Edit question
 Q&A Interaction,Question,upvote_question,Endorse a question
 Q&A Interaction,Answer,post_answer,Submit answer
 Q&A Interaction,Answer,update_answer,Edit answer
