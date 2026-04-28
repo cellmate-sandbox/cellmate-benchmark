@@ -59,9 +59,18 @@
   ],
 
   "information_reference_platform": [
-    "Social Platform",
+    "Social Interaction",
     "Notifications & Subscription",
-    "Profile Management"
+    "Profile Management",
+    "Booking",
+    "Commerce",
+    "Collection Management",
+    "Communication",
+    "Content Creation",
+    "Collaboration",
+    "Monitoring & Alerts",
+    "Q&A Interaction",
+    "Reviews & Ratings"
   ],
 
   "professional_network_platform": [
