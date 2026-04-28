@@ -1,0 +1,161 @@
+{
+  "model": "gemini-2.5-pro",
+  "timestamp": "2026-04-27T16:47:34.365544",
+  "total_tasks": 51,
+  "correct_count": 42,
+  "accuracy": 0.8235294117647058,
+  "false_permissive_count": 6,
+  "false_restrictive_count": 1,
+  "incorrect_examples": [
+    {
+      "id": "1301",
+      "task": "Log in to your profile and modify your dietary preferences by selecting Pescatarian and Vegan.\nOnly use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_profile"
+      ],
+      "predicted": [
+        "update_user_preferences"
+      ],
+      "reasoning": {
+        "update_user_preferences": "The user wants to modify their dietary preferences, which is a type of user preference."
+      },
+      "raw_response": "(update_user_preferences, \"The user wants to modify their dietary preferences, which is a type of user preference.\")",
+      "error_type": "other"
+    },
+    {
+      "id": "1452",
+      "task": "Create a new reservation for two at \"Blue Box Caf\u00e9 by Daniel Boulud\" on a chosen date and time, then save the confirmation.\nOnly use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_booking"
+      ],
+      "predicted": [
+        "create_booking",
+        "add_to_trip"
+      ],
+      "reasoning": {
+        "create_booking": "Create a new reservation for two at Blue Box Caf\u00e9 by Daniel Boulud.",
+        "add_to_trip": "Save the reservation confirmation to a trip plan."
+      },
+      "raw_response": "(create_booking, \"Create a new reservation for two at Blue Box Caf\u00e9 by Daniel Boulud.\")\n(add_to_trip, \"Save the reservation confirmation to a trip plan.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "4",
+      "task": "Register a new account on Agoda with your travel preferences (such as \u201cluxury hotels\u201d and \u201ccity breaks\u201d), and update your profile with a short bio describing your travel style.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_profile"
+      ],
+      "predicted": [
+        "update_profile",
+        "update_user_preferences"
+      ],
+      "reasoning": {
+        "update_user_preferences": "To set travel preferences for 'luxury hotels' and 'city breaks'",
+        "update_profile": "To update the profile with a bio describing the user's travel style"
+      },
+      "raw_response": "(update_user_preferences, \"To set travel preferences for 'luxury hotels' and 'city breaks'\")\n(update_profile, \"To update the profile with a bio describing the user's travel style\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "5",
+      "task": "Log in to your Agoda account, add a hotel from your recent search to your favorites list, and then remove it; finally, verify that it no longer appears in your favorites.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "add_to_list",
+        "remove_from_list"
+      ],
+      "predicted": [
+        "add_to_list",
+        "remove_from_list",
+        "view_dashboard"
+      ],
+      "reasoning": {
+        "add_to_list": "add a hotel from your recent search to your favorites list",
+        "remove_from_list": "then remove it",
+        "view_dashboard": "verify that it no longer appears in your favorites"
+      },
+      "raw_response": "(add_to_list, \"add a hotel from your recent search to your favorites list\")\n(remove_from_list, \"then remove it\")\n(view_dashboard, \"verify that it no longer appears in your favorites\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "6",
+      "task": "In your Agoda account, create a temporary wishlist titled \u201cWeekend Trips,\u201d then delete the wishlist and confirm that it has been completely removed from your account.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "delete_list",
+        "create_list"
+      ],
+      "predicted": [
+        "delete_list",
+        "create_list",
+        "view_activity"
+      ],
+      "reasoning": {
+        "create_list": "To create a wishlist titled 'Weekend Trips'.",
+        "delete_list": "To delete the 'Weekend Trips' wishlist.",
+        "view_activity": "To confirm the wishlist has been removed from the account."
+      },
+      "raw_response": "(create_list, \"To create a wishlist titled 'Weekend Trips'.\")\n(delete_list, \"To delete the 'Weekend Trips' wishlist.\")\n(view_activity, \"To confirm the wishlist has been removed from the account.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "12",
+      "task": "Modify your profile settings in your Agoda account to enable email notifications for special travel offers, and then check that the subscription status is updated.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_notification_settings"
+      ],
+      "predicted": [
+        "subscribe",
+        "view_activity"
+      ],
+      "reasoning": {
+        "subscribe": "Enable email notifications for special travel offers.",
+        "view_activity": "Check that the subscription status is updated."
+      },
+      "raw_response": "(subscribe, \"Enable email notifications for special travel offers.\")\n(view_activity, \"Check that the subscription status is updated.\")",
+      "error_type": "other"
+    },
+    {
+      "id": "16",
+      "task": "Log in, go to \"Airbnb your home\" in the top right of your homepage, list a new property called \u201cCozy Downtown Loft\u201d by providing a title, detailed description, pricing, and at least three key amenities.\nOnly use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_content"
+      ],
+      "predicted": [],
+      "reasoning": {},
+      "raw_response": "nan",
+      "error_type": "restrictive"
+    },
+    {
+      "id": "20",
+      "task": "Log in to Airbnb, send a query to a host of a New York City property, and then delete your message confirming that the message does not appear on your profile.\nOnly use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "delete_message",
+        "send_message"
+      ],
+      "predicted": [
+        "delete_message",
+        "send_message",
+        "view_activity"
+      ],
+      "reasoning": {
+        "send_message": "The user wants to send a query to a host.",
+        "delete_message": "The user wants to delete the message they sent.",
+        "view_activity": "The user wants to confirm that the message does not appear on their profile."
+      },
+      "raw_response": "(send_message, \"The user wants to send a query to a host.\")\n(delete_message, \"The user wants to delete the message they sent.\")\n(view_activity, \"The user wants to confirm that the message does not appear on their profile.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "649",
+      "task": "While on the tours search page for Sydney, modify the date range to July 1\u20137 and record the updated list of available tours that appear.\nOnly use http://getyourguide.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [],
+      "predicted": [
+        "create_list"
+      ],
+      "reasoning": {
+        "create_list": "To record the updated list of available tours after modifying the date range."
+      },
+      "raw_response": "(create_list, \"To record the updated list of available tours after modifying the date range.\")",
+      "error_type": "permissive"
+    }
+  ]
+}

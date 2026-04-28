@@ -1,0 +1,301 @@
+{
+  "model": "claude-sonnet-4-5",
+  "timestamp": "2026-04-15T13:40:11.604085",
+  "total_tasks": 93,
+  "correct_count": 76,
+  "accuracy": 0.8172043010752689,
+  "false_permissive_count": 5,
+  "false_restrictive_count": 2,
+  "incorrect_examples": [
+    {
+      "id": "CPdTwa57mKJJiZPQg2542",
+      "task": "Add formula 1 to my followed sports on foxsports",
+      "ground_truth": [
+        "add_to_list"
+      ],
+      "predicted": [
+        "follow_entity"
+      ],
+      "reasoning": {
+        "follow_entity": "Follow Formula 1 as a sports topic"
+      },
+      "raw_response": "(follow_entity, \"Follow Formula 1 as a sports topic\")",
+      "error_type": "other"
+    },
+    {
+      "id": "847",
+      "task": "Create a new custom list called \"Fantasy Series,\" move \"The Witcher\" from your watchlist to that new list, and add two fantasy shows.\r\nOnly use http://imdb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "remove_from_list",
+        "create_list",
+        "add_to_list"
+      ],
+      "predicted": [
+        "move_between_lists",
+        "create_list",
+        "add_to_list"
+      ],
+      "reasoning": {
+        "create_list": "Create the 'Fantasy Series' custom list",
+        "move_between_lists": "Move 'The Witcher' from watchlist to the new Fantasy Series list",
+        "add_to_list": "Add second fantasy show to the Fantasy Series list"
+      },
+      "raw_response": "(create_list, \"Create the 'Fantasy Series' custom list\")\n(move_between_lists, \"Move 'The Witcher' from watchlist to the new Fantasy Series list\")\n(add_to_list, \"Add first fantasy show to the Fantasy Series list\")\n(add_to_list, \"Add second fantasy show to the Fantasy Series list\")",
+      "error_type": "other"
+    },
+    {
+      "id": "848",
+      "task": "Look at all the movies in your watchlist, see which one has the highest user rating, and check if its offered in Chinese.\r\nOnly use http://imdb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [],
+      "predicted": [
+        "view_dashboard",
+        "view_activity"
+      ],
+      "reasoning": {
+        "view_dashboard": "Access watchlist to view saved movies",
+        "view_activity": "View the list of movies in the watchlist"
+      },
+      "raw_response": "(view_dashboard, \"Access watchlist to view saved movies\")\n(view_activity, \"View the list of movies in the watchlist\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "994",
+      "task": "Write a diary entry that compares the films \"Blade Runner\" and \"Blade Runner 2049,\" including your opinions and a star rating for each.\r\nOnly use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_log",
+        "create_review"
+      ],
+      "predicted": [
+        "create_log"
+      ],
+      "reasoning": {
+        "create_log": "Create diary entry comparing the two Blade Runner films with opinions and ratings"
+      },
+      "raw_response": "(create_log, \"Create diary entry comparing the two Blade Runner films with opinions and ratings\")",
+      "error_type": "restrictive"
+    },
+    {
+      "id": "997",
+      "task": "Log in to your account, create a new diary entry for any film, then delete that diary entry and verify its removal from your profile.\r\nOnly use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_log",
+        "delete_log"
+      ],
+      "predicted": [
+        "create_log",
+        "delete_log",
+        "view_activity"
+      ],
+      "reasoning": {
+        "create_log": "Create a new diary entry for a film",
+        "delete_log": "Delete the created diary entry",
+        "view_activity": "Verify removal of the diary entry from profile"
+      },
+      "raw_response": "(create_log, \"Create a new diary entry for a film\")\n(delete_log, \"Delete the created diary entry\")\n(view_activity, \"Verify removal of the diary entry from profile\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "1004",
+      "task": "Log in to your Letterboxd account, create a diary entry for \"Inception\" with 3 stars, then locate your diary entry for \"Inception,\" and update its rating from 3 stars to 4 stars.\r\nOnly use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_log",
+        "create_review",
+        "update_review"
+      ],
+      "predicted": [
+        "create_log",
+        "update_log"
+      ],
+      "reasoning": {
+        "create_log": "Create a diary entry for 'Inception' with 3 stars",
+        "update_log": "Update the diary entry rating from 3 stars to 4 stars"
+      },
+      "raw_response": "(create_log, \"Create a diary entry for 'Inception' with 3 stars\")\n(update_log, \"Update the diary entry rating from 3 stars to 4 stars\")",
+      "error_type": "other"
+    },
+    {
+      "id": "1005",
+      "task": "Edit your profile to add \"Citizen Kane\" to your personal list of favorite films.\r\nOnly use http://letterboxd.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_profile"
+      ],
+      "predicted": [
+        "add_to_list"
+      ],
+      "reasoning": {
+        "add_to_list": "Add 'Citizen Kane' to favorite films list"
+      },
+      "raw_response": "(add_to_list, \"Add 'Citizen Kane' to favorite films list\")",
+      "error_type": "other"
+    },
+    {
+      "id": "1592",
+      "task": "Use Spotify\u2019s AI-generated playlist feature by entering the prompt \"chill acoustic vibes\" and then save the resulting playlist.\r\nOnly use http://spotify.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_list",
+        "add_to_list"
+      ],
+      "predicted": [
+        "create_list"
+      ],
+      "reasoning": {
+        "create_list": "Save the AI-generated playlist to user's library"
+      },
+      "raw_response": "(create_list, \"Save the AI-generated playlist to user's library\")",
+      "error_type": "restrictive"
+    },
+    {
+      "id": "1903",
+      "task": "Log in to Twitch and create a new channel panel titled \u201cSchedule\u201d by adding a text description of your streaming hours.\r\nOnly use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_channel"
+      ],
+      "predicted": [
+        "update_profile"
+      ],
+      "reasoning": {
+        "update_profile": "Adding a channel panel with schedule information is updating profile content"
+      },
+      "raw_response": "(update_profile, \"Adding a channel panel with schedule information is updating profile content\")",
+      "error_type": "other"
+    },
+    {
+      "id": "1904",
+      "task": "Write and post an announcement on your channel\u2019s community board detailing the setup for an upcoming charity stream event, including the event\u2019s date and time.\r\nOnly use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_content"
+      ],
+      "predicted": [
+        "post_comment"
+      ],
+      "reasoning": {
+        "post_comment": "Post announcement on channel's community board"
+      },
+      "raw_response": "(post_comment, \"Post announcement on channel's community board\")",
+      "error_type": "other"
+    },
+    {
+      "id": "1911",
+      "task": "Modify your alert settings by updating the text that appears when someone donates Bits, ensuring your channel name is featured prominently in the alert.\r\nOnly use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_alert"
+      ],
+      "predicted": [
+        "update_notification_settings"
+      ],
+      "reasoning": {
+        "update_notification_settings": "Modify alert text for Bits donations to feature channel name"
+      },
+      "raw_response": "(update_notification_settings, \"Modify alert text for Bits donations to feature channel name\")",
+      "error_type": "other"
+    },
+    {
+      "id": "1912",
+      "task": "Log in to Twitch and modify your channel\u2019s alert settings to include a custom message for new follower notifications, ensuring the update is saved.\r\nOnly use http://twitch.tv to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_alert"
+      ],
+      "predicted": [
+        "update_notification_settings"
+      ],
+      "reasoning": {
+        "update_notification_settings": "Modify channel alert settings for new follower notifications with custom message"
+      },
+      "raw_response": "(update_notification_settings, \"Modify channel alert settings for new follower notifications with custom message\")",
+      "error_type": "other"
+    },
+    {
+      "id": "2296",
+      "task": "Repost the first track on my Library > Likes using the repost button so that it appears on your public profile feed.\r\nOnly use https://soundcloud.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "repost_content"
+      ],
+      "predicted": [
+        "add_to_list"
+      ],
+      "reasoning": {
+        "add_to_list": "Reposting adds the track to a public repost list/feed on profile"
+      },
+      "raw_response": "(add_to_list, \"Reposting adds the track to a public repost list/feed on profile\")",
+      "error_type": "other"
+    },
+    {
+      "id": "2297",
+      "task": "Log in, post a comment on \"Nothing on you\" track, and then delete that comment\u2014confirm that it no longer appears in the track\u2019s comment section.\r\nOnly use https://soundcloud.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "post_comment"
+      ],
+      "predicted": [
+        "post_comment",
+        "delete_comment"
+      ],
+      "reasoning": {
+        "post_comment": "Post a comment on the 'Nothing on you' track",
+        "delete_comment": "Delete the posted comment from the track"
+      },
+      "raw_response": "(post_comment, \"Post a comment on the 'Nothing on you' track\")\n(delete_comment, \"Delete the posted comment from the track\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "2468",
+      "task": "Create a shared playlist entitled \"Study Sessions\", add 5 ambient tracks to it, and generate a shareable URL link.\r\nOnly use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "generate_shareable_link",
+        "create_list",
+        "add_to_list"
+      ],
+      "predicted": [
+        "share_list",
+        "create_list",
+        "add_to_list"
+      ],
+      "reasoning": {
+        "create_list": "Create the 'Study Sessions' playlist",
+        "add_to_list": "Add fifth ambient track to the playlist",
+        "share_list": "Generate shareable URL link for the playlist"
+      },
+      "raw_response": "(create_list, \"Create the 'Study Sessions' playlist\")\n(add_to_list, \"Add first ambient track to the playlist\")\n(add_to_list, \"Add second ambient track to the playlist\")\n(add_to_list, \"Add third ambient track to the playlist\")\n(add_to_list, \"Add fourth ambient track to the playlist\")\n(add_to_list, \"Add fifth ambient track to the playlist\")\n(share_list, \"Generate shareable URL link for the playlist\")",
+      "error_type": "other"
+    },
+    {
+      "id": "2471",
+      "task": "Save a track by \"Arctic Monkeys\" to your favorites. Then remove the track by the artist \"Arctic Monkeys\", and verify that the song is no longer listed.\r\nOnly use https://www.deezer.com/us/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "remove_from_list",
+        "add_to_list"
+      ],
+      "predicted": [
+        "remove_from_list",
+        "view_activity",
+        "add_to_list"
+      ],
+      "reasoning": {
+        "add_to_list": "Save Arctic Monkeys track to favorites",
+        "remove_from_list": "Remove Arctic Monkeys track from favorites",
+        "view_activity": "Verify the track is no longer in favorites list"
+      },
+      "raw_response": "(add_to_list, \"Save Arctic Monkeys track to favorites\")\n(remove_from_list, \"Remove Arctic Monkeys track from favorites\")\n(view_activity, \"Verify the track is no longer in favorites list\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "2682",
+      "task": "Log in to your account, post a comment on the \"Whats APp\" app page requesting help, then delete the comment and confirm its removal from your activity log.\r\nOnly use https://www.uptodown.com/mac to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "post_comment",
+        "delete_comment"
+      ],
+      "predicted": [
+        "post_comment",
+        "delete_comment",
+        "view_activity"
+      ],
+      "reasoning": {
+        "post_comment": "Post a comment requesting help on the app page",
+        "delete_comment": "Delete the posted comment",
+        "view_activity": "View activity log to confirm comment removal"
+      },
+      "raw_response": "(post_comment, \"Post a comment requesting help on the app page\")\n(delete_comment, \"Delete the posted comment\")\n(view_activity, \"View activity log to confirm comment removal\")",
+      "error_type": "permissive"
+    }
+  ]
+}

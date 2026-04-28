@@ -27,11 +27,11 @@ Only use http://glassdoor.com to achieve the task. Don't go to any other site. T
 Only use http://glassdoor.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.glassdoor.com/index.htm,webbench_career,career_professional,professional_network_platform,"['create_review', 'update_review']"
 1009,"Log in and create a new text post about your recent professional success, tagging two colleagues.
 Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.linkedin.com,webbench_career,career_professional,professional_network_platform,['create_content']
-1010,"Publish a long-form article titled "The Future of Remote Work" using LinkedIn's article editor, complete with an introduction and body text.
+1010,"Publish a long-form article titled ""The Future of Remote Work"" using LinkedIn's article editor, complete with an introduction and body text.
 Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.linkedin.com,webbench_career,career_professional,professional_network_platform,['create_content']
 1011,"Create a Linkedin update post suggesting you got a job promotion and are now a Senior Associate at McKinsey.
 Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.linkedin.com,webbench_career,career_professional,professional_network_platform,['create_content']
-1012,"Initiate a poll asking your network "What is your preferred work-from-home setup?" with four distinct answer options.
+1012,"Initiate a poll asking your network ""What is your preferred work-from-home setup?"" with four distinct answer options.
 Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.linkedin.com,webbench_career,career_professional,professional_network_platform,['create_poll']
 1013,"Write a direct message to a new connection thanking them for connecting and mentioning a shared professional interest.
 Only use http://linkedin.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",https://www.linkedin.com,webbench_career,career_professional,professional_network_platform,['send_message']

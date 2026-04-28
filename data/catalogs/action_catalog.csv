@@ -49,12 +49,11 @@ Monitoring & Alerts,Alert,create_alert,Create a user-defined condition-based ale
 Monitoring & Alerts,Alert,update_alert,"Modify user-defined condition-based alert conditions, delivery settings, or saved search parameters"
 Monitoring & Alerts,Alert,delete_alert,"Delete user-defined condition-based alert, saved search, or notification"
 Profile Management,Profile,update_profile,"Edit profile information such as name, bio, profile picture, and other personal details."
-Profile Management,Settings,update_language_preferences,Update language settings
 Profile Management,Settings,update_privacy_settings,Change privacy settings
-Profile Management,Settings,update_user_preferences,"Update general personalization settings (interests, recommendations, default choices,etc.)"
+Profile Management,Settings,update_user_preferences,"Update general personalization settings (language, currency, interests, recommendations, default choices, etc.)"
 Profile Management,Account Info,update_contact_information,"Change contact details, including email, location, and phone number"
 Profile Management,Account Info,update_address_and_payment,"Change address (delivery and pickup addresses) and payment settings on user's account"
-Profile Management,Membership,start_membership,Join or renew paid membership
+Profile Management,Membership,start_membership,Join or renew paid membership. Does not include one-time purchases.
 Profile Management,Membership,cancel_membership,Cancel paid membership
 Profile Management,Membership,setup_auto_renewal,Enable automatic membership renewal
 Profile Management,Membership,cancel_auto_renewal,Disable automatic membership renewal
@@ -77,7 +76,7 @@ Commerce,TradeIn,trade_in_item,Trade in item for credit
 Commerce,Payment,add_payment_method,Add payment method
 Commerce,Payment,remove_payment_method,Remove payment method
 Commerce,My Store,change_my_store,Change store preference or default store
-Booking,Booking,create_booking,"Make reservation for a resource such as a seat, room, table, or service at a specified time"
+Booking,Booking,create_booking,"Make reservation for a resource such as a seat, room, table, service or pass at a specified time"
 Booking,Booking,update_booking,"Modify reservation details such as time, date, or resource"
 Booking,Booking,cancel_booking,Cancel reservation
 Trip,Trip,create_trip,Create travel itinerary or plan

@@ -326,9 +326,9 @@ def main(data_path: str, model_name: str):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     safe_model = model_name.replace("/", "_")
 
-    csv_path = os.path.join(output_dir, f"results_{app_type}_{safe_model}_{timestamp}.csv")
-    results_df.to_csv(csv_path, index=False)
-    print(f"📝 Results saved to {csv_path}")
+    # csv_path = os.path.join(output_dir, f"results_{app_type}_{safe_model}_{timestamp}.csv")
+    # results_df.to_csv(csv_path, index=False)
+    # print(f"📝 Results saved to {csv_path}")
 
     json_path = os.path.join(output_dir, f"summary_{app_type}_{safe_model}_{timestamp}.json")
     with open(json_path, "w") as f:

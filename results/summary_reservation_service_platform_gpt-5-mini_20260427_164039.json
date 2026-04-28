@@ -1,0 +1,208 @@
+{
+  "model": "gpt-5-mini",
+  "timestamp": "2026-04-27T16:40:39.800232",
+  "total_tasks": 51,
+  "correct_count": 40,
+  "accuracy": 0.7843137254901961,
+  "false_permissive_count": 8,
+  "false_restrictive_count": 1,
+  "incorrect_examples": [
+    {
+      "id": "1295",
+      "task": "Log in to your account, create a reservation at PF Chang's and add a dining note \"Allergic to nuts\" to your upcoming reservation\nOnly use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_booking"
+      ],
+      "predicted": [
+        "update_booking",
+        "create_booking"
+      ],
+      "reasoning": {
+        "create_booking": "Create a PF Chang's reservation on OpenTable.",
+        "update_booking": "Add dining note 'Allergic to nuts' to the upcoming reservation."
+      },
+      "raw_response": "(create_booking, \"Create a PF Chang's reservation on OpenTable.\")\n(update_booking, \"Add dining note 'Allergic to nuts' to the upcoming reservation.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "1301",
+      "task": "Log in to your profile and modify your dietary preferences by selecting Pescatarian and Vegan.\nOnly use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_profile"
+      ],
+      "predicted": [
+        "update_user_preferences"
+      ],
+      "reasoning": {
+        "update_user_preferences": "Log into OpenTable and select Pescatarian and Vegan dietary preferences."
+      },
+      "raw_response": "(update_user_preferences, \"Log into OpenTable and select Pescatarian and Vegan dietary preferences.\")",
+      "error_type": "other"
+    },
+    {
+      "id": "1458",
+      "task": "Build a favorites list on Resy by adding the restaurants \"Sushi Lin Upper West Side,\" \"Passerine,\" and \"Hutong New York.\"\nOnly use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "add_to_list",
+        "create_list"
+      ],
+      "predicted": [
+        "add_to_list"
+      ],
+      "reasoning": {
+        "add_to_list": "Add the three specified restaurants to the user's Favorites on resy.com."
+      },
+      "raw_response": "(add_to_list, \"Add the three specified restaurants to the user's Favorites on resy.com.\")",
+      "error_type": "restrictive"
+    },
+    {
+      "id": "3",
+      "task": "Create a new wishlist titled \u201cSummer Getaways\u201d in your Agoda account and add a hotel from Miami, Florida to it; then confirm the wishlist displays the hotel\u2019s name and location.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "add_to_list",
+        "create_list"
+      ],
+      "predicted": [
+        "add_to_list",
+        "view_dashboard",
+        "create_list"
+      ],
+      "reasoning": {
+        "create_list": "Create wishlist titled 'Summer Getaways'",
+        "add_to_list": "Add chosen Miami, Florida hotel to the wishlist",
+        "view_dashboard": "Open wishlist/dashboard to confirm the hotel's name and location are displayed"
+      },
+      "raw_response": "(create_list, \"Create wishlist titled 'Summer Getaways'\") \n(add_to_list, \"Add chosen Miami, Florida hotel to the wishlist\") \n(view_dashboard, \"Open wishlist/dashboard to confirm the hotel's name and location are displayed\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "4",
+      "task": "Register a new account on Agoda with your travel preferences (such as \u201cluxury hotels\u201d and \u201ccity breaks\u201d), and update your profile with a short bio describing your travel style.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_profile"
+      ],
+      "predicted": [
+        "update_profile",
+        "update_user_preferences"
+      ],
+      "reasoning": {
+        "update_user_preferences": "Set travel preferences such as 'luxury hotels' and 'city breaks'.",
+        "update_profile": "Add a short bio describing travel style to the user profile."
+      },
+      "raw_response": "(update_user_preferences, \"Set travel preferences such as 'luxury hotels' and 'city breaks'.\")\n(update_profile, \"Add a short bio describing travel style to the user profile.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "5",
+      "task": "Log in to your Agoda account, add a hotel from your recent search to your favorites list, and then remove it; finally, verify that it no longer appears in your favorites.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "remove_from_list",
+        "add_to_list"
+      ],
+      "predicted": [
+        "remove_from_list",
+        "view_dashboard",
+        "add_to_list"
+      ],
+      "reasoning": {
+        "add_to_list": "Add the hotel from recent search to the user's favorites list.",
+        "remove_from_list": "Remove the hotel from the user's favorites list.",
+        "view_dashboard": "Open the user's dashboard/favorites to verify the hotel no longer appears."
+      },
+      "raw_response": "(add_to_list, \"Add the hotel from recent search to the user's favorites list.\")\n(remove_from_list, \"Remove the hotel from the user's favorites list.\")\n(view_dashboard, \"Open the user's dashboard/favorites to verify the hotel no longer appears.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "16",
+      "task": "Log in, go to \"Airbnb your home\" in the top right of your homepage, list a new property called \u201cCozy Downtown Loft\u201d by providing a title, detailed description, pricing, and at least three key amenities.\nOnly use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_content"
+      ],
+      "predicted": [
+        "create_list",
+        "update_list_metadata"
+      ],
+      "reasoning": {
+        "create_list": "Create a new property listing for 'Cozy Downtown Loft' on Airbnb.",
+        "update_list_metadata": "Provide title, detailed description, pricing, and at least three key amenities for the listing."
+      },
+      "raw_response": "(create_list, \"Create a new property listing for 'Cozy Downtown Loft' on Airbnb.\")\n(update_list_metadata, \"Provide title, detailed description, pricing, and at least three key amenities for the listing.\")",
+      "error_type": "other"
+    },
+    {
+      "id": "472",
+      "task": "Log in to Expedia and create a new trip plan called \u201cBeach Getaway\u201d that includes a saved beachfront hotel booking for Cancun. \nOnly use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "add_to_trip",
+        "create_trip"
+      ],
+      "predicted": [
+        "add_to_trip",
+        "create_booking",
+        "create_trip"
+      ],
+      "reasoning": {
+        "create_trip": "Create a trip plan named 'Beach Getaway'.",
+        "create_booking": "Reserve/save a beachfront hotel booking in Cancun on Expedia.",
+        "add_to_trip": "Add the saved Cancun beachfront hotel booking to the 'Beach Getaway' trip."
+      },
+      "raw_response": "(create_trip, \"Create a trip plan named 'Beach Getaway'.\")\n(create_booking, \"Reserve/save a beachfront hotel booking in Cancun on Expedia.\")\n(add_to_trip, \"Add the saved Cancun beachfront hotel booking to the 'Beach Getaway' trip.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "478",
+      "task": "Log in to your Expedia account, create a trip titled \u201cTravel Finds,\u201d then remove it from your account and verify that it no longer appears in your saved lists.\nOnly use http://expedia.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "delete_trip",
+        "create_trip"
+      ],
+      "predicted": [
+        "delete_trip",
+        "view_dashboard",
+        "create_trip"
+      ],
+      "reasoning": {
+        "create_trip": "Create the trip titled 'Travel Finds'.",
+        "view_dashboard": "Open the user dashboard/saved lists to verify presence/absence.",
+        "delete_trip": "Remove the 'Travel Finds' trip from the account."
+      },
+      "raw_response": "(create_trip, \"Create the trip titled 'Travel Finds'.\")\n(view_dashboard, \"Open the user dashboard/saved lists to verify presence/absence.\")\n(delete_trip, \"Remove the 'Travel Finds' trip from the account.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "648",
+      "task": "Log in and create a new wishlist titled \"Paris Getaway\"; then add the \"Paris River Cruise\" tour to it and confirm that the wishlist now includes this activity.\nOnly use http://getyourguide.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "add_to_list",
+        "create_list"
+      ],
+      "predicted": [
+        "add_to_list",
+        "view_dashboard",
+        "create_list"
+      ],
+      "reasoning": {
+        "create_list": "Create wishlist titled 'Paris Getaway'.",
+        "add_to_list": "Add the 'Paris River Cruise' tour to the wishlist.",
+        "view_dashboard": "Confirm the wishlist now includes this activity."
+      },
+      "raw_response": "(create_list, \"Create wishlist titled 'Paris Getaway'.\")\n(add_to_list, \"Add the 'Paris River Cruise' tour to the wishlist.\")\n(view_dashboard, \"Confirm the wishlist now includes this activity.\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "649",
+      "task": "While on the tours search page for Sydney, modify the date range to July 1\u20137 and record the updated list of available tours that appear.\nOnly use http://getyourguide.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [],
+      "predicted": [
+        "add_to_list",
+        "create_list"
+      ],
+      "reasoning": {
+        "create_list": "Create a new list to save the Sydney tours for July 1\u20137 on GetYourGuide.",
+        "add_to_list": "Add each available tour from the updated search results into the created list to record them."
+      },
+      "raw_response": "(create_list, \"Create a new list to save the Sydney tours for July 1\u20137 on GetYourGuide.\")\n(add_to_list, \"Add each available tour from the updated search results into the created list to record them.\")",
+      "error_type": "permissive"
+    }
+  ]
+}

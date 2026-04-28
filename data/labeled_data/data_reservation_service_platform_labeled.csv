@@ -1,6 +1,6 @@
 index,task,url,source,functional_category,profile,actions
 FoP8QZ-JiAcVODUHGQj8v,"Buy a single day pass to Six Flags, Magic Mountain in sixflags",https://www.sixflags.com,mind_2_web_train,travel_booking,reservation_service_platform,"['create_booking']"
-BFldiHVgJokdXs0UEIbuK,Change the language to UK English and the currency to Euros in thetrainline,https://www.thetrainline.com,mind_2_web_train,travel_booking,reservation_service_platform,['update_language_preferences']
+BFldiHVgJokdXs0UEIbuK,Change the language to UK English and the currency to Euros in thetrainline,https://www.thetrainline.com,mind_2_web_train,travel_booking,reservation_service_platform,['update_user_preferences']
 A4-lOKiaLuPDD4VO0MJY6,Book 2 tickets for stand-up comedian Dave Chappelle and the roots shows in ticketcenter,https://www.ticketcenter.com,mind_2_web_train,travel_booking,reservation_service_platform,['create_booking']
 jfjr1xGSPsucAuuUEBwCR,Add to my wish list the highest rated activity in Amsterdam on viator,https://www.viator.com,mind_2_web_test,travel_booking,reservation_service_platform,['add_to_list']
 Booking--6,"Book one room which provides breakfast, and airport shuttle from Jan 22 to 25 in Los Angeles.",https://www.booking.com,web_voyager,travel_booking,reservation_service_platform,['create_booking']

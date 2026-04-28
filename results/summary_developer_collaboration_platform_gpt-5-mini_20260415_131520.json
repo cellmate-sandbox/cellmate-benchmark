@@ -1,0 +1,29 @@
+{
+  "model": "gpt-5-mini",
+  "timestamp": "2026-04-15T13:15:20.024452",
+  "total_tasks": 18,
+  "correct_count": 17,
+  "accuracy": 0.9444444444444444,
+  "false_permissive_count": 0,
+  "false_restrictive_count": 0,
+  "incorrect_examples": [
+    {
+      "id": 672,
+      "task": "Create a repository named \"sample-repo-2\" then change the branch protection rules for the \"main\" branch in your repository to require at least one approving review before merging any changes.\nOnly use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "add_branch_protection_rule",
+        "create_repository"
+      ],
+      "predicted": [
+        "create_ruleset",
+        "create_repository"
+      ],
+      "reasoning": {
+        "create_repository": "Create repository named 'sample-repo-2'.",
+        "create_ruleset": "Require at least one approving review on the 'main' branch."
+      },
+      "raw_response": "(create_repository, \"Create repository named 'sample-repo-2'.\")\n(create_ruleset, \"Require at least one approving review on the 'main' branch.\")",
+      "error_type": "other"
+    }
+  ]
+}

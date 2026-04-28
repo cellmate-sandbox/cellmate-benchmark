@@ -1,0 +1,46 @@
+{
+  "model": "claude-sonnet-4-5",
+  "timestamp": "2026-04-15T13:13:58.564471",
+  "total_tasks": 18,
+  "correct_count": 16,
+  "accuracy": 0.8888888888888888,
+  "false_permissive_count": 1,
+  "false_restrictive_count": 0,
+  "incorrect_examples": [
+    {
+      "id": 650,
+      "task": "Create a new public repository named \"MyFirstProject\" with an initial README file using GitHub\u2019s web interface.\nOnly use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_repository"
+      ],
+      "predicted": [
+        "create_file",
+        "create_repository"
+      ],
+      "reasoning": {
+        "create_repository": "Create the new public repository named MyFirstProject",
+        "create_file": "Create the initial README file in the repository"
+      },
+      "raw_response": "(create_repository, \"Create the new public repository named MyFirstProject\")\n(create_file, \"Create the initial README file in the repository\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": 672,
+      "task": "Create a repository named \"sample-repo-2\" then change the branch protection rules for the \"main\" branch in your repository to require at least one approving review before merging any changes.\nOnly use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "add_branch_protection_rule",
+        "create_repository"
+      ],
+      "predicted": [
+        "create_repository",
+        "create_ruleset"
+      ],
+      "reasoning": {
+        "create_repository": "Create the repository named 'sample-repo-2'",
+        "create_ruleset": "Set branch protection rules requiring at least one approving review for the main branch"
+      },
+      "raw_response": "(create_repository, \"Create the repository named 'sample-repo-2'\")\n(create_ruleset, \"Set branch protection rules requiring at least one approving review for the main branch\")",
+      "error_type": "other"
+    }
+  ]
+}

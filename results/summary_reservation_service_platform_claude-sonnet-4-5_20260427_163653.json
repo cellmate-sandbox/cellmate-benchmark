@@ -1,0 +1,136 @@
+{
+  "model": "claude-sonnet-4-5",
+  "timestamp": "2026-04-27T16:36:53.660729",
+  "total_tasks": 51,
+  "correct_count": 43,
+  "accuracy": 0.8431372549019608,
+  "false_permissive_count": 5,
+  "false_restrictive_count": 1,
+  "incorrect_examples": [
+    {
+      "id": "1295",
+      "task": "Log in to your account, create a reservation at PF Chang's and add a dining note \"Allergic to nuts\" to your upcoming reservation\nOnly use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_booking"
+      ],
+      "predicted": [
+        "update_booking",
+        "create_booking"
+      ],
+      "reasoning": {
+        "create_booking": "Create reservation at PF Chang's",
+        "update_booking": "Add dining note about nut allergy to reservation"
+      },
+      "raw_response": "(create_booking, \"Create reservation at PF Chang's\")\n(update_booking, \"Add dining note about nut allergy to reservation\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "1301",
+      "task": "Log in to your profile and modify your dietary preferences by selecting Pescatarian and Vegan.\nOnly use http://opentable.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_profile"
+      ],
+      "predicted": [
+        "update_user_preferences"
+      ],
+      "reasoning": {
+        "update_user_preferences": "Update dietary preferences to Pescatarian and Vegan"
+      },
+      "raw_response": "(update_user_preferences, \"Update dietary preferences to Pescatarian and Vegan\")",
+      "error_type": "other"
+    },
+    {
+      "id": "1463",
+      "task": "Set up a dining event alert on Resy by subscribing to notifications for last-minute table openings at \"Nobu\" over the upcoming weekend.\nOnly use http://resy.com/ to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "subscribe"
+      ],
+      "predicted": [
+        "update_notification_settings"
+      ],
+      "reasoning": {
+        "update_notification_settings": "Enable alerts for last-minute table openings at Nobu for the upcoming weekend"
+      },
+      "raw_response": "(update_notification_settings, \"Enable alerts for last-minute table openings at Nobu for the upcoming weekend\")",
+      "error_type": "other"
+    },
+    {
+      "id": "4",
+      "task": "Register a new account on Agoda with your travel preferences (such as \u201cluxury hotels\u201d and \u201ccity breaks\u201d), and update your profile with a short bio describing your travel style.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_profile"
+      ],
+      "predicted": [
+        "update_profile",
+        "update_user_preferences"
+      ],
+      "reasoning": {
+        "update_user_preferences": "Set travel preferences like luxury hotels and city breaks",
+        "update_profile": "Add bio describing travel style"
+      },
+      "raw_response": "(update_user_preferences, \"Set travel preferences like luxury hotels and city breaks\")\n(update_profile, \"Add bio describing travel style\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "12",
+      "task": "Modify your profile settings in your Agoda account to enable email notifications for special travel offers, and then check that the subscription status is updated.\nOnly use http://agoda.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "update_notification_settings"
+      ],
+      "predicted": [
+        "update_notification_settings",
+        "view_dashboard"
+      ],
+      "reasoning": {
+        "update_notification_settings": "Enable email notifications for special travel offers",
+        "view_dashboard": "Check that the subscription status is updated"
+      },
+      "raw_response": "(update_notification_settings, \"Enable email notifications for special travel offers\")\n(view_dashboard, \"Check that the subscription status is updated\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "16",
+      "task": "Log in, go to \"Airbnb your home\" in the top right of your homepage, list a new property called \u201cCozy Downtown Loft\u201d by providing a title, detailed description, pricing, and at least three key amenities.\nOnly use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_content"
+      ],
+      "predicted": [],
+      "reasoning": {},
+      "raw_response": "nan",
+      "error_type": "restrictive"
+    },
+    {
+      "id": "20",
+      "task": "Log in to Airbnb, send a query to a host of a New York City property, and then delete your message confirming that the message does not appear on your profile.\nOnly use http://airbnb.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "send_message",
+        "delete_message"
+      ],
+      "predicted": [
+        "send_message",
+        "delete_message",
+        "view_activity"
+      ],
+      "reasoning": {
+        "send_message": "Send inquiry to the host of the NYC property",
+        "delete_message": "Delete the sent message",
+        "view_activity": "Verify the message no longer appears on profile"
+      },
+      "raw_response": "(send_message, \"Send inquiry to the host of the NYC property\")\n(delete_message, \"Delete the sent message\")\n(view_activity, \"Verify the message no longer appears on profile\")",
+      "error_type": "permissive"
+    },
+    {
+      "id": "649",
+      "task": "While on the tours search page for Sydney, modify the date range to July 1\u20137 and record the updated list of available tours that appear.\nOnly use http://getyourguide.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [],
+      "predicted": [
+        "update_booking"
+      ],
+      "reasoning": {
+        "update_booking": "Modify the date range for the tour search to July 1-7"
+      },
+      "raw_response": "(update_booking, \"Modify the date range for the tour search to July 1-7\")",
+      "error_type": "permissive"
+    }
+  ]
+}

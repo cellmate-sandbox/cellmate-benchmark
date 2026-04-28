@@ -1,0 +1,29 @@
+{
+  "model": "gemini-2.5-flash",
+  "timestamp": "2026-04-15T13:15:47.827598",
+  "total_tasks": 18,
+  "correct_count": 17,
+  "accuracy": 0.9444444444444444,
+  "false_permissive_count": 0,
+  "false_restrictive_count": 0,
+  "incorrect_examples": [
+    {
+      "id": 672,
+      "task": "Create a repository named \"sample-repo-2\" then change the branch protection rules for the \"main\" branch in your repository to require at least one approving review before merging any changes.\nOnly use http://github.com to achieve the task. Don't go to any other site. The task is achievable with just navigation from this site.",
+      "ground_truth": [
+        "create_repository",
+        "add_branch_protection_rule"
+      ],
+      "predicted": [
+        "create_repository",
+        "create_ruleset"
+      ],
+      "reasoning": {
+        "create_repository": "To create a new repository named 'sample-repo-2'.",
+        "create_ruleset": "To change branch protection rules for the 'main' branch, requiring one approving review."
+      },
+      "raw_response": "(create_repository, \"To create a new repository named 'sample-repo-2'.\")\n(create_ruleset, \"To change branch protection rules for the 'main' branch, requiring one approving review.\")",
+      "error_type": "other"
+    }
+  ]
+}
